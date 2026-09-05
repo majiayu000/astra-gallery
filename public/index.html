@@ -41,6 +41,13 @@
       border-bottom: 1px solid var(--line);
       margin-bottom: 28px;
     }
+    .hero-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
     .kicker {
       font-family: "IBM Plex Mono", monospace;
       font-size: 12px;
@@ -48,6 +55,18 @@
       text-transform: uppercase;
       color: var(--accent);
     }
+    .lang-toggle {
+      border: 1px solid var(--line);
+      background: var(--panel);
+      color: var(--text);
+      border-radius: 999px;
+      padding: 7px 14px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      font-family: "IBM Plex Mono", monospace;
+    }
+    .lang-toggle:hover { border-color: var(--accent); color: var(--accent); }
     h1 {
       margin: 0;
       font-size: clamp(28px, 5vw, 44px);
@@ -106,7 +125,23 @@
       flex-direction: column;
       gap: 10px;
       min-height: 210px;
+      overflow: hidden;
     }
+    .card-media {
+      margin: -16px -16px 0;
+      border-radius: 16px 16px 0 0;
+      overflow: hidden;
+      background: #0a0c10;
+      aspect-ratio: 16 / 9;
+    }
+    .card-media img,
+    .card-media video {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .card-media video { background: #000; }
     .card h3 { margin: 0; font-size: 17px; letter-spacing: -0.01em; }
     .card p { margin: 0; color: var(--muted); font-size: 14px; flex: 1; }
     .meta { display: flex; flex-wrap: wrap; gap: 6px; }
@@ -145,28 +180,32 @@
 <body>
   <div class="wrap">
     <header class="hero">
-      <div class="kicker">Verified builds only</div>
-      <h1>Astra Gallery</h1>
-      <p class="lead">GPT-6 Astra 的窄站图库：只收能点开源链接的作品与评测。有成本就写成本，有争议也放进来。</p>
+      <div class="hero-top">
+        <div class="kicker" id="ui-kicker">Verified builds only</div>
+        <button type="button" class="lang-toggle" id="lang-toggle" aria-label="Toggle language">中文</button>
+      </div>
+      <h1 id="ui-title">Astra Gallery</h1>
+      <p class="lead" id="ui-lead">GPT-6 Astra 的窄站图库：只收能点开源链接的作品与评测。有成本就写成本，有争议也放进来。</p>
       <div class="actions">
         <a class="btn primary" href="https://github.com/majiayu000/astra-gallery/issues/new" id="submit-link">提交一条</a>
-        <a class="btn" href="#grid">浏览条目</a>
-        <a class="btn" href="https://developers.openai.com/blog/how-to-build-games-with-astra">官方游戏教程</a>
+        <a class="btn" href="#grid" id="browse-link">浏览条目</a>
+        <a class="btn" href="https://developers.openai.com/blog/how-to-build-games-with-astra" id="games-link">官方游戏教程</a>
       </div>
       <div class="stats" id="stats">加载中…</div>
     </header>
 
-    <div class="note">开源仓库 <a href="https://github.com/majiayu000/astra-gallery">majiayu000/astra-gallery</a> · 建议域名 <code>astra-gallery.com</code></div>
+    <div class="note" id="repo-note">开源仓库 <a href="https://github.com/majiayu000/astra-gallery">majiayu000/astra-gallery</a> · 建议域名 <code>astra-gallery.com</code></div>
 
     <div class="filters" id="filters"></div>
     <div class="grid" id="grid"></div>
 
-    <footer>
+    <footer id="ui-footer">
       Astra Gallery · 独立策展，与 OpenAI 无关 · 源码稍后公开 · 数据来自公开帖与官方文，不做保证效果。
     </footer>
   </div>
   <script>
-    const CAT_LABEL = {
+    const LANG_KEY = "astra-gallery-lang";
+    const FALLBACK_CAT = {
       "computer-use": "Computer use",
       "3d-spatial": "3D / Spatial",
       "coding-agent": "Coding agent",
@@ -178,26 +217,105 @@
     };
 
     let entries = [];
+    let catalogUpdated = "—";
     let active = "all";
+    let lang = "zh";
+    let i18n = {};
 
-    async function load() {
-      const res = await fetch("./entries.json");
-      const data = await res.json();
-      entries = data.entries || [];
-      document.getElementById("stats").innerHTML =
-        `<span><strong>${entries.length}</strong> verified</span>` +
-        `<span><strong>${entries.filter(e => e.live_url).length}</strong> playable / live</span>` +
-        `<span><strong>${entries.filter(e => e.cost_note).length}</strong> with cost notes</span>` +
-        `<span>updated <strong>${data.updated || "—"}</strong></span>`;
+    function detectLang() {
+      const params = new URLSearchParams(location.search);
+      const q = (params.get("lang") || "").toLowerCase();
+      if (q === "zh" || q === "en") return q;
+      try {
+        const stored = localStorage.getItem(LANG_KEY);
+        if (stored === "zh" || stored === "en") return stored;
+      } catch (_) {}
+      const nav = (navigator.language || "en").toLowerCase();
+      return nav.startsWith("zh") ? "zh" : "en";
+    }
+
+    function setLang(next) {
+      lang = next === "en" ? "en" : "zh";
+      try { localStorage.setItem(LANG_KEY, lang); } catch (_) {}
+      const url = new URL(location.href);
+      url.searchParams.set("lang", lang);
+      history.replaceState(null, "", url);
+      document.documentElement.lang = lang === "zh" ? "zh-CN" : "en";
+    }
+
+    /** Resolve string | {en, zh} with fallback: preferred → en → zh → first string value → "" */
+    function tField(val, preferred) {
+      if (val == null) return "";
+      if (typeof val === "string") return val;
+      if (typeof val === "object") {
+        const pref = preferred || lang;
+        if (val[pref]) return val[pref];
+        if (val.en) return val.en;
+        if (val.zh) return val.zh;
+        const first = Object.values(val).find(v => typeof v === "string" && v);
+        return first || "";
+      }
+      return String(val);
+    }
+
+    function ui(key) {
+      return (i18n && i18n[key]) || key;
+    }
+
+    function catLabel(cat) {
+      const fromI18n = i18n.categories && i18n.categories[cat];
+      return fromI18n || FALLBACK_CAT[cat] || cat;
+    }
+
+    async function loadI18n(l) {
+      const res = await fetch("./i18n/" + l + ".json");
+      if (!res.ok) throw new Error("i18n " + l + " " + res.status);
+      return res.json();
+    }
+
+    function applyChrome() {
+      document.getElementById("ui-kicker").textContent = ui("kicker");
+      document.getElementById("ui-title").textContent = ui("title");
+      document.getElementById("ui-lead").textContent = ui("lead");
+      document.getElementById("submit-link").textContent = ui("submit");
+      document.getElementById("browse-link").textContent = ui("browse");
+      document.getElementById("games-link").textContent = ui("officialGames");
+      document.getElementById("ui-footer").textContent = ui("footer");
+      document.getElementById("lang-toggle").textContent = ui("langToggle");
+      document.getElementById("repo-note").innerHTML =
+        ui("repoNote") + ' <a href="https://github.com/majiayu000/astra-gallery">majiayu000/astra-gallery</a> · ' +
+        ui("domainHint") + " <code>astra-gallery.com</code>";
+      document.title = ui("title") + " — verified GPT-6 Astra builds";
+      renderStats();
       buildFilters();
       render();
     }
 
+    function renderStats() {
+      document.getElementById("stats").innerHTML =
+        `<span><strong>${entries.length}</strong> ${ui("statsVerified")}</span>` +
+        `<span><strong>${entries.filter(e => e.live_url).length}</strong> ${ui("statsLive")}</span>` +
+        `<span><strong>${entries.filter(e => e.cost_note).length}</strong> ${ui("statsCost")}</span>` +
+        `<span>${ui("statsUpdated")} <strong>${catalogUpdated}</strong></span>`;
+    }
+
+    async function load() {
+      setLang(detectLang());
+      const [i18nData, catalog] = await Promise.all([
+        loadI18n(lang),
+        fetch("./entries.json").then(r => r.json())
+      ]);
+      i18n = i18nData;
+      entries = catalog.entries || [];
+      catalogUpdated = catalog.updated || "—";
+      applyChrome();
+    }
+
     function buildFilters() {
-      const cats = ["all", ...Object.keys(CAT_LABEL).filter(c => entries.some(e => e.category === c))];
+      const cats = ["all", ...Object.keys(FALLBACK_CAT).filter(c => entries.some(e => e.category === c))];
       const el = document.getElementById("filters");
       el.innerHTML = cats.map(c => {
-        const label = c === "all" ? "All" : CAT_LABEL[c];
+        const label = c === "all" ? ui("filterAll") : catLabel(c);
         return `<button class="chip ${c===active?"active":""}" data-cat="${c}">${label}</button>`;
       }).join("");
       el.querySelectorAll(".chip").forEach(btn => {
@@ -209,6 +327,28 @@
       });
     }
 
+    function mediaBlock(e) {
+      const m = e.media || {};
+      if (m.video) {
+        const poster = m.poster || m.thumb || "";
+        const posterAttr = poster ? ` poster="${escapeAttr(poster)}"` : "";
+        return `<div class="card-media"><video src="${escapeAttr(m.video)}"${posterAttr} muted controls playsinline preload="metadata"></video></div>`;
+      }
+      if (m.thumb) {
+        return `<div class="card-media"><img src="${escapeAttr(m.thumb)}" alt="" loading="lazy" /></div>`;
+      }
+      return "";
+    }
+
+    function watchLink(e) {
+      const m = e.media || {};
+      if (m.video) return "";
+      if (m.embed) {
+        return ` · <a href="${escapeAttr(m.embed)}" target="_blank" rel="noopener">${ui("watch")}</a>`;
+      }
+      return "";
+    }
+
     function render() {
       const list = active === "all" ? entries : entries.filter(e => e.category === active);
       const grid = document.getElementById("grid");
@@ -216,33 +356,52 @@
         const live = e.live_url ? `<span class="tag live">live</span>` : "";
         const cost = e.cost_note ? `<span class="tag cost">cost</span>` : "";
         const primary = e.live_url || e.source_url;
-        const primaryLabel = e.live_url ? "打开" : "来源";
+        const primaryLabel = e.live_url ? ui("openLive") : ui("openSource");
+        const title = tField(e.title);
+        const desc = tField(e.description);
+        const costNote = tField(e.cost_note);
         return `<article class="card">
+          ${mediaBlock(e)}
           <div class="meta">
-            <span class="tag cat">${CAT_LABEL[e.category] || e.category}</span>
-            <span class="tag">${e.proof_type}</span>
+            <span class="tag cat">${escapeHtml(catLabel(e.category))}</span>
+            <span class="tag">${escapeHtml(e.proof_type)}</span>
             ${live}${cost}
           </div>
-          <h3>${escapeHtml(e.title)}</h3>
-          <p>${escapeHtml(e.description)}</p>
-          ${e.cost_note ? `<p style="color:var(--warn);font-size:12px;margin:0">${escapeHtml(e.cost_note)}</p>` : ""}
+          <h3>${escapeHtml(title)}</h3>
+          <p>${escapeHtml(desc)}</p>
+          ${costNote ? `<p style="color:var(--warn);font-size:12px;margin:0">${escapeHtml(costNote)}</p>` : ""}
           <div class="foot">
             <span>${escapeHtml(e.author || "")}</span>
             <span>
-              <a href="${primary}" target="_blank" rel="noopener">${primaryLabel}</a>
-              ${e.live_url && e.source_url ? ` · <a href="${e.source_url}" target="_blank" rel="noopener">源</a>` : ""}
+              <a href="${escapeAttr(primary)}" target="_blank" rel="noopener">${primaryLabel}</a>
+              ${e.live_url && e.source_url ? ` · <a href="${escapeAttr(e.source_url)}" target="_blank" rel="noopener">${ui("openSource")}</a>` : ""}
+              ${watchLink(e)}
             </span>
           </div>
         </article>`;
-      }).join("") || `<p class="lead">这一类还没有条目。</p>`;
+      }).join("") || `<p class="lead">${escapeHtml(ui("emptyCategory"))}</p>`;
     }
 
     function escapeHtml(s) {
       return String(s || "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
     }
+    function escapeAttr(s) {
+      return escapeHtml(s).replace(/`/g, "&#96;");
+    }
+
+    document.getElementById("lang-toggle").addEventListener("click", async () => {
+      const next = lang === "zh" ? "en" : "zh";
+      setLang(next);
+      try {
+        i18n = await loadI18n(lang);
+        applyChrome();
+      } catch (err) {
+        document.getElementById("stats").textContent = ui("loadFailed") + " " + err.message;
+      }
+    });
 
     load().catch(err => {
-      document.getElementById("stats").textContent = "加载失败：" + err.message;
+      document.getElementById("stats").textContent = "Failed to load: " + err.message;
     });
   </script>
 </body>
