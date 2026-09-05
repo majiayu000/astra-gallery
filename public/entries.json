@@ -185,7 +185,9 @@
       "cost_note": null,
       "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
       "verified": true,
-      "media": {}
+      "media": {
+        "thumb": "./media/thumbs/gpt-6-astra-3d-creations-gallery-48h-x-r-52f37723.jpg"
+      }
     },
     {
       "id": "interactive-dualsense-ps5-controller-in-d34d2477",
@@ -225,7 +227,9 @@
       "cost_note": null,
       "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
       "verified": true,
-      "media": {}
+      "media": {
+        "thumb": "./media/thumbs/mosswing-3d-one-tap-flight-astra-one-sho-bf568917.jpg"
+      }
     },
     {
       "id": "oneshot-3d-game-simulator-prompt-playabl-f659e1b1",
@@ -896,7 +900,9 @@
       "cost_note": null,
       "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
       "verified": true,
-      "media": {}
+      "media": {
+        "thumb": "./media/thumbs/void-explorer-shipyard-official-openai-c-14d0e207.webp"
+      }
     },
     {
       "id": "k-the-conjecture-lean-4-disproof-epoch-e-642b58d2",
