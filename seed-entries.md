@@ -1,0 +1,323 @@
+# Astra Gallery — Seed Catalog
+
+_Collected 2026-09-05 · 24 verified entries_
+
+## Category counts
+
+- **computer-use**: 4
+- **cost-economics**: 4
+- **3d-spatial**: 3
+- **coding-agent**: 3
+- **docs-office**: 3
+- **math-science**: 3
+- **cyber**: 2
+- **safety-monitorability**: 2
+
+## Entries
+
+### GPT-6 Astra official launch
+- **id:** `openai-official-launch`
+- **description:** OpenAI’s flagship announcement positioning Astra for computer use, coding, math/science, professional work, and cybersecurity, with staged rollout and API model id gpt-6-astra.
+- **category:** `computer-use`
+- **proof_type:** `writeup`
+- **source_url:** https://openai.com/index/gpt-6-astra/
+- **author:** OpenAI
+- **cost_note:** API standard $10/M input, $50/M output; Fast mode 2× price
+- **why_included:** Canonical product framing and claimed capability map every gallery entry should be checked against.
+- **verified:** `true`
+
+### OpenAI launch thread on X
+- **id:** `openai-launch-x-thread`
+- **description:** Official X announcement thread for GPT-6 Astra (status 2095595741528125780), the primary social launch artifact cited across early demos.
+- **category:** `computer-use`
+- **proof_type:** `demo-video`
+- **source_url:** https://x.com/OpenAI/status/2095595741528125780
+- **author:** @OpenAI
+- **cost_note:** null
+- **why_included:** Primary launch media many community demos remix; link resolves (HTTP 200) even when embeds vary.
+- **verified:** `true`
+
+### Blender → Unreal house walkthrough (Dimillian)
+- **id:** `dimillian-blender-ue5-house`
+- **description:** Thomas Ricouard (@Dimillian) walks through Astra building the launch-blog house via Blender headless/Python, Cycles renders, UE5 export pipeline, and a 60 FPS walkable app.
+- **category:** `3d-spatial`
+- **proof_type:** `demo-video`
+- **source_url:** https://www.unrollnow.com/status/2095596700815516004
+- **author:** @Dimillian (Thomas Ricouard)
+- **cost_note:** null
+- **why_included:** Concrete end-to-end 3D production pipeline (plan → Blender → UE5 → interactive app), not just a still render.
+- **verified:** `true`
+
+### Architectural visualization with Astra
+- **id:** `openai-architectural-visualization`
+- **description:** OpenAI Developers writeup of designing Solace: floor plans, editable Blender geometry via bpy, lived-in props, Cycles camera tours, and interactive UE5 walkthrough with operable fixtures.
+- **category:** `3d-spatial`
+- **proof_type:** `writeup`
+- **source_url:** https://developers.openai.com/blog/architectural-visualization-with-astra
+- **author:** OpenAI Developers / Thomas Ricouard
+- **cost_note:** null
+- **why_included:** Long-form reproducible workflow showing Astra as a spatial design agent across Blender and Unreal.
+- **verified:** `true`
+
+### Building games with Astra (Void Explorer)
+- **id:** `openai-void-explorer-games`
+- **description:** Codex + Astra build of Void Explorer: 2,048 star systems, procedural planets, continuous space-to-ground descent in Three.js/WebGPU, plus Sunwake and Hollowflux browser games.
+- **category:** `coding-agent`
+- **proof_type:** `live-url`
+- **source_url:** https://developers.openai.com/blog/how-to-build-games-with-astra
+- **author:** Thomas Ricouard
+- **cost_note:** null
+- **why_included:** Playable, inspectable multi-game build with architecture, testing harness, and Sites deploy loop.
+- **verified:** `true`
+
+### House photo → editable Blender reconstruction
+- **id:** `tomkrcha-house-from-photo`
+- **description:** Tom Krcha (@tomkrcha) feeds Astra a house photo and gets a detailed Blender reconstruction with toys, appliances, and furniture, claimed tweakable and runnable at 60 FPS.
+- **category:** `3d-spatial`
+- **proof_type:** `demo-video`
+- **source_url:** https://techau.com.au/openai-gpt-6-astra-offers-parallel-agent-workflows-background-computer-use-and-native-3d-modeling/
+- **author:** @tomkrcha (via techAU)
+- **cost_note:** null
+- **why_included:** Image-to-editable-3D reconstruction is a distinct spatial capability beyond text-to-scene demos.
+- **verified:** `true`
+
+### Background computer use + parallel agents roundup
+- **id:** `techau-background-computer-use`
+- **description:** techAU launch roundup covering async tool calling, mid-stream steering, background OS computer use (screenshots/DOM/controls), and early Blender/Unreal community demos.
+- **category:** `computer-use`
+- **proof_type:** `writeup`
+- **source_url:** https://techau.com.au/openai-gpt-6-astra-offers-parallel-agent-workflows-background-computer-use-and-native-3d-modeling/
+- **author:** Jason Cartwright / techAU
+- **cost_note:** Cites OSWorld ~40 min/task vs ~75 min prior
+- **why_included:** Clear product explanation of background computer use and parallel sub-agents with linked early builds.
+- **verified:** `true`
+
+### Latent Space: AI engineer for <$6/hour
+- **id:** `latent-space-ai-engineer`
+- **description:** swyx/Latent Space early-access writeup after 20B+ Astra tokens: fleets of subagents, run babysitting, personal Arena clones, and framing Astra as an automated AI engineer.
+- **category:** `coding-agent`
+- **proof_type:** `writeup`
+- **source_url:** https://www.latent.space/p/astra
+- **author:** Latent Space
+- **cost_note:** ~$6/hr at 33 tok/s and $50/M output; Ultra fleets cost much more
+- **why_included:** Rare high-token practical burn report with concrete agent-orchestration patterns and cost framing.
+- **verified:** `true`
+
+### Latent Space AINews Astra launch digest
+- **id:** `latent-space-ainews-launch`
+- **description:** Dense day-after digest aggregating official claims, Artificial Analysis/ARC/Epoch/Perplexity/Cognition/Vals numbers, safety/monitorability debate, and rollout friction.
+- **category:** `cost-economics`
+- **proof_type:** `writeup`
+- **source_url:** https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest
+- **author:** Latent Space
+- **cost_note:** Summarizes $10/$50 pricing and per-task vs per-token debate
+- **why_included:** Best single secondary index of verified third-party numbers and skeptical takes for curators.
+- **verified:** `true`
+
+### ARC Prize: Astra on ARC-AGI-3
+- **id:** `arc-prize-astra-agi3`
+- **description:** ARC Prize reports Astra 62.7% ($26k) on Semi-Private with Standard harness and 99.9% (~$19k) with Provider Adapter; fewer actions than humans on 96% of levels; emergent symbolic DSL notes.
+- **category:** `math-science`
+- **proof_type:** `benchmark-thread`
+- **source_url:** https://arcprize.org/blog/astra
+- **author:** ARC Prize
+- **cost_note:** Standard max ~$26,098; Provider Adapter high ~$18,817; ~$360/game cited in related Chollet commentary
+- **why_included:** Independent interactive-reasoning eval with harness caveats and action-efficiency analysis, not just a headline score.
+- **verified:** `true`
+
+### Artificial Analysis: Coding vs Intelligence split
+- **id:** `artificial-analysis-benchmarking`
+- **description:** Independent lab finds Coding Agent Index 67 (≈Fable 5, cheaper/task) but Intelligence Index flat at 61 vs Sol; ~3× coding token efficiency; Intelligence Index ~75% more expensive per task after 2.5× price hike.
+- **category:** `cost-economics`
+- **proof_type:** `benchmark-thread`
+- **source_url:** https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra
+- **author:** Artificial Analysis
+- **cost_note:** Price $10/$50 (2.5× Sol); coding Pareto cost leader; intelligence ~75% costlier/task at max
+- **why_included:** Essential non-cheerleading cost/perf reality check that separates coding-agent wins from general-intelligence hype.
+- **verified:** `true`
+
+### HN thread on AA 'major gains' title
+- **id:** `hn-aa-coding-skepticism`
+- **description:** Hacker News discussion of Artificial Analysis results; top critique notes Intelligence Index 61→61 despite 'major gains' framing, plus broader benchmark-trust debate.
+- **category:** `cost-economics`
+- **proof_type:** `benchmark-thread`
+- **source_url:** https://news.ycombinator.com/item?id=49556147
+- **author:** HN / NiekvdMaas et al.
+- **cost_note:** Commenters note cost-per-task Pareto may be the real gain
+- **why_included:** Documented skeptical community read that keeps the gallery honest about marketing vs charts.
+- **verified:** `true`
+
+### Epoch FrontierMath Erdős: 2/68 Lean solves
+- **id:** `epoch-frontiermath-erdos`
+- **description:** Epoch AI’s Lean-verified open Erdős problem set: only Astra scored (3%), solving problems 74 and 126 within $300/72h; extra runs found 5/68 but burned >$220k compute.
+- **category:** `math-science`
+- **proof_type:** `benchmark-thread`
+- **source_url:** https://epoch.ai/latest/announcing-frontiermath-erdos
+- **author:** Epoch AI (Greg Burnham, Tom Adamczewski)
+- **cost_note:** Benchmark: $218–$247 for the two solves; extra attempts >$220,000 total
+- **why_included:** Transparent open-problem math eval with Lean verification and published budgets—rare substance over vibes.
+- **verified:** `true`
+
+### Vellum: every published Astra benchmark table
+- **id:** `vellum-benchmarks-explained`
+- **description:** Side-by-side walkthrough of OpenAI’s computer-use, professional, coding, academic, science, cyber, and alignment tables, including AutomationBench 41.4% and contested coding rows.
+- **category:** `docs-office`
+- **proof_type:** `writeup`
+- **source_url:** https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained
+- **author:** Nicolas Zeeb / Vellum
+- **cost_note:** Notes $10/$50 vs Sol $4/$20 and that efficiency offset is still sparsely evidenced
+- **why_included:** Best organized third-party unpack of vendor tables, including losses (HLE tools) and professional-work gains.
+- **verified:** `true`
+
+### SRE-Bench binary reverse engineering
+- **id:** `openai-sre-bench-cyber`
+- **description:** OpenAI reports Astra solves 88.0% of SRE-Bench tasks in one attempt and 99.2% within four (vs Sol 55.9%/68.7%), measuring reverse engineering of binaries without source.
+- **category:** `cyber`
+- **proof_type:** `benchmark-thread`
+- **source_url:** https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained
+- **author:** OpenAI (via Vellum summary)
+- **cost_note:** Latent Space also notes ValsAI commentary on pass@4 / custom harness caveats
+- **why_included:** Concrete cyber capability number with attempt protocol; gallery-worthy because it is capability + harness-caveat.
+- **verified:** `true`
+
+### ExploitBench saturation + Critical cyber tier
+- **id:** `openai-exploitbench-critical`
+- **description:** Astra is OpenAI’s first Critical cybersecurity model; ExploitBench 100% (vs Sol 78.5%); advanced cyber gated via Daybreak; evals found zero-days later disclosed to maintainers.
+- **category:** `cyber`
+- **proof_type:** `writeup`
+- **source_url:** https://www.eesel.ai/blog/gpt-6-astra
+- **author:** eesel AI / OpenAI Preparedness framing
+- **cost_note:** null
+- **why_included:** Defines the gated cyber story that separates Astra from prior OpenAI releases.
+- **verified:** `true`
+
+### eesel: what it costs and the catch
+- **id:** `eesel-cost-and-catch`
+- **description:** Practitioner writeup contrasting agentic/cyber jumps with flat AA Intelligence Index, $10/$50 pricing, Daybreak gating, and OpenAI’s admission that monitorability decreased vs Sol.
+- **category:** `cost-economics`
+- **proof_type:** `writeup`
+- **source_url:** https://www.eesel.ai/blog/gpt-6-astra
+- **author:** Kurnia Kharisma Agung Samiadjie / eesel
+- **cost_note:** $10/$50 standard (2.5× Sol); Batch/Flex half; Fast 2×
+- **why_included:** Honest cost + safety catch piece suitable as a skeptical gallery card, not cheerleading.
+- **verified:** `true`
+
+### Transformer: neuralese & CoT monitorability fears
+- **id:** `transformer-news-neuralese`
+- **description:** Explainer on recurrent-depth/'neuralese' concerns around Astra, Ryan Greenblatt’s warning, and Jakub Pachocki’s reply that computation depth stays within ~2× of GPT-4.
+- **category:** `safety-monitorability`
+- **proof_type:** `writeup`
+- **source_url:** https://www.transformernews.ai/p/what-is-neuralese-openai-astra-chain-of-thought-recurrent-depth
+- **author:** Transformer News
+- **cost_note:** null
+- **why_included:** Best accessible critical safety card on why monitorability, not just capability, belongs in an Astra gallery.
+- **verified:** `true`
+
+### HN: OpenAI begins rolling out GPT-6 Astra
+- **id:** `hn-openai-rollout`
+- **description:** Hacker News discussion of CNBC rollout coverage, including Brockman’s AGI-era comments, price-per-task framing, and cyber-gated staged release.
+- **category:** `safety-monitorability`
+- **proof_type:** `benchmark-thread`
+- **source_url:** https://news.ycombinator.com/item?id=49554273
+- **author:** Hacker News
+- **cost_note:** Quotes Brockman: price per task is what matters
+- **why_included:** Public skeptical/governance thread pairing capability claims with rollout and cyber caution.
+- **verified:** `true`
+
+### Perplexity WANDR research-agent win
+- **id:** `perplexity-wandr`
+- **description:** Perplexity reports Astra tops WANDR at score 0.682 and $11.98/task — 13.5% above Fable 5.1 at 6.1% lower cost (per Latent Space AINews aggregation of @perplexity_ai).
+- **category:** `docs-office`
+- **proof_type:** `benchmark-thread`
+- **source_url:** https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest
+- **author:** Perplexity (@perplexity_ai) via Latent Space
+- **cost_note:** $11.98 per task on WANDR
+- **why_included:** Independent research-workflow leaderboard with explicit cost-per-task — gallery gold for knowledge work.
+- **verified:** `true`
+
+### FrontierCode near-parity at lower cost
+- **id:** `cognition-frontiercode-near-parity`
+- **description:** Latent Space AINews summarizes Cognition: on FrontierCode 1.1 Astra is within 0.4 points of Fable 5 at ~64% lower cost; Vellum notes Extended 64.5% slightly trails Fable 5’s 64.9%.
+- **category:** `coding-agent`
+- **proof_type:** `benchmark-thread`
+- **source_url:** https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest
+- **author:** Cognition / Latent Space; cross-check Vellum
+- **cost_note:** ~64% lower cost vs Fable 5 at near-parity (per @cognition summary)
+- **why_included:** Mergeability-oriented coding eval showing economics, not just pass rates.
+- **verified:** `true`
+
+### OSWorld 2.0 faster desktop agency
+- **id:** `osworld-computer-use-latency`
+- **description:** Vendor/third-party tables: Astra ~72.6% on OSWorld 2.0 at ~40 minutes/task versus Sol ~65.7% at ~75 minutes; ScreenSpot-Pro 92.7% vs 76.9%.
+- **category:** `computer-use`
+- **proof_type:** `benchmark-thread`
+- **source_url:** https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained
+- **author:** OpenAI (via Vellum)
+- **cost_note:** ~47% less time per OSWorld task vs Sol
+- **why_included:** Quantifies the computer-use speed story that demos alone cannot prove.
+- **verified:** `true`
+
+### AutomationBench professional work jump
+- **id:** `automationbench-professional-work`
+- **description:** OpenAI’s AutomationBench shows Astra 41.4% vs Fable 5.1 31.4% and Sol 18.1% on template-driven professional automation (slides/spreadsheets/analyses).
+- **category:** `docs-office`
+- **proof_type:** `benchmark-thread`
+- **source_url:** https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained
+- **author:** OpenAI (via Vellum)
+- **cost_note:** null
+- **why_included:** Largest published professional-work delta; anchors docs/office category with numbers.
+- **verified:** `true`
+
+### FrontierMath Tier 4 saturation claim
+- **id:** `frontiermath-tier4-saturation`
+- **description:** OpenAI reports Astra at 97.6% on FrontierMath Tier 4 (v2) vs Sol ~83% and Fable 5.1 87.8%; paired with claims of helping solve long-standing open math problems.
+- **category:** `math-science`
+- **proof_type:** `benchmark-thread`
+- **source_url:** https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained
+- **author:** OpenAI (via Vellum); Epoch notes funding caveats
+- **cost_note:** Vellum notes Epoch: OpenAI funded FrontierMath and has exclusive access to part of it
+- **why_included:** Headline math saturation number with an important independence caveat for gallery honesty.
+- **verified:** `true`
+
+## Competitor scan
+
+### There's An AI For That (TAAFT)
+- URL: https://theresanaiforthat.com/
+- Differentiation: TAAFT is a broad AI-tool directory; Astra Gallery is narrow to GPT-6 Astra builds/benchmarks and requires fetch-verified sources.
+
+### MyGPTs.dev
+- URL: https://mygpts.dev/
+- Differentiation: Custom-GPT discovery for ChatGPT; Astra Gallery catalogs demos, repos, and evals of one frontier model, not custom GPT wrappers.
+
+### AwesomeGPTs
+- URL: https://awesomegpts.pro/
+- Differentiation: Searchable GPT Store-style catalog at scale; Astra Gallery prioritizes 18–25 verified builds with proof_type and cost_note over volume.
+
+### ChatGPT App Directory
+- URL: https://chatgpt.com/apps
+- Differentiation: Official in-product apps/MCP integrations; Astra Gallery is an independent evidence gallery of what people actually built/measured with Astra.
+
+### Latent Space / AINews digests
+- URL: https://www.latent.space/
+- Differentiation: Excellent narrative digests; Astra Gallery turns those signals into structured, filterable, re-verified seed cards with categories.
+
+## Domain recommendation
+
+**Preferred:** `astra.gallery`
+
+Short, memorable, gallery-native TLD; astra-gallery.com is clearer for SEO/branding if .gallery unavailable; astragallery.dev signals indie/dev but reads less premium.
+
+Ranked: astra.gallery > astra-gallery.com > astragallery.dev
+
+## Dead / fragile links
+
+- https://x.com/OpenAI/status/2095595741528125780 — HTTP 200 from server, but X pages often block scrapers/embeds; keep unroll/techAU mirrors as fallbacks.
+- https://fortune.com/2026/09/03/reports-openais-astra-model-uses-a-new-more-efficient-ai-architecture-alarms-ai-safety-experts-who-worry-the-method-makes-models-harder-to-control/ — WebFetch timed out; not included as a seed entry. Transformer News used instead for monitorability.
+- Primary X posts for @MattShumer_, @skirano, @theo, @markchen90, @mehtaab_sawhney — Not inventable without openable mirrors; omitted rather than fabricated. Covered indirectly via techAU/Latent Space where quoted.
+
+## Intentionally omitted (unverified primary)
+
+- Matt Shumer Unreal Manhattan (only secondhand; OpenAI tweet embed in techAU is the official launch clip, not confirmed as Manhattan)
+- skirano / theo / markchen90 individual X demos (blocked/unfetched)
+- mehtaab_sawhney prime-gap thread (unfetched primary)
+- ValsAI primary SRE post (used OpenAI/Vellum numbers + Latent Space caveat instead)

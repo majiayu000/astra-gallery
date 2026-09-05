@@ -1,31 +1,24 @@
-# Astra Gallery — 一页方案
+# Astra Gallery — Product Brief
 
-## 给谁
-想快速看清 GPT-6 Astra「到底能做出什么」的开发者、创作者、以及写增长内容的人。不是给想刷新闻的人。
+## Who it's for
+Builders, researchers, and skeptical operators who want **verified GPT-6 Astra demos, benchmarks, and cost notes**—not another undifferentiated AI-tool dump.
 
-## 一句话
-只收可验证的 Astra 作品：能点开、能复现来源、有成本就写成本。
+## One-sentence pitch
+**Astra Gallery is a narrow, fetch-verified museum of what GPT-6 Astra actually builds and measures—with cost and monitorability cards beside the wow demos.**
 
-## 和竞品差在哪
-- eChai / 各类「10 wild builds」：策展帖，容易过期，偏吹。
-- awesome-chatgpt-sites：泛 ChatGPT Sites，不专 Astra。
-- 我们：窄（只 Astra）、硬（源链接必填）、钱（token/任务成本单独一栏）、允许争议条目（可监控性、贵）。
+## Monetization idea (optional later)
+- Free catalog forever for verified public entries.
+- Later: sponsored “verified build” slots (labeled), weekly email digest, or Pro API for structured seed JSON + RSS—never pay-to-rank unverified hype.
 
-## 怎么收钱（后置）
-先免费验证流量。可选：提交审核小额、赞助位、或 AfterHype Radar 导流。7 天内不收费。
+## Homepage — 5 blocks
+1. **Hero** — “Verified Astra builds & benches” + filter chips (computer-use · 3D · coding · math · cyber · docs · cost · safety).
+2. **Featured demos** — 3D house / Void Explorer / computer-use clip with proof_type badges.
+3. **Numbers that survived contact** — ARC-AGI-3 harness split, AA coding vs intelligence, Epoch Erdős 2/68, WANDR $/task.
+4. **Not just cheerleading** — pinned skeptical cards (monitorability, AA flat Intelligence Index, HN title vs chart).
+5. **Submit / method** — “We only mark verified after opening the source”; link to seed schema + contribute form.
 
-## 首页五块
-1. Hero：Astra Gallery + 一句定位 + 提交入口
-2. Playable now：能直接打开玩的
-3. 3D / Spatial：Blender / Unreal / 空间推理
-4. Agents & coding：长程工程、PR 清理
-5. Cost & caveats：单价、任务成本、可监控性争议
+## 7-day success metric
+**≥1,000 unique visitors + ≥50 “verified click-throughs”** (users who open a source_url from a card) **and ≥10 community submission attempts**, with ≥70% of featured homepage cards retaining `verified: true` after re-fetch.
 
-## 7 天成功标准（可数）
-- 站能打开 + HTTPS
-- ≥20 条已核验条目，每条有 source_url
-- X/中文区至少 1 条带截图的事实帖带来可追踪访客（目标 ≥200 UV 或 ≥5 外链提及，先记基准）
-
-## 域名建议
-优先买 `astra-gallery.com`；备选 `astragallery.dev` / `gpt6.gallery`。
-不要用 Astro（框架撞名）。站内品牌写 **Astra Gallery**。
+## Positioning vs competitors
+Narrow focus (Astra only) + proof_type + cost_note + deliberate skeptical entries. Differentiates from TAAFT/MyGPTs/AwesomeGPTs/ChatGPT App Directory volume directories and from Latent Space’s narrative digests by shipping structured, re-checkable seed cards.
