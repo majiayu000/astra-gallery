@@ -25,6 +25,30 @@
       }
     },
     {
+      "id": "x-2096166277849239804",
+      "title": {
+        "en": "Asked GPT-6 Astra to compose a piano melody and build a 3D pianist; the fingers follow the actual notes. Author says it took about two hours.",
+        "zh": "Asked GPT-6 Astra to compose a piano melody and build a 3D pianist; the fingers follow the actual notes. Author says it took about two hours."
+      },
+      "description": {
+        "en": "Asked GPT-6 Astra to compose a piano melody and build a 3D pianist; the fingers follow the actual notes. Author says it took about two hours. Media: video (about 3:44 playable 3D pianist/piano demo).",
+        "zh": "Asked GPT-6 Astra to compose a piano melody and build a 3D pianist; the fingers follow the actual notes. Author says it took about two hours. Media: video (about 3:44 playable 3D pianist/piano demo)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "live-url",
+      "source_url": "https://x.com/LexnLin/status/2096166277849239804",
+      "live_url": "https://daybreak-piano-film.lexn8.chatgpt.site",
+      "author": "@LexnLin",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/LexnLin/status/2096166277849239804",
+        "video": "./media/videos/x-2096166277849239804.mp4",
+        "thumb": "./media/thumbs/x-2096166277849239804.jpg"
+      }
+    },
+    {
       "id": "x-2096085439052452064",
       "title": {
         "en": "Asteroids 3D: Deepfield, a one-shot-prompt arcade game with front/rear/side cameras and twin cannons; desktop keyboard play.",
@@ -215,6 +239,30 @@
       "verified": true,
       "media": {
         "thumb": "./media/thumbs/abyssal-living-deep-procedural-ocean-wor-06838972.jpg"
+      }
+    },
+    {
+      "id": "x-2096149339332632979",
+      "title": {
+        "en": "Arabic-language showcase: Astra built a usable Grid System design tool in under four minutes.",
+        "zh": "Arabic-language showcase: Astra built a usable Grid System design tool in under four minutes."
+      },
+      "description": {
+        "en": "Arabic-language showcase: Astra built a usable Grid System design tool in under four minutes. Media: screen recording/image of the grid-design tool UI.",
+        "zh": "Arabic-language showcase: Astra built a usable Grid System design tool in under four minutes. Media: screen recording/image of the grid-design tool UI."
+      },
+      "category": "coding-agent",
+      "proof_type": "live-url",
+      "source_url": "https://x.com/Misarh_a/status/2096149339332632979",
+      "live_url": "https://poster-grid-studio.designer-pro2015.chatgpt.site",
+      "author": "@Misarh_a",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/Misarh_a/status/2096149339332632979",
+        "video": "./media/videos/x-2096149339332632979.mp4",
+        "thumb": "./media/thumbs/x-2096149339332632979.jpg"
       }
     },
     {
@@ -939,6 +987,30 @@
       }
     },
     {
+      "id": "x-2096164252860153978",
+      "title": {
+        "en": "Japanese summary/showcase of Astra computer use automatically operating Krita, asynchronous background tool execution, and steering instructions mid-generation.",
+        "zh": "Japanese summary/showcase of Astra computer use automatically operating Krita, asynchronous background tool execution, and steering instructions mid-generation."
+      },
+      "description": {
+        "en": "Japanese summary/showcase of Astra computer use automatically operating Krita, asynchronous background tool execution, and steering instructions mid-generation. Media: video (about 3:20 OpenAI Developers feature/demo footage).",
+        "zh": "Japanese summary/showcase of Astra computer use automatically operating Krita, asynchronous background tool execution, and steering instructions mid-generation. Media: video (about 3:20 OpenAI Developers feature/demo footage)."
+      },
+      "category": "computer-use",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/shintaro_campon/status/2096164252860153978",
+      "live_url": null,
+      "author": "@shintaro_campon",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/shintaro_campon/status/2096164252860153978",
+        "video": "./media/videos/x-2096164252860153978.mp4",
+        "thumb": "./media/thumbs/x-2096164252860153978.jpg"
+      }
+    },
+    {
       "id": "x-2095596020638036311",
       "title": {
         "en": "OpenAI Developers: computer use / SWE / visual understanding positioning",
@@ -1159,6 +1231,30 @@
       }
     },
     {
+      "id": "x-2095596890691608693",
+      "title": {
+        "en": "Another Blender-to-UE5 pass made the house more lived-in with props and improved lighting; the coffee machine is interactive/working.",
+        "zh": "Another Blender-to-UE5 pass made the house more lived-in with props and improved lighting; the coffee machine is interactive/working."
+      },
+      "description": {
+        "en": "Another Blender-to-UE5 pass made the house more lived-in with props and improved lighting; the coffee machine is interactive/working. Media: video (about 0:20 UE5 interior/coffee-machine demo).",
+        "zh": "Another Blender-to-UE5 pass made the house more lived-in with props and improved lighting; the coffee machine is interactive/working. Media: video (about 0:20 UE5 interior/coffee-machine demo)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/Dimillian/status/2095596890691608693",
+      "live_url": null,
+      "author": "@Dimillian",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/Dimillian/status/2095596890691608693",
+        "video": "./media/videos/x-2095596890691608693.mp4",
+        "thumb": "./media/thumbs/x-2095596890691608693.jpg"
+      }
+    },
+    {
       "id": "openai-architectural-visualization",
       "title": {
         "en": "Architectural visualization with Astra",
@@ -1180,6 +1276,29 @@
         "thumb": "./media/thumbs/openai-architectural-visualization.webp",
         "poster": "./media/thumbs/openai-architectural-visualization.webp",
         "credit": "OpenAI Developers — architectural-visualization-with-astra"
+      }
+    },
+    {
+      "id": "x-2096150899320308172",
+      "title": {
+        "en": "Asked ChatGPT Astra for a simple prompt-based architectural CG of Tadao Ando's Sumiyoshi Row House; Blender and Unreal Engine connected through Codex.",
+        "zh": "Asked ChatGPT Astra for a simple prompt-based architectural CG of Tadao Ando's Sumiyoshi Row House; Blender and Unreal Engine connected through Codex."
+      },
+      "description": {
+        "en": "Asked ChatGPT Astra for a simple prompt-based architectural CG of Tadao Ando's Sumiyoshi Row House; Blender and Unreal Engine connected through Codex. Media: 4 images (stairs/interior architectural renders).",
+        "zh": "Asked ChatGPT Astra for a simple prompt-based architectural CG of Tadao Ando's Sumiyoshi Row House; Blender and Unreal Engine connected through Codex. Media: 4 images (stairs/interior architectural renders)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/tsugutoinobe_jp/status/2096150899320308172",
+      "live_url": null,
+      "author": "@tsugutoinobe_jp",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/tsugutoinobe_jp/status/2096150899320308172",
+        "thumb": "./media/thumbs/x-2096150899320308172.jpg"
       }
     },
     {
@@ -1232,6 +1351,28 @@
       }
     },
     {
+      "id": "x-2095596900556616006",
+      "title": {
+        "en": "Astra generated a storyboard to compare how the house render looks in Blender versus Unreal Engine.",
+        "zh": "Astra generated a storyboard to compare how the house render looks in Blender versus Unreal Engine."
+      },
+      "description": {
+        "en": "Astra generated a storyboard to compare how the house render looks in Blender versus Unreal Engine. Media: 2 images (Blender/Unreal storyboard comparison).",
+        "zh": "Astra generated a storyboard to compare how the house render looks in Blender versus Unreal Engine. Media: 2 images (Blender/Unreal storyboard comparison)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/Dimillian/status/2095596900556616006",
+      "live_url": null,
+      "author": "@Dimillian",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/Dimillian/status/2095596900556616006"
+      }
+    },
+    {
       "id": "x-2096072544491336005",
       "title": {
         "en": "Astra installed Blender and built a DeLorean with moving doors from two prompts; process shown at 4x speed.",
@@ -1254,6 +1395,52 @@
         "thumb": "./media/thumbs/x-2096072544491336005.jpg",
         "video": "./media/videos/x-2096072544491336005.mp4",
         "credit": "@WesRoth"
+      }
+    },
+    {
+      "id": "x-2095596781157360093",
+      "title": {
+        "en": "Astra produced Blender Cycles 4K golden-hour/cinematic house renders with strong lighting.",
+        "zh": "Astra produced Blender Cycles 4K golden-hour/cinematic house renders with strong lighting."
+      },
+      "description": {
+        "en": "Astra produced Blender Cycles 4K golden-hour/cinematic house renders with strong lighting. Media: 4 images (high-quality house renders).",
+        "zh": "Astra produced Blender Cycles 4K golden-hour/cinematic house renders with strong lighting. Media: 4 images (high-quality house renders)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/Dimillian/status/2095596781157360093",
+      "live_url": null,
+      "author": "@Dimillian",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/Dimillian/status/2095596781157360093",
+        "thumb": "./media/thumbs/x-2095596781157360093.jpg"
+      }
+    },
+    {
+      "id": "x-2095596792729501946",
+      "title": {
+        "en": "Astra wrote export pipelines into Unreal Engine 5, repeatedly launched/tested the scene, compared fidelity, and delivered a standalone app.",
+        "zh": "Astra wrote export pipelines into Unreal Engine 5, repeatedly launched/tested the scene, compared fidelity, and delivered a standalone app."
+      },
+      "description": {
+        "en": "Astra wrote export pipelines into Unreal Engine 5, repeatedly launched/tested the scene, compared fidelity, and delivered a standalone app. Media: 4 images (UE5 renders).",
+        "zh": "Astra wrote export pipelines into Unreal Engine 5, repeatedly launched/tested the scene, compared fidelity, and delivered a standalone app. Media: 4 images (UE5 renders)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/Dimillian/status/2095596792729501946",
+      "live_url": null,
+      "author": "@Dimillian",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/Dimillian/status/2095596792729501946",
+        "thumb": "./media/thumbs/x-2095596792729501946.jpg"
       }
     },
     {
@@ -1426,6 +1613,28 @@
       }
     },
     {
+      "id": "x-2095598647199281343",
+      "title": {
+        "en": "Follow-up to the house reconstruction: Astra's generated 3D model shown in Blender with detailed environment geometry.",
+        "zh": "Follow-up to the house reconstruction: Astra's generated 3D model shown in Blender with detailed environment geometry."
+      },
+      "description": {
+        "en": "Follow-up to the house reconstruction: Astra's generated 3D model shown in Blender with detailed environment geometry. Media: 1 image (Blender scene screenshot).",
+        "zh": "Follow-up to the house reconstruction: Astra's generated 3D model shown in Blender with detailed environment geometry. Media: 1 image (Blender scene screenshot)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/tomkrcha/status/2095598647199281343",
+      "live_url": null,
+      "author": "@tomkrcha",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/tomkrcha/status/2095598647199281343"
+      }
+    },
+    {
       "id": "openai-giverny-garden",
       "title": {
         "en": "Giverny-inspired Blender water garden",
@@ -1443,6 +1652,30 @@
       "cost_note": null,
       "why_included": "Third distinct scene type on the architectural Astra post.",
       "verified": true
+    },
+    {
+      "id": "x-2096082580554777041",
+      "title": {
+        "en": "GPT-6 Astra + Three.js runtime demo: two trains are generated from TypeScript/Three.js dimensions, profiles, and geometry functions with no 3D model files; incl",
+        "zh": "GPT-6 Astra + Three.js runtime demo: two trains are generated from TypeScript/Three.js dimensions, profiles, and geometry functions with no 3D model files; incl"
+      },
+      "description": {
+        "en": "GPT-6 Astra + Three.js runtime demo: two trains are generated from TypeScript/Three.js dimensions, profiles, and geometry functions with no 3D model files; includes wheel motion and explode/reassemble animation. Media: video/demo animation (Steam Atlas train scene).",
+        "zh": "GPT-6 Astra + Three.js runtime demo: two trains are generated from TypeScript/Three.js dimensions, profiles, and geometry functions with no 3D model files; includes wheel motion and explode/reassemble animation. Media: video/demo animation (Steam Atlas train scene)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/tomkrcha/status/2096082580554777041",
+      "live_url": null,
+      "author": "@tomkrcha",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/tomkrcha/status/2096082580554777041",
+        "video": "./media/videos/x-2096082580554777041.mp4",
+        "thumb": "./media/thumbs/x-2096082580554777041.jpg"
+      }
     },
     {
       "id": "claire-vo-4552204b",
@@ -1704,6 +1937,29 @@
       }
     },
     {
+      "id": "x-2095978631696937047",
+      "title": {
+        "en": "One-shot GPT-6 Astra + Blender modeling of the less-common Commodore Vanderbilt train from reference images and 2D plans; author notes the front still needs man",
+        "zh": "One-shot GPT-6 Astra + Blender modeling of the less-common Commodore Vanderbilt train from reference images and 2D plans; author notes the front still needs man"
+      },
+      "description": {
+        "en": "One-shot GPT-6 Astra + Blender modeling of the less-common Commodore Vanderbilt train from reference images and 2D plans; author notes the front still needs manual refinement. Media: 4 images (train references and Blender output).",
+        "zh": "One-shot GPT-6 Astra + Blender modeling of the less-common Commodore Vanderbilt train from reference images and 2D plans; author notes the front still needs manual refinement. Media: 4 images (train references and Blender output)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/tomkrcha/status/2095978631696937047",
+      "live_url": null,
+      "author": "@tomkrcha",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/tomkrcha/status/2095978631696937047",
+        "thumb": "./media/thumbs/x-2095978631696937047.jpg"
+      }
+    },
+    {
       "id": "x-2095630197257367857",
       "title": {
         "en": "Oval Office 3D vibe-coded set",
@@ -1795,6 +2051,30 @@
       }
     },
     {
+      "id": "x-2095769596049682643",
+      "title": {
+        "en": "Prompted Astra to separate the generated train model into parts; the result shows the model broken into editable components.",
+        "zh": "Prompted Astra to separate the generated train model into parts; the result shows the model broken into editable components."
+      },
+      "description": {
+        "en": "Prompted Astra to separate the generated train model into parts; the result shows the model broken into editable components. Media: video (about 0:14 Blender/model-part separation).",
+        "zh": "Prompted Astra to separate the generated train model into parts; the result shows the model broken into editable components. Media: video (about 0:14 Blender/model-part separation)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/tomkrcha/status/2095769596049682643",
+      "live_url": null,
+      "author": "@tomkrcha",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/tomkrcha/status/2095769596049682643",
+        "video": "./media/videos/x-2095769596049682643.mp4",
+        "thumb": "./media/thumbs/x-2095769596049682643.jpg"
+      }
+    },
+    {
       "id": "x-2096131354706825655",
       "title": {
         "en": "Quote/demo of GPT-6 Astra + Blender MCP natural-language modeling carried through Unity CLI into a game; video shows the workflow/output.",
@@ -1841,6 +2121,30 @@
         "thumb": "./media/thumbs/x-2096095444640116766.jpg",
         "video": "./media/videos/x-2096095444640116766.mp4",
         "credit": "@LuwisTsang"
+      }
+    },
+    {
+      "id": "x-2096169824757928017",
+      "title": {
+        "en": "Review of an Astra one-shot game trailer pipeline in Remotion + Three.js: actual 3D scenes, FPS HUD, camera work, title cards, sound, and self-added model credi",
+        "zh": "Review of an Astra one-shot game trailer pipeline in Remotion + Three.js: actual 3D scenes, FPS HUD, camera work, title cards, sound, and self-added model credi"
+      },
+      "description": {
+        "en": "Review of an Astra one-shot game trailer pipeline in Remotion + Three.js: actual 3D scenes, FPS HUD, camera work, title cards, sound, and self-added model credits. Media: embedded video (about 0:30 game trailer; quoted ShadowDog post).",
+        "zh": "Review of an Astra one-shot game trailer pipeline in Remotion + Three.js: actual 3D scenes, FPS HUD, camera work, title cards, sound, and self-added model credits. Media: embedded video (about 0:30 game trailer; quoted ShadowDog post)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/0xRemakw/status/2096169824757928017",
+      "live_url": null,
+      "author": "@0xRemakw",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/0xRemakw/status/2096169824757928017",
+        "video": "./media/videos/x-2096169824757928017.mp4",
+        "thumb": "./media/thumbs/x-2096169824757928017.jpg"
       }
     },
     {
@@ -1953,6 +2257,30 @@
         "thumb": "./media/thumbs/x-2095756085890310311.jpg",
         "video": "./media/videos/x-2095756085890310311.mp4",
         "credit": "Tom Krcha (@tomkrcha)"
+      }
+    },
+    {
+      "id": "x-2095596770986180682",
+      "title": {
+        "en": "Timelapse of Astra making a V1 house in Blender; author says it used Blender headless/CLI and wrote the 3D model in Python.",
+        "zh": "Timelapse of Astra making a V1 house in Blender; author says it used Blender headless/CLI and wrote the 3D model in Python."
+      },
+      "description": {
+        "en": "Timelapse of Astra making a V1 house in Blender; author says it used Blender headless/CLI and wrote the 3D model in Python. Media: video (about 0:40 Blender timelapse).",
+        "zh": "Timelapse of Astra making a V1 house in Blender; author says it used Blender headless/CLI and wrote the 3D model in Python. Media: video (about 0:40 Blender timelapse)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/Dimillian/status/2095596770986180682",
+      "live_url": null,
+      "author": "@Dimillian",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/Dimillian/status/2095596770986180682",
+        "video": "./media/videos/x-2095596770986180682.mp4",
+        "thumb": "./media/thumbs/x-2095596770986180682.jpg"
       }
     },
     {
@@ -2098,6 +2426,30 @@
       }
     },
     {
+      "id": "x-2095596827089223809",
+      "title": {
+        "en": "Walk-around of the Astra-built house in Unreal Engine 5; author says the local app runs at 60 FPS in real time.",
+        "zh": "Walk-around of the Astra-built house in Unreal Engine 5; author says the local app runs at 60 FPS in real time."
+      },
+      "description": {
+        "en": "Walk-around of the Astra-built house in Unreal Engine 5; author says the local app runs at 60 FPS in real time. Media: video (about 0:20 UE5 walk-around).",
+        "zh": "Walk-around of the Astra-built house in Unreal Engine 5; author says the local app runs at 60 FPS in real time. Media: video (about 0:20 UE5 walk-around)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/Dimillian/status/2095596827089223809",
+      "live_url": null,
+      "author": "@Dimillian",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/Dimillian/status/2095596827089223809",
+        "video": "./media/videos/x-2095596827089223809.mp4",
+        "thumb": "./media/thumbs/x-2095596827089223809.jpg"
+      }
+    },
+    {
       "id": "pasquale-yunfan-zillow-3d",
       "title": {
         "en": "Zillow listing → 3D house + promo (Ye)",
@@ -2210,6 +2562,28 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/dabit3/status/2095610200778592665"
+      }
+    },
+    {
+      "id": "x-2095596711389401149",
+      "title": {
+        "en": "Astra designed the floor plan for a modern minimalist house after being given room-count and style constraints.",
+        "zh": "Astra designed the floor plan for a modern minimalist house after being given room-count and style constraints."
+      },
+      "description": {
+        "en": "Astra designed the floor plan for a modern minimalist house after being given room-count and style constraints. Media: 1 image (annotated floor plan).",
+        "zh": "Astra designed the floor plan for a modern minimalist house after being given room-count and style constraints. Media: 1 image (annotated floor plan)."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/Dimillian/status/2095596711389401149",
+      "live_url": null,
+      "author": "@Dimillian",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/Dimillian/status/2095596711389401149"
       }
     },
     {
@@ -2468,6 +2842,29 @@
       }
     },
     {
+      "id": "x-2095635149727965548",
+      "title": {
+        "en": "Follow-up showing detailed Astra house geometry; author says it is precise rather than nonsense geometry.",
+        "zh": "Follow-up showing detailed Astra house geometry; author says it is precise rather than nonsense geometry."
+      },
+      "description": {
+        "en": "Follow-up showing detailed Astra house geometry; author says it is precise rather than nonsense geometry. Media: 1 image (wireframe/detailed interior geometry screenshot).",
+        "zh": "Follow-up showing detailed Astra house geometry; author says it is precise rather than nonsense geometry. Media: 1 image (wireframe/detailed interior geometry screenshot)."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/tomkrcha/status/2095635149727965548",
+      "live_url": null,
+      "author": "@tomkrcha",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/tomkrcha/status/2095635149727965548",
+        "thumb": "./media/thumbs/x-2095635149727965548.jpg"
+      }
+    },
+    {
       "id": "cognition-frontiercode-near-parity",
       "title": {
         "en": "FrontierCode near-parity at lower cost",
@@ -2538,6 +2935,30 @@
         "embed": "https://x.com/Angaisb_/status/2095964361105789424",
         "thumb": "./media/thumbs/angaisb-gameboy-portfolio.jpg",
         "video": "./media/videos/angaisb-gameboy-portfolio.mp4"
+      }
+    },
+    {
+      "id": "x-2096029128155963737",
+      "title": {
+        "en": "GPT-6 Astra controlled Microsoft Paint to draw a cartoon portrait from a reference photo, with the cursor visibly building the image.",
+        "zh": "GPT-6 Astra controlled Microsoft Paint to draw a cartoon portrait from a reference photo, with the cursor visibly building the image."
+      },
+      "description": {
+        "en": "GPT-6 Astra controlled Microsoft Paint to draw a cartoon portrait from a reference photo, with the cursor visibly building the image. Media: video (about 0:14 screen recording).",
+        "zh": "GPT-6 Astra controlled Microsoft Paint to draw a cartoon portrait from a reference photo, with the cursor visibly building the image. Media: video (about 0:14 screen recording)."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/0x0SojalSec/status/2096029128155963737",
+      "live_url": null,
+      "author": "@0x0SojalSec",
+      "cost_note": null,
+      "why_included": "Found by browsing public x.com search round 2 (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/0x0SojalSec/status/2096029128155963737",
+        "video": "./media/videos/x-2096029128155963737.mp4",
+        "thumb": "./media/thumbs/x-2096029128155963737.jpg"
       }
     },
     {
