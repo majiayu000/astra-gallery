@@ -88,7 +88,10 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/keitowebai/status/2096124169406775325"
+        "embed": "https://x.com/keitowebai/status/2096124169406775325",
+        "thumb": "./media/thumbs/x-2096124169406775325.jpg",
+        "video": "./media/videos/x-2096124169406775325.mp4",
+        "credit": "@keitowebai"
       }
     },
     {
@@ -111,7 +114,8 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/davis7/status/2095742249275699415",
-        "credit": "eChai curated · @davis7"
+        "credit": "Ben Davis (@davis7)",
+        "thumb": "./media/thumbs/davis7-final-cut-setup.jpg"
       }
     },
     {
@@ -156,7 +160,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/OpenAIDevs/status/2095596020638036311"
+        "embed": "https://x.com/OpenAIDevs/status/2095596020638036311",
+        "thumb": "./media/thumbs/x-2095596020638036311.jpg",
+        "video": "./media/videos/x-2095596020638036311.mp4",
+        "credit": "OpenAI Developers (@OpenAIDevs)"
       }
     },
     {
@@ -248,7 +255,10 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/iam_zachi/status/2095992132620136677"
+        "embed": "https://x.com/iam_zachi/status/2095992132620136677",
+        "thumb": "./media/thumbs/x-2095992132620136677.jpg",
+        "video": "./media/videos/x-2095992132620136677.mp4",
+        "credit": "@iam_zachi"
       }
     },
     {
@@ -270,7 +280,9 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/DeryaTR_/status/2095699049722581065"
+        "embed": "https://x.com/DeryaTR_/status/2095699049722581065",
+        "thumb": "./media/thumbs/x-2095699049722581065.jpg",
+        "credit": "Derya Unutmaz, MD (@DeryaTR_)"
       }
     },
     {
@@ -292,7 +304,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/MatthewBerman/status/2095620888695902366"
+        "embed": "https://x.com/MatthewBerman/status/2095620888695902366",
+        "thumb": "./media/thumbs/x-2095620888695902366.jpg",
+        "video": "./media/videos/x-2095620888695902366.mp4",
+        "credit": "Matthew Berman (@MatthewBerman)"
       }
     },
     {
@@ -314,7 +329,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/Dimillian/status/2095596700815516004"
+        "embed": "https://x.com/Dimillian/status/2095596700815516004",
+        "thumb": "./media/thumbs/x-2095596700815516004.jpg",
+        "video": "./media/videos/x-2095596700815516004.mp4",
+        "credit": "Thomas Ricouard (@Dimillian)"
       }
     },
     {
@@ -336,8 +354,10 @@
       "why_included": "Comparative 3D artifact with named Astra result, not a news mirror.",
       "verified": true,
       "media": {
-        "credit": "@Bhavani_00007 via eChai",
-        "embed": "https://x.com/Bhavani_00007/status/2095858967515930706"
+        "credit": "Bhavy / @Bhavani_00007",
+        "embed": "https://x.com/Bhavani_00007/status/2095858967515930706",
+        "thumb": "./media/thumbs/bhavani-3d-scene-model-bakeoff.jpg",
+        "video": "./media/videos/bhavani-3d-scene-model-bakeoff.mp4"
       }
     },
     {
@@ -360,7 +380,6 @@
       "verified": true,
       "media": {
         "thumb": "./media/thumbs/openai-architectural-visualization.webp",
-        "video": "https://cdn.openai.com/devhub/blog/architectural-visualization/166c87f4-3546-44ce-8357-552d7de7a827.mp4",
         "poster": "./media/thumbs/openai-architectural-visualization.webp",
         "credit": "OpenAI Developers — architectural-visualization-with-astra"
       }
@@ -406,7 +425,10 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/ecomchasedimond/status/2096023538499309967"
+        "embed": "https://x.com/ecomchasedimond/status/2096023538499309967",
+        "thumb": "./media/thumbs/x-2096023538499309967.jpg",
+        "video": "./media/videos/x-2096023538499309967.mp4",
+        "credit": "@ecomchasedimond"
       }
     },
     {
@@ -428,7 +450,9 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/WesRoth/status/2096065409455886689"
+        "embed": "https://x.com/WesRoth/status/2096065409455886689",
+        "thumb": "./media/thumbs/x-2096065409455886689.jpg",
+        "credit": "@WesRoth"
       }
     },
     {
@@ -450,7 +474,10 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/WesRoth/status/2096072544491336005"
+        "embed": "https://x.com/WesRoth/status/2096072544491336005",
+        "thumb": "./media/thumbs/x-2096072544491336005.jpg",
+        "video": "./media/videos/x-2096072544491336005.mp4",
+        "credit": "@WesRoth"
       }
     },
     {
@@ -541,7 +568,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/theo/status/2095751225283350624"
+        "embed": "https://x.com/theo/status/2095751225283350624",
+        "thumb": "./media/thumbs/x-2095751225283350624.jpg",
+        "video": "./media/videos/x-2095751225283350624.mp4",
+        "credit": "Theo - t3.gg (@theo)"
       }
     },
     {
@@ -563,7 +593,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/FieroTy/status/2095635722208493813"
+        "embed": "https://x.com/FieroTy/status/2095635722208493813",
+        "thumb": "./media/thumbs/x-2095635722208493813.jpg",
+        "video": "./media/videos/x-2095635722208493813.mp4",
+        "credit": "Ty (@FieroTy)"
       }
     },
     {
@@ -585,7 +618,10 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/grepmoney/status/2096130492110447033"
+        "embed": "https://x.com/grepmoney/status/2096130492110447033",
+        "thumb": "./media/thumbs/x-2096130492110447033.jpg",
+        "video": "./media/videos/x-2096130492110447033.mp4",
+        "credit": "@grepmoney"
       }
     },
     {
@@ -734,8 +770,10 @@
       "why_included": "Concrete mechanical explainer demo named on eChai; not a news rewrite.",
       "verified": true,
       "media": {
-        "credit": "@Feraser8 via eChai",
-        "embed": "https://x.com/Feraser8/status/2095776712579571725"
+        "credit": "Feraser",
+        "embed": "https://x.com/Feraser8/status/2095776712579571725",
+        "thumb": "./media/thumbs/feraser-interactive-turbocharger.jpg",
+        "video": "./media/videos/feraser-interactive-turbocharger.mp4"
       }
     },
     {
@@ -757,7 +795,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/mattshumer_/status/2095723177389232540"
+        "embed": "https://x.com/mattshumer_/status/2095723177389232540",
+        "thumb": "./media/thumbs/x-2095723177389232540.jpg",
+        "video": "./media/videos/x-2095723177389232540.mp4",
+        "credit": "Matt Shumer (@mattshumer_)"
       }
     },
     {
@@ -779,7 +820,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/skirano/status/2095648379455861054"
+        "embed": "https://x.com/skirano/status/2095648379455861054",
+        "thumb": "./media/thumbs/x-2095648379455861054.jpg",
+        "video": "./media/videos/x-2095648379455861054.mp4",
+        "credit": "Pietro Schirano (@skirano)"
       }
     },
     {
@@ -823,8 +867,10 @@
       "why_included": "Timed motion-video demo curated on eChai.",
       "verified": true,
       "media": {
-        "credit": "@chddaniel via eChai",
-        "embed": "https://x.com/chddaniel/status/2095775049475313943"
+        "credit": "Daniel Ch",
+        "embed": "https://x.com/chddaniel/status/2095775049475313943",
+        "thumb": "./media/thumbs/chddaniel-motion-videos-14min.jpg",
+        "video": "./media/videos/chddaniel-motion-videos-14min.mp4"
       }
     },
     {
@@ -846,7 +892,9 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/keitowebai/status/2096085354529144842"
+        "embed": "https://x.com/keitowebai/status/2096085354529144842",
+        "thumb": "./media/thumbs/x-2096085354529144842.jpg",
+        "credit": "@keitowebai"
       }
     },
     {
@@ -868,8 +916,9 @@
       "why_included": "Staff demo of Blender spatial video + instruction-following tips; eChai-curated.",
       "verified": true,
       "media": {
-        "credit": "@reach_vb via eChai",
-        "embed": "https://x.com/reach_vb/status/2095973112097747199"
+        "credit": "Vaibhav (VB) Srivastav",
+        "embed": "https://x.com/reach_vb/status/2095973112097747199",
+        "thumb": "./media/thumbs/vaibhav-nurburgring-blender.jpg"
       }
     },
     {
@@ -891,8 +940,10 @@
       "why_included": "Distinct Blender asset one-shot demo with openable source.",
       "verified": true,
       "media": {
-        "credit": "@xikhar via eChai",
-        "embed": "https://x.com/xikhar/status/2095969538290712800"
+        "credit": "Shikhar / @xikhar",
+        "embed": "https://x.com/xikhar/status/2095969538290712800",
+        "thumb": "./media/thumbs/xikhar-blender-oneshot-assets.jpg",
+        "video": "./media/videos/xikhar-blender-oneshot-assets.mp4"
       }
     },
     {
@@ -914,7 +965,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/higgsfield_ai/status/2095630197257367857"
+        "embed": "https://x.com/higgsfield_ai/status/2095630197257367857",
+        "thumb": "./media/thumbs/x-2095630197257367857.jpg",
+        "video": "./media/videos/x-2095630197257367857.mp4",
+        "credit": "Higgsfield AI 🧩 (@higgsfield_ai)"
       }
     },
     {
@@ -978,7 +1032,9 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/higgsfield_ai/status/2096009543327404491"
+        "embed": "https://x.com/higgsfield_ai/status/2096009543327404491",
+        "thumb": "./media/thumbs/x-2096009543327404491.jpg",
+        "credit": "@higgsfield_ai"
       }
     },
     {
@@ -1000,7 +1056,9 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/neko_lab_55/status/2096131354706825655"
+        "embed": "https://x.com/neko_lab_55/status/2096131354706825655",
+        "thumb": "./media/thumbs/x-2096131354706825655.jpg",
+        "credit": "@neko_lab_55"
       }
     },
     {
@@ -1022,7 +1080,10 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/LuwisTsang/status/2096095444640116766"
+        "embed": "https://x.com/LuwisTsang/status/2096095444640116766",
+        "thumb": "./media/thumbs/x-2096095444640116766.jpg",
+        "video": "./media/videos/x-2096095444640116766.mp4",
+        "credit": "@LuwisTsang"
       }
     },
     {
@@ -1044,7 +1105,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/sharifshameem/status/2095653641164329143"
+        "embed": "https://x.com/sharifshameem/status/2095653641164329143",
+        "thumb": "./media/thumbs/x-2095653641164329143.jpg",
+        "video": "./media/videos/x-2095653641164329143.mp4",
+        "credit": "Sharif Shameem (@sharifshameem)"
       }
     },
     {
@@ -1085,7 +1149,9 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/SciTechera/status/2096132569674969099"
+        "embed": "https://x.com/SciTechera/status/2096132569674969099",
+        "thumb": "./media/thumbs/x-2096132569674969099.jpg",
+        "credit": "@SciTechera"
       }
     },
     {
@@ -1126,7 +1192,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/tomkrcha/status/2095756085890310311"
+        "embed": "https://x.com/tomkrcha/status/2095756085890310311",
+        "thumb": "./media/thumbs/x-2095756085890310311.jpg",
+        "video": "./media/videos/x-2095756085890310311.mp4",
+        "credit": "Tom Krcha (@tomkrcha)"
       }
     },
     {
@@ -1170,7 +1239,10 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/CadenBurleson/status/2096136035436757361"
+        "embed": "https://x.com/CadenBurleson/status/2096136035436757361",
+        "thumb": "./media/thumbs/x-2096136035436757361.jpg",
+        "video": "./media/videos/x-2096136035436757361.mp4",
+        "credit": "@CadenBurleson"
       }
     },
     {
@@ -1214,7 +1286,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/karankendre/status/2095636679264780481"
+        "embed": "https://x.com/karankendre/status/2095636679264780481",
+        "thumb": "./media/thumbs/x-2095636679264780481.jpg",
+        "video": "./media/videos/x-2095636679264780481.mp4",
+        "credit": "Karan (@karankendre)"
       }
     },
     {
@@ -1236,7 +1311,9 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/maxt3chno/status/2095648896991080555"
+        "embed": "https://x.com/maxt3chno/status/2095648896991080555",
+        "thumb": "./media/thumbs/x-2095648896991080555.jpg",
+        "credit": "Max (@maxt3chno)"
       }
     },
     {
@@ -1258,7 +1335,9 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/DeryaTR_/status/2095719731860750613"
+        "embed": "https://x.com/DeryaTR_/status/2095719731860750613",
+        "thumb": "./media/thumbs/x-2095719731860750613.jpg",
+        "credit": "Derya Unutmaz, MD (@DeryaTR_)"
       }
     },
     {
@@ -1299,7 +1378,9 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/realYunfanYe/status/2095612137582526615"
+        "embed": "https://x.com/realYunfanYe/status/2095612137582526615",
+        "thumb": "./media/thumbs/x-2095612137582526615.jpg",
+        "credit": "Yunfan Ye (@realYunfanYe)"
       }
     },
     {
@@ -1321,7 +1402,10 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/ecomchasedimond/status/2096023021937164764"
+        "embed": "https://x.com/ecomchasedimond/status/2096023021937164764",
+        "thumb": "./media/thumbs/x-2096023021937164764.jpg",
+        "video": "./media/videos/x-2096023021937164764.mp4",
+        "credit": "@ecomchasedimond"
       }
     },
     {
@@ -1343,7 +1427,10 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/ecomchasedimond/status/2096038589943726186"
+        "embed": "https://x.com/ecomchasedimond/status/2096038589943726186",
+        "thumb": "./media/thumbs/x-2096038589943726186.jpg",
+        "video": "./media/videos/x-2096038589943726186.mp4",
+        "credit": "@ecomchasedimond"
       }
     },
     {
@@ -1387,7 +1474,10 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/majidmanzarpour/status/2096133339329536249"
+        "embed": "https://x.com/majidmanzarpour/status/2096133339329536249",
+        "thumb": "./media/thumbs/x-2096133339329536249.jpg",
+        "video": "./media/videos/x-2096133339329536249.mp4",
+        "credit": "@majidmanzarpour"
       }
     },
     {
@@ -1431,7 +1521,9 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/levie/status/2095598710311067716"
+        "embed": "https://x.com/levie/status/2095598710311067716",
+        "thumb": "./media/thumbs/x-2095598710311067716.jpg",
+        "credit": "Aaron Levie (@levie)"
       }
     },
     {
@@ -1454,7 +1546,6 @@
       "verified": true,
       "media": {
         "thumb": "./media/thumbs/openai-void-explorer-games.webp",
-        "video": "https://cdn.openai.com/devhub/blog/how-to-build-games/c72d1059-324e-4733-8359-89c326600fe2.mp4",
         "poster": "./media/thumbs/openai-void-explorer-games.webp",
         "credit": "OpenAI Developers — how-to-build-games-with-astra"
       }
@@ -1523,7 +1614,9 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/robinebers/status/2095598016103329898"
+        "embed": "https://x.com/robinebers/status/2095598016103329898",
+        "thumb": "./media/thumbs/x-2095598016103329898.jpg",
+        "credit": "Robin Ebers (@robinebers)"
       }
     },
     {
@@ -1545,7 +1638,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/skirano/status/2095595932335170031"
+        "embed": "https://x.com/skirano/status/2095595932335170031",
+        "thumb": "./media/thumbs/x-2095595932335170031.jpg",
+        "video": "./media/videos/x-2095595932335170031.mp4",
+        "credit": "Pietro Schirano (@skirano)"
       }
     },
     {
@@ -1567,7 +1663,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/danshipper/status/2095877348314730821"
+        "embed": "https://x.com/danshipper/status/2095877348314730821",
+        "thumb": "./media/thumbs/x-2095877348314730821.jpg",
+        "video": "./media/videos/x-2095877348314730821.mp4",
+        "credit": "Dan Shipper (@danshipper)"
       }
     },
     {
@@ -1653,7 +1752,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/mehulmpt/status/2095610463954637132"
+        "embed": "https://x.com/mehulmpt/status/2095610463954637132",
+        "thumb": "./media/thumbs/x-2095610463954637132.jpg",
+        "video": "./media/videos/x-2095610463954637132.mp4",
+        "credit": "Mehul Mohan (@mehulmpt)"
       }
     },
     {
@@ -1675,8 +1777,10 @@
       "why_included": "Distinct curated live demo on eChai; status URL opens (HTTP 200).",
       "verified": true,
       "media": {
-        "credit": "eChai Ventures curation · x.com/Angaisb_",
-        "embed": "https://x.com/Angaisb_/status/2095964361105789424"
+        "credit": "Angel / @Angaisb_",
+        "embed": "https://x.com/Angaisb_/status/2095964361105789424",
+        "thumb": "./media/thumbs/angaisb-gameboy-portfolio.jpg",
+        "video": "./media/videos/angaisb-gameboy-portfolio.mp4"
       }
     },
     {
@@ -1720,7 +1824,9 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/MatthewBerman/status/2095619201105059974"
+        "embed": "https://x.com/MatthewBerman/status/2095619201105059974",
+        "thumb": "./media/thumbs/x-2095619201105059974.jpg",
+        "credit": "Matthew Berman (@MatthewBerman)"
       }
     },
     {
@@ -1764,7 +1870,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/literallydenis/status/2095596903014580579"
+        "embed": "https://x.com/literallydenis/status/2095596903014580579",
+        "thumb": "./media/thumbs/x-2095596903014580579.jpg",
+        "video": "./media/videos/x-2095596903014580579.mp4",
+        "credit": "Denis Shiryaev 💙💛 (@literallydenis)"
       }
     },
     {
@@ -1786,7 +1895,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/KavinIK/status/2095603691948843077"
+        "embed": "https://x.com/KavinIK/status/2095603691948843077",
+        "thumb": "./media/thumbs/x-2095603691948843077.jpg",
+        "video": "./media/videos/x-2095603691948843077.mp4",
+        "credit": "Kavin Karthik (@KavinIK)"
       }
     },
     {
@@ -1831,7 +1943,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/PaulSolt/status/2095604728683958295"
+        "embed": "https://x.com/PaulSolt/status/2095604728683958295",
+        "thumb": "./media/thumbs/x-2095604728683958295.jpg",
+        "video": "./media/videos/x-2095604728683958295.mp4",
+        "credit": "Paul Solt (@PaulSolt)"
       }
     },
     {
@@ -1853,7 +1968,10 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/MooncastOnline/status/2096120761681338669"
+        "embed": "https://x.com/MooncastOnline/status/2096120761681338669",
+        "thumb": "./media/thumbs/x-2096120761681338669.jpg",
+        "video": "./media/videos/x-2096120761681338669.mp4",
+        "credit": "@MooncastOnline"
       }
     },
     {
@@ -1959,7 +2077,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/TimJayas/status/2095819740694577203"
+        "embed": "https://x.com/TimJayas/status/2095819740694577203",
+        "thumb": "./media/thumbs/x-2095819740694577203.jpg",
+        "video": "./media/videos/x-2095819740694577203.mp4",
+        "credit": "Tim Jayas (@TimJayas)"
       }
     },
     {
@@ -1981,7 +2102,10 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/nateherk/status/2096018636079026498"
+        "embed": "https://x.com/nateherk/status/2096018636079026498",
+        "thumb": "./media/thumbs/x-2096018636079026498.jpg",
+        "video": "./media/videos/x-2096018636079026498.mp4",
+        "credit": "@nateherk"
       }
     },
     {
@@ -2003,7 +2127,9 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/petergostev/status/2095596341422440714"
+        "embed": "https://x.com/petergostev/status/2095596341422440714",
+        "thumb": "./media/thumbs/x-2095596341422440714.jpg",
+        "credit": "Peter Gostev (@petergostev)"
       }
     },
     {
@@ -2045,7 +2171,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/ChihYang04/status/2095637507337826741"
+        "embed": "https://x.com/ChihYang04/status/2095637507337826741",
+        "thumb": "./media/thumbs/x-2095637507337826741.jpg",
+        "video": "./media/videos/x-2095637507337826741.mp4",
+        "credit": "Kai Yang (@ChihYang04)"
       }
     },
     {
@@ -2089,7 +2218,10 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/AGTPinsights/status/2096128425190621436"
+        "embed": "https://x.com/AGTPinsights/status/2096128425190621436",
+        "thumb": "./media/thumbs/x-2096128425190621436.jpg",
+        "video": "./media/videos/x-2096128425190621436.mp4",
+        "credit": "@AGTPinsights"
       }
     },
     {
@@ -2288,7 +2420,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/clairevo/status/2095625355231142079"
+        "embed": "https://x.com/clairevo/status/2095625355231142079",
+        "thumb": "./media/thumbs/x-2095625355231142079.jpg",
+        "video": "./media/videos/x-2095625355231142079.mp4",
+        "credit": "claire vo 🖤 (@clairevo)"
       }
     },
     {
@@ -2310,7 +2445,10 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/ChrisGPT/status/2095601996770263362"
+        "embed": "https://x.com/ChrisGPT/status/2095601996770263362",
+        "thumb": "./media/thumbs/x-2095601996770263362.jpg",
+        "video": "./media/videos/x-2095601996770263362.mp4",
+        "credit": "Chris (@ChrisGPT)"
       }
     },
     {
@@ -2332,8 +2470,10 @@
       "why_included": "Named Astra browser RPG demo curated on eChai with openable status URL.",
       "verified": true,
       "media": {
-        "credit": "@DeryaTR_ via eChai",
-        "embed": "https://x.com/DeryaTR_/status/2095952101000016076"
+        "credit": "Derya Unutmaz, MD",
+        "embed": "https://x.com/DeryaTR_/status/2095952101000016076",
+        "thumb": "./media/thumbs/derya-wow-runescape-rpg.jpg",
+        "video": "./media/videos/derya-wow-runescape-rpg.mp4"
       }
     },
     {
@@ -2489,7 +2629,9 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/DeryaTR_/status/2095659170661904804"
+        "embed": "https://x.com/DeryaTR_/status/2095659170661904804",
+        "thumb": "./media/thumbs/x-2095659170661904804.jpg",
+        "credit": "Derya Unutmaz, MD (@DeryaTR_)"
       }
     },
     {
@@ -2621,7 +2763,10 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/dasepmochly/status/2096134318544568577"
+        "embed": "https://x.com/dasepmochly/status/2096134318544568577",
+        "thumb": "./media/thumbs/x-2096134318544568577.jpg",
+        "video": "./media/videos/x-2096134318544568577.mp4",
+        "credit": "@dasepmochly"
       }
     },
     {
@@ -2643,8 +2788,10 @@
       "why_included": "Product-native video demo curated on eChai.",
       "verified": true,
       "media": {
-        "credit": "@Miguel07Code via eChai",
-        "embed": "https://x.com/Miguel07Code/status/2095969648738967726"
+        "credit": "Miguel Ángel",
+        "embed": "https://x.com/Miguel07Code/status/2095969648738967726",
+        "thumb": "./media/thumbs/miguel-hyperframes-videos.jpg",
+        "video": "./media/videos/miguel-hyperframes-videos.mp4"
       }
     },
     {
@@ -2666,7 +2813,9 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/nateherk/status/2095987816127705600"
+        "embed": "https://x.com/nateherk/status/2095987816127705600",
+        "thumb": "./media/thumbs/x-2095987816127705600.jpg",
+        "credit": "@nateherk"
       }
     },
     {
@@ -2734,7 +2883,9 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/MatthewBerman/status/2095616764793270705"
+        "embed": "https://x.com/MatthewBerman/status/2095616764793270705",
+        "thumb": "./media/thumbs/x-2095616764793270705.jpg",
+        "credit": "Matthew Berman (@MatthewBerman)"
       }
     },
     {
@@ -2756,7 +2907,9 @@
       "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
       "verified": true,
       "media": {
-        "embed": "https://x.com/Rubzem/status/2095608815492202985"
+        "embed": "https://x.com/Rubzem/status/2095608815492202985",
+        "thumb": "./media/thumbs/x-2095608815492202985.jpg",
+        "credit": "S (@Rubzem)"
       }
     },
     {
@@ -2869,7 +3022,10 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/nateherk/status/2096075129885204811"
+        "embed": "https://x.com/nateherk/status/2096075129885204811",
+        "thumb": "./media/thumbs/x-2096075129885204811.jpg",
+        "video": "./media/videos/x-2096075129885204811.mp4",
+        "credit": "@nateherk"
       }
     },
     {
