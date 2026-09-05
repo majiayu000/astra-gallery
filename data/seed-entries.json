@@ -25,6 +25,328 @@
       }
     },
     {
+      "id": "x-2096085439052452064",
+      "title": {
+        "en": "Asteroids 3D: Deepfield, a one-shot-prompt arcade game with front/rear/side cameras and twin cannons; desktop keyboard play.",
+        "zh": "Asteroids 3D: Deepfield, a one-shot-prompt arcade game with front/rear/side cameras and twin cannons; desktop keyboard play."
+      },
+      "description": {
+        "en": "Asteroids 3D: Deepfield, a one-shot-prompt arcade game with front/rear/side cameras and twin cannons; desktop keyboard play. Media: 2 images.",
+        "zh": "Asteroids 3D: Deepfield, a one-shot-prompt arcade game with front/rear/side cameras and twin cannons; desktop keyboard play. Media: 2 images."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/DantesClown/status/2096085439052452064",
+      "live_url": "https://asteroids-deepfield-cockpit.dan200200.chatgpt.site",
+      "author": "@DantesClown",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/DantesClown/status/2096085439052452064"
+      }
+    },
+    {
+      "id": "x-2096103821470761033",
+      "title": {
+        "en": "Astra Medium made a 3D diamond ring in about 15 minutes from a prompt; creator shared a playable site.",
+        "zh": "Astra Medium made a 3D diamond ring in about 15 minutes from a prompt; creator shared a playable site."
+      },
+      "description": {
+        "en": "Astra Medium made a 3D diamond ring in about 15 minutes from a prompt; creator shared a playable site. Media: 4 images.",
+        "zh": "Astra Medium made a 3D diamond ring in about 15 minutes from a prompt; creator shared a playable site. Media: 4 images."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/LexnLin/status/2096103821470761033",
+      "live_url": "https://diamond-light.lexn8.chatgpt.site",
+      "author": "@LexnLin",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/LexnLin/status/2096103821470761033"
+      }
+    },
+    {
+      "id": "claire-vo-how-i-ai-hardware-hacking-3d-b-26aec0b0",
+      "title": {
+        "en": "Claire Vo / How I AI — hardware hacking + 3D Barbie game review",
+        "zh": "Claire Vo / How I AI — hardware hacking + 3D Barbie game review"
+      },
+      "description": {
+        "en": "Hands-on review with CRM automation, Unity/Blender, Bluetooth speaker hack; distinct from Lenny newsletter entry already catalogued.",
+        "zh": "Hands-on review with CRM automation, Unity/Blender, Bluetooth speaker hack; distinct from Lenny newsletter entry already catalogued."
+      },
+      "category": "3d-spatial",
+      "proof_type": "live-url",
+      "source_url": "https://www.chatprd.ai/how-i-ai/gpt-6-astra-review-hardware-3d-games-and-coding",
+      "live_url": "https://www.chatprd.ai/how-i-ai/gpt-6-astra-review-hardware-3d-games-and-coding",
+      "author": "Claire Vo",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/claire-vo-how-i-ai-hardware-hacking-3d-b-26aec0b0.png"
+      }
+    },
+    {
+      "id": "gpt-6-astra-3d-creations-gallery-48h-x-r-52f37723",
+      "title": {
+        "en": "GPT-6 Astra 3D Creations gallery (48h X roundup)",
+        "zh": "GPT-6 Astra 3D Creations gallery (48h X roundup)"
+      },
+      "description": {
+        "en": "Curated verified three.js/Blender/Unreal Astra builds with engagement stats and several playable demo links.",
+        "zh": "Curated verified three.js/Blender/Unreal Astra builds with engagement stats and several playable demo links."
+      },
+      "category": "3d-spatial",
+      "proof_type": "live-url",
+      "source_url": "https://github.com/yangqiong/gpt6-astra-3d",
+      "live_url": "https://gpt6-astra-3d.pages.dev",
+      "author": "yangqiong",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
+    },
+    {
+      "id": "interactive-dualsense-ps5-controller-in-d34d2477",
+      "title": {
+        "en": "Interactive DualSense (PS5) controller in three.js",
+        "zh": "Interactive DualSense (PS5) controller in three.js"
+      },
+      "description": {
+        "en": "Rotate/press/connect real controller; listed in yangqiong gpt6-astra-3d roundup as Astra build.",
+        "zh": "Rotate/press/connect real controller; listed in yangqiong gpt6-astra-3d roundup as Astra build."
+      },
+      "category": "3d-spatial",
+      "proof_type": "live-url",
+      "source_url": "https://github.com/SafaElmali/dualsense-controller",
+      "live_url": "https://dualsense-controller.netlify.app",
+      "author": "SafaElmali / @SafaElmali",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
+    },
+    {
+      "id": "mosswing-3d-one-tap-flight-astra-one-sho-bf568917",
+      "title": {
+        "en": "Mosswing — 3D one-tap flight (Astra one-shot, xhigh, ~21 min)",
+        "zh": "Mosswing — 3D one-tap flight (Astra one-shot, xhigh, ~21 min)"
+      },
+      "description": {
+        "en": "Public ChatGPT Site demo + repo with original prompt and single-file HTML; listed in awesome-gpt-6-astra.",
+        "zh": "Public ChatGPT Site demo + repo with original prompt and single-file HTML; listed in awesome-gpt-6-astra."
+      },
+      "category": "3d-spatial",
+      "proof_type": "live-url",
+      "source_url": "https://github.com/Ayi1337/gpt6-astra-one-shot-games",
+      "live_url": "https://mosswing-quiet-flight.jack-514.chatgpt.site/",
+      "author": "Ayi1337 / jack-514",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
+    },
+    {
+      "id": "oneshot-3d-game-simulator-prompt-playabl-f659e1b1",
+      "title": {
+        "en": "Oneshot 3D Game Simulator (prompt → playable 3D)",
+        "zh": "Oneshot 3D Game Simulator (prompt → playable 3D)"
+      },
+      "description": {
+        "en": "HN story reacting to Astra one-shot 3D games; Vercel live playground verified 200.",
+        "zh": "HN story reacting to Astra one-shot 3D games; Vercel live playground verified 200."
+      },
+      "category": "3d-spatial",
+      "proof_type": "live-url",
+      "source_url": "https://news.ycombinator.com/item?id=49560740",
+      "live_url": "https://oneshot3dgamesimulator.vercel.app/",
+      "author": "cameronwilsonbf (HN)",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
+    },
+    {
+      "id": "x-2096047660662722620",
+      "title": {
+        "en": "Zork remade as 3D action-adventure",
+        "zh": "Zork remade as 3D action-adventure"
+      },
+      "description": {
+        "en": "Astra turned 1977 Zork into Three.js 3D action-adventure; status id new; Netlify live verified.",
+        "zh": "Astra turned 1977 Zork into Three.js 3D action-adventure; status id new; Netlify live verified."
+      },
+      "category": "3d-spatial",
+      "proof_type": "live-url",
+      "source_url": "https://x.com/emollick/status/2096047660662722620",
+      "live_url": "https://zork-underground-empire.netlify.app/",
+      "author": "@emollick / Ethan Mollick",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/emollick/status/2096047660662722620",
+        "thumb": "./media/thumbs/x-2096047660662722620.jpg"
+      }
+    },
+    {
+      "id": "abyssal-living-deep-procedural-ocean-wor-06838972",
+      "title": {
+        "en": "Abyssal Living Deep — procedural ocean world",
+        "zh": "Abyssal Living Deep — procedural ocean world"
+      },
+      "description": {
+        "en": "Astra expanded open-source ocean sim with procedural deep-sea behavior; Netlify live + GitHub source.",
+        "zh": "Astra expanded open-source ocean sim with procedural deep-sea behavior; Netlify live + GitHub source."
+      },
+      "category": "coding-agent",
+      "proof_type": "live-url",
+      "source_url": "https://github.com/emollick/abyssal-living-deep",
+      "live_url": "https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1",
+      "author": "@emollick / Ethan Mollick",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/abyssal-living-deep-procedural-ocean-wor-06838972.png"
+      }
+    },
+    {
+      "id": "awesome-gpt-6-astra-curated-playable-gam-3e9c6cba",
+      "title": {
+        "en": "Awesome GPT-6 Astra — curated playable games",
+        "zh": "Awesome GPT-6 Astra — curated playable games"
+      },
+      "description": {
+        "en": "Community awesome-list + homepage of Astra games with demos/prompts; updated 2026-09-05.",
+        "zh": "Community awesome-list + homepage of Astra games with demos/prompts; updated 2026-09-05."
+      },
+      "category": "coding-agent",
+      "proof_type": "live-url",
+      "source_url": "https://github.com/MartinDelophy/awesome-gpt-6-astra",
+      "live_url": "https://astragames.aigccreative.com/",
+      "author": "MartinDelophy",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
+    },
+    {
+      "id": "chatgpt-share-gpt-6-astra-first-experien-5c1b79df",
+      "title": {
+        "en": "ChatGPT share — GPT-6 Astra first experience (high)",
+        "zh": "ChatGPT share — GPT-6 Astra first experience (high)"
+      },
+      "description": {
+        "en": "Public ChatGPT transcript share linked from HN; first-hand session artifact.",
+        "zh": "Public ChatGPT transcript share linked from HN; first-hand session artifact."
+      },
+      "category": "coding-agent",
+      "proof_type": "live-url",
+      "source_url": "https://news.ycombinator.com/item?id=49571948",
+      "live_url": "https://chatgpt.com/share/6a9b671d-b780-83ea-bd5d-b0ea39f7d9b3",
+      "author": "nycdatasci (HN)",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
+    },
+    {
+      "id": "computingforgeeks-measured-api-pricing-l-79317d15",
+      "title": {
+        "en": "ComputingForGeeks — measured API pricing/latency for gpt-6-astra",
+        "zh": "ComputingForGeeks — measured API pricing/latency for gpt-6-astra"
+      },
+      "description": {
+        "en": "Claims self-measured endpoint numbers on 2026-09-05 (context window, effort levels, curl examples); more operational than pure launch rewrite.",
+        "zh": "Claims self-measured endpoint numbers on 2026-09-05 (context window, effort levels, curl examples); more operational than pure launch rewrite."
+      },
+      "category": "coding-agent",
+      "proof_type": "live-url",
+      "source_url": "https://computingforgeeks.com/gpt-6-astra-released-features-benchmarks/",
+      "live_url": "https://computingforgeeks.com/gpt-6-astra-released-features-benchmarks/",
+      "author": "ComputingForGeeks",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/computingforgeeks-measured-api-pricing-l-79317d15.png"
+      }
+    },
+    {
+      "id": "x-2096120764135076258",
+      "title": {
+        "en": "GPT-5.6 Sol vs GPT-6 Astra Pro comparison of the Tea Garden scene, with side-by-side visual output.",
+        "zh": "GPT-5.6 Sol vs GPT-6 Astra Pro comparison of the Tea Garden scene, with side-by-side visual output."
+      },
+      "description": {
+        "en": "GPT-5.6 Sol vs GPT-6 Astra Pro comparison of the Tea Garden scene, with side-by-side visual output. Media: 2 images.",
+        "zh": "GPT-5.6 Sol vs GPT-6 Astra Pro comparison of the Tea Garden scene, with side-by-side visual output. Media: 2 images."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/MooncastOnline/status/2096120764135076258",
+      "live_url": "https://reachablegames.com/teagarden.html",
+      "author": "@MooncastOnline",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/MooncastOnline/status/2096120764135076258"
+      }
+    },
+    {
+      "id": "gpt6astra-watch-crowd-rollout-map-accoun-1818145e",
+      "title": {
+        "en": "gpt6astra.watch — crowd rollout map / account watcher",
+        "zh": "gpt6astra.watch — crowd rollout map / account watcher"
+      },
+      "description": {
+        "en": "Public tooling repo for watching GPT-6 Astra rollout across platforms; useful meta-artifact.",
+        "zh": "Public tooling repo for watching GPT-6 Astra rollout across platforms; useful meta-artifact."
+      },
+      "category": "coding-agent",
+      "proof_type": "live-url",
+      "source_url": "https://github.com/hancengiz/gpt6astra.watch",
+      "live_url": "https://github.com/hancengiz/gpt6astra.watch",
+      "author": "hancengiz",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/gpt6astra-watch-crowd-rollout-map-accoun-1818145e.jpg"
+      }
+    },
+    {
+      "id": "x-2096120761681338669",
+      "title": {
+        "en": "Japanese Tea Garden Bench / Komorebi, an interactive GPT-6 Astra Pro build; post links the reachable playable site.",
+        "zh": "Japanese Tea Garden Bench / Komorebi, an interactive GPT-6 Astra Pro build; post links the reachable playable site."
+      },
+      "description": {
+        "en": "Japanese Tea Garden Bench / Komorebi, an interactive GPT-6 Astra Pro build; post links the reachable playable site. Media: video (0:54).",
+        "zh": "Japanese Tea Garden Bench / Komorebi, an interactive GPT-6 Astra Pro build; post links the reachable playable site. Media: video (0:54)."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/MooncastOnline/status/2096120761681338669",
+      "live_url": "https://reachablegames.com/teagarden.html",
+      "author": "@MooncastOnline",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/MooncastOnline/status/2096120761681338669",
+        "thumb": "./media/thumbs/x-2096120761681338669.jpg",
+        "video": "./media/videos/x-2096120761681338669.mp4",
+        "credit": "@MooncastOnline"
+      }
+    },
+    {
       "id": "x-2095596867081916653",
       "title": {
         "en": "macOS 27 simulator (75 minutes) with cloud sync + working apps",
@@ -45,6 +367,479 @@
       "media": {
         "embed": "https://x.com/mweinbach/status/2095596867081916653"
       }
+    },
+    {
+      "id": "magic-carpet-wizard-a-thousand-skies-thr-86cee5f9",
+      "title": {
+        "en": "Magic Carpet Wizard — A Thousand Skies (Three.js arcade)",
+        "zh": "Magic Carpet Wizard — A Thousand Skies (Three.js arcade)"
+      },
+      "description": {
+        "en": "Full browser game attributed to GPT-6 Astra; GitHub Pages live; also curated in awesome-gpt-6-astra.",
+        "zh": "Full browser game attributed to GPT-6 Astra; GitHub Pages live; also curated in awesome-gpt-6-astra."
+      },
+      "category": "coding-agent",
+      "proof_type": "live-url",
+      "source_url": "https://github.com/threapchills/MagicCarpetWizard",
+      "live_url": "https://threapchills.github.io/MagicCarpetWizard/",
+      "author": "threapchills",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
+    },
+    {
+      "id": "microsoft-foundry-gpt-6-astra-ga-announc-50fd8613",
+      "title": {
+        "en": "Microsoft Foundry — GPT-6 Astra GA announcement",
+        "zh": "Microsoft Foundry — GPT-6 Astra GA announcement"
+      },
+      "description": {
+        "en": "Enterprise deploy path not in gallery; Foundry Standard/Provisioned Throughput availability.",
+        "zh": "Enterprise deploy path not in gallery; Foundry Standard/Provisioned Throughput availability."
+      },
+      "category": "coding-agent",
+      "proof_type": "live-url",
+      "source_url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
+      "live_url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
+      "author": "Steve Sweetman & Naomi Moneypenny / Microsoft Azure",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/microsoft-foundry-gpt-6-astra-ga-announc-50fd8613.png"
+      }
+    },
+    {
+      "id": "x-2096018636079026498",
+      "title": {
+        "en": "One-shot website-design outputs: Astra used the creator's scroll-craft skill and built multiple websites from an instruction to impress.",
+        "zh": "One-shot website-design outputs: Astra used the creator's scroll-craft skill and built multiple websites from an instruction to impress."
+      },
+      "description": {
+        "en": "One-shot website-design outputs: Astra used the creator's scroll-craft skill and built multiple websites from an instruction to impress. Media: video (0:37).",
+        "zh": "One-shot website-design outputs: Astra used the creator's scroll-craft skill and built multiple websites from an instruction to impress. Media: video (0:37)."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/nateherk/status/2096018636079026498",
+      "live_url": "https://github.com/nateherkai/scroll-craft",
+      "author": "@nateherk",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/nateherk/status/2096018636079026498",
+        "thumb": "./media/thumbs/x-2096018636079026498.jpg",
+        "video": "./media/videos/x-2096018636079026498.mp4",
+        "credit": "@nateherk"
+      }
+    },
+    {
+      "id": "openai-api-model-page-gpt-6-astra-93682c1d",
+      "title": {
+        "en": "OpenAI API model page — gpt-6-astra",
+        "zh": "OpenAI API model page — gpt-6-astra"
+      },
+      "description": {
+        "en": "Canonical model card (efforts low→max, snapshots); gallery has latest-model guide but not this models/gpt-6-astra URL.",
+        "zh": "Canonical model card (efforts low→max, snapshots); gallery has latest-model guide but not this models/gpt-6-astra URL."
+      },
+      "category": "coding-agent",
+      "proof_type": "live-url",
+      "source_url": "https://developers.openai.com/api/docs/models/gpt-6-astra",
+      "live_url": "https://developers.openai.com/api/docs/models/gpt-6-astra",
+      "author": "OpenAI",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/openai-api-model-page-gpt-6-astra-93682c1d.png"
+      }
+    },
+    {
+      "id": "x-2096069429646004337",
+      "title": {
+        "en": "Recreated Minecraft Redstone mechanics with Astra Light; reported completion in 21:26 and showed the working simulator.",
+        "zh": "Recreated Minecraft Redstone mechanics with Astra Light; reported completion in 21:26 and showed the working simulator."
+      },
+      "description": {
+        "en": "Recreated Minecraft Redstone mechanics with Astra Light; reported completion in 21:26 and showed the working simulator. Media: image/screenshot.",
+        "zh": "Recreated Minecraft Redstone mechanics with Astra Light; reported completion in 21:26 and showed the working simulator. Media: image/screenshot."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/jun1228909/status/2096069429646004337",
+      "live_url": "https://redstone-workshop.junjun76.chatgpt.site",
+      "author": "@jun1228909",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/jun1228909/status/2096069429646004337"
+      }
+    },
+    {
+      "id": "x-2096065787698327849",
+      "title": {
+        "en": "Second playable game, Seas of Fear, which the author says is built and playable now (still polishing).",
+        "zh": "Second playable game, Seas of Fear, which the author says is built and playable now (still polishing)."
+      },
+      "description": {
+        "en": "Second playable game, Seas of Fear, which the author says is built and playable now (still polishing). Media: image/screenshot.",
+        "zh": "Second playable game, Seas of Fear, which the author says is built and playable now (still polishing). Media: image/screenshot."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/WesRoth/status/2096065787698327849",
+      "live_url": "https://sentient-crystal-ct94.here.now",
+      "author": "@WesRoth",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/WesRoth/status/2096065787698327849",
+        "thumb": "./media/thumbs/x-2096065787698327849.jpg"
+      }
+    },
+    {
+      "id": "simon-willison-astra-pelican-svg-compari-631b6c23",
+      "title": {
+        "en": "Simon Willison — Astra pelican SVG comparison grid",
+        "zh": "Simon Willison — Astra pelican SVG comparison grid"
+      },
+      "description": {
+        "en": "New Sep 4 write-up + static comparison grid across Astra effort levels vs Sol/Terra/Luna; gallery only has Sep 3 notes.",
+        "zh": "New Sep 4 write-up + static comparison grid across Astra effort levels vs Sol/Terra/Luna; gallery only has Sep 3 notes."
+      },
+      "category": "coding-agent",
+      "proof_type": "live-url",
+      "source_url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+      "live_url": "https://static.simonwillison.net/static/2026/gpt-6-and-5.6-pelicans.html",
+      "author": "Simon Willison",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
+    },
+    {
+      "id": "the-last-lawn-browser-lawn-defense-game-295c33cd",
+      "title": {
+        "en": "The Last Lawn — browser lawn-defense game (~45 min)",
+        "zh": "The Last Lawn — browser lawn-defense game (~45 min)"
+      },
+      "description": {
+        "en": "Repo description: Built with GPT-6 Astra in 45 minutes; TypeScript/Vite; GitHub Pages.",
+        "zh": "Repo description: Built with GPT-6 Astra in 45 minutes; TypeScript/Vite; GitHub Pages."
+      },
+      "category": "coding-agent",
+      "proof_type": "live-url",
+      "source_url": "https://github.com/angxuejian/the-last-lawn",
+      "live_url": "https://angxuejian.github.io/the-last-lawn/",
+      "author": "angxuejian",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
+    },
+    {
+      "id": "x-2096091536551461161",
+      "title": {
+        "en": "THE ROAD DREAMS: a ~4:30 audiovisual night-drive through five moods; user drives a small car through a private-room-like world.",
+        "zh": "THE ROAD DREAMS: a ~4:30 audiovisual night-drive through five moods; user drives a small car through a private-room-like world."
+      },
+      "description": {
+        "en": "THE ROAD DREAMS: a ~4:30 audiovisual night-drive through five moods; user drives a small car through a private-room-like world. Media: 4 images.",
+        "zh": "THE ROAD DREAMS: a ~4:30 audiovisual night-drive through five moods; user drives a small car through a private-room-like world. Media: 4 images."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/kerwinxiao24/status/2096091536551461161",
+      "live_url": "https://the-road-dreams.x2026283037.chatgpt.site",
+      "author": "@kerwinxiao24",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/kerwinxiao24/status/2096091536551461161"
+      }
+    },
+    {
+      "id": "tidal-rush-paradise-kart-racing-chatgpt-4f19873d",
+      "title": {
+        "en": "Tidal Rush Paradise — kart/racing ChatGPT Site demo",
+        "zh": "Tidal Rush Paradise — kart/racing ChatGPT Site demo"
+      },
+      "description": {
+        "en": "Launch-week Astra ChatGPT Site kart demo (cited in HN rollout comments); live URL returns 200. Not previously catalogued as live_url/source.",
+        "zh": "Launch-week Astra ChatGPT Site kart demo (cited in HN rollout comments); live URL returns 200. Not previously catalogued as live_url/source."
+      },
+      "category": "coding-agent",
+      "proof_type": "live-url",
+      "source_url": "https://tidal-rush-paradise-gp.skirano.chatgpt.site/",
+      "live_url": "https://tidal-rush-paradise-gp.skirano.chatgpt.site/",
+      "author": "@skirano / Playco-adjacent community",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
+    },
+    {
+      "id": "x-2095776685807346105",
+      "title": {
+        "en": "Van Gogh Town — walkable three.js town from 6 paintings",
+        "zh": "Van Gogh Town — walkable three.js town from 6 paintings"
+      },
+      "description": {
+        "en": "Astra Max blend of Van Gogh paintings into FPS town; status id not in gallery; live Surge demo verified 200.",
+        "zh": "Astra Max blend of Van Gogh paintings into FPS town; status id not in gallery; live Surge demo verified 200."
+      },
+      "category": "coding-agent",
+      "proof_type": "live-url",
+      "source_url": "https://x.com/petergostev/status/2095776685807346105",
+      "live_url": "https://van-goghs-town.surge.sh/",
+      "author": "@petergostev",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/petergostev/status/2095776685807346105",
+        "thumb": "./media/thumbs/x-2095776685807346105.jpg"
+      }
+    },
+    {
+      "id": "void-explorer-shipyard-official-openai-c-14d0e207",
+      "title": {
+        "en": "Void Explorer shipyard (official OpenAI ChatGPT Site)",
+        "zh": "Void Explorer shipyard (official OpenAI ChatGPT Site)"
+      },
+      "description": {
+        "en": "Live official Sites demo linked from HN launch discussion; showcase page documents Astra build process. Gallery has related writeups but not this live URL.",
+        "zh": "Live official Sites demo linked from HN launch discussion; showcase page documents Astra build process. Gallery has related writeups but not this live URL."
+      },
+      "category": "coding-agent",
+      "proof_type": "live-url",
+      "source_url": "https://developers.openai.com/showcase/void-explorer",
+      "live_url": "https://voidexplorer-shipyard.openai.chatgpt.site/",
+      "author": "Thomas Ricouard / OpenAI",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
+    },
+    {
+      "id": "k-the-conjecture-lean-4-disproof-epoch-e-642b58d2",
+      "title": {
+        "en": "Köthe conjecture Lean 4 disproof (Epoch eval, Astra)",
+        "zh": "Köthe conjecture Lean 4 disproof (Epoch eval, Astra)"
+      },
+      "description": {
+        "en": "Machine-checked Lean proof found autonomously by pre-release GPT-6 Astra in Epoch LeanOpenProblems Wikipedia collection; CI badge.",
+        "zh": "Machine-checked Lean proof found autonomously by pre-release GPT-6 Astra in Epoch LeanOpenProblems Wikipedia collection; CI badge."
+      },
+      "category": "math-science",
+      "proof_type": "live-url",
+      "source_url": "https://github.com/tadamcz/koethe",
+      "live_url": "https://github.com/tadamcz/koethe",
+      "author": "Tom Adamczewski / Epoch AI run",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/k-the-conjecture-lean-4-disproof-epoch-e-642b58d2.jpg"
+      }
+    },
+    {
+      "id": "prime-gaps-at-most-186-openai-math-artif-341a11c9",
+      "title": {
+        "en": "Prime Gaps at Most 186 (OpenAI math artifact)",
+        "zh": "Prime Gaps at Most 186 (OpenAI math artifact)"
+      },
+      "description": {
+        "en": "Public math/repo artifact tied to Astra-era HN discussion; distinct from Epoch FrontierMath Erdos page already catalogued.",
+        "zh": "Public math/repo artifact tied to Astra-era HN discussion; distinct from Epoch FrontierMath Erdos page already catalogued."
+      },
+      "category": "math-science",
+      "proof_type": "live-url",
+      "source_url": "https://github.com/openai/PrimeGaps186",
+      "live_url": "https://github.com/openai/PrimeGaps186",
+      "author": "OpenAI",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/prime-gaps-at-most-186-openai-math-artif-341a11c9.jpg"
+      }
+    },
+    {
+      "id": "ai-benchy-svg-generation-compare-astra-v-560144e5",
+      "title": {
+        "en": "AI Benchy SVG/generation compare — Astra vs Gemini 3.8 Flash",
+        "zh": "AI Benchy SVG/generation compare — Astra vs Gemini 3.8 Flash"
+      },
+      "description": {
+        "en": "Independent side-by-side generation bench cited on HN OpenRouter thread for Astra SVG quality.",
+        "zh": "Independent side-by-side generation bench cited on HN OpenRouter thread for Astra SVG quality."
+      },
+      "category": "cost-economics",
+      "proof_type": "live-url",
+      "source_url": "https://aibenchy.com/compare/google-gemini-3-8-flash-high/openai-gpt-6-astra-high/",
+      "live_url": "https://aibenchy.com/compare/google-gemini-3-8-flash-high/openai-gpt-6-astra-high/",
+      "author": "AI Benchy",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/ai-benchy-svg-generation-compare-astra-v-560144e5.png"
+      }
+    },
+    {
+      "id": "arc-agi-official-results-page-for-gpt-6-8a5f2fa2",
+      "title": {
+        "en": "ARC-AGI official results page for GPT-6 Astra",
+        "zh": "ARC-AGI official results page for GPT-6 Astra"
+      },
+      "description": {
+        "en": "Per-effort verified scores for ARC-AGI-1/2/3 Standard vs Provider Adapter; distinct from already-catalogued arcprize.org/blog/astra.",
+        "zh": "Per-effort verified scores for ARC-AGI-1/2/3 Standard vs Provider Adapter; distinct from already-catalogued arcprize.org/blog/astra."
+      },
+      "category": "cost-economics",
+      "proof_type": "live-url",
+      "source_url": "https://arcprize.org/results/openai-gpt-6-astra",
+      "live_url": "https://arcprize.org/results/openai-gpt-6-astra",
+      "author": "ARC Prize",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/arc-agi-official-results-page-for-gpt-6-8a5f2fa2.jpg"
+      }
+    },
+    {
+      "id": "artificial-analysis-model-card-gpt-6-ast-5aa93b5c",
+      "title": {
+        "en": "Artificial Analysis model card — GPT-6 Astra (max)",
+        "zh": "Artificial Analysis model card — GPT-6 Astra (max)"
+      },
+      "description": {
+        "en": "Live Intelligence/Speed/Cost index page; gallery already has the benchmarking article, not this model page.",
+        "zh": "Live Intelligence/Speed/Cost index page; gallery already has the benchmarking article, not this model page."
+      },
+      "category": "cost-economics",
+      "proof_type": "live-url",
+      "source_url": "https://artificialanalysis.ai/models/gpt-6-astra",
+      "live_url": "https://artificialanalysis.ai/models/gpt-6-astra",
+      "author": "Artificial Analysis",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/artificial-analysis-model-card-gpt-6-ast-5aa93b5c.jpg"
+      }
+    },
+    {
+      "id": "eebench-leaderboard-astra-1-at-69-3-circ-180c87a2",
+      "title": {
+        "en": "EEBench leaderboard — Astra #1 at 69.3% circuit design",
+        "zh": "EEBench leaderboard — Astra #1 at 69.3% circuit design"
+      },
+      "description": {
+        "en": "Independent electrical-engineering agent bench; leaderboard-data.js shows GPT-6 Astra score_pct 69.3 (Codex CLI). Blog post also discusses KiCad launch demo.",
+        "zh": "Independent electrical-engineering agent bench; leaderboard-data.js shows GPT-6 Astra score_pct 69.3 (Codex CLI). Blog post also discusses KiCad launch demo."
+      },
+      "category": "cost-economics",
+      "proof_type": "live-url",
+      "source_url": "https://eebench.org/",
+      "live_url": "https://eebench.org/",
+      "author": "atopile / EEBench",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/eebench-leaderboard-astra-1-at-69-3-circ-180c87a2.png"
+      }
+    },
+    {
+      "id": "findcheap-search-agent-claiming-to-beat-b4a0ad47",
+      "title": {
+        "en": "FindCheap — search agent claiming to beat Astra on benches",
+        "zh": "FindCheap — search agent claiming to beat Astra on benches"
+      },
+      "description": {
+        "en": "Independent agent launch post framed against Astra benchmarks (HN); competitive artifact rather than news clone.",
+        "zh": "Independent agent launch post framed against Astra benchmarks (HN); competitive artifact rather than news clone."
+      },
+      "category": "cost-economics",
+      "proof_type": "live-url",
+      "source_url": "https://findcheap.ai/introducing-findcheap",
+      "live_url": "https://findcheap.ai/introducing-findcheap",
+      "author": "findcheap.ai",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/findcheap-search-agent-claiming-to-beat-b4a0ad47.jpg"
+      }
+    },
+    {
+      "id": "hn-main-discussion-gpt-6-astra-2000-comm-70134dc9",
+      "title": {
+        "en": "HN main discussion — GPT-6 Astra (2000+ comments)",
+        "zh": "HN main discussion — GPT-6 Astra (2000+ comments)"
+      },
+      "description": {
+        "en": "Primary HN model thread (distinct from already-catalogued rollout + AA skepticism threads); dense links to demos/benches.",
+        "zh": "Primary HN model thread (distinct from already-catalogued rollout + AA skepticism threads); dense links to demos/benches."
+      },
+      "category": "cost-economics",
+      "proof_type": "live-url",
+      "source_url": "https://news.ycombinator.com/item?id=49554643",
+      "live_url": "https://news.ycombinator.com/item?id=49554643",
+      "author": "kibae / Hacker News",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
+    },
+    {
+      "id": "lesswrong-astra-recurrent-neuralese-arch-0242cae0",
+      "title": {
+        "en": "LessWrong — Astra recurrent / neuralese architecture concerns",
+        "zh": "LessWrong — Astra recurrent / neuralese architecture concerns"
+      },
+      "description": {
+        "en": "Technical safety write-up on looped-transformer / CoT controllability; cited heavily on HN; not in gallery.",
+        "zh": "Technical safety write-up on looped-transformer / CoT controllability; cited heavily on HN; not in gallery."
+      },
+      "category": "cost-economics",
+      "proof_type": "live-url",
+      "source_url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+      "live_url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+      "author": "LessWrong (HN: famouswaffles thread)",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
+    },
+    {
+      "id": "wikipedia-gpt-6-astra-b37ba752",
+      "title": {
+        "en": "Wikipedia — GPT-6 Astra",
+        "zh": "Wikipedia — GPT-6 Astra"
+      },
+      "description": {
+        "en": "Public encyclopedia entry covering release timeline, cyber gating, recurrent-depth monitorability notes.",
+        "zh": "Public encyclopedia entry covering release timeline, cyber gating, recurrent-depth monitorability notes."
+      },
+      "category": "safety-monitorability",
+      "proof_type": "live-url",
+      "source_url": "https://en.wikipedia.org/wiki/GPT-6_Astra",
+      "live_url": "https://en.wikipedia.org/wiki/GPT-6_Astra",
+      "author": "Wikipedia contributors",
+      "cost_note": null,
+      "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
     },
     {
       "id": "techau-background-computer-use",
@@ -233,7 +1028,8 @@
       "why_included": "Primary long-form field report for Shumer-scale Unreal demos without inventing X links.",
       "verified": true,
       "media": {
-        "credit": "somethingbig.ai"
+        "credit": "somethingbig.ai",
+        "thumb": "./media/thumbs/somethingbig-manager-loop-review.png"
       }
     },
     {
@@ -385,28 +1181,6 @@
       }
     },
     {
-      "id": "x-2096085439052452064",
-      "title": {
-        "en": "Asteroids 3D: Deepfield, a one-shot-prompt arcade game with front/rear/side cameras and twin cannons; desktop keyboard play.",
-        "zh": "Asteroids 3D: Deepfield, a one-shot-prompt arcade game with front/rear/side cameras and twin cannons; desktop keyboard play."
-      },
-      "description": {
-        "en": "Asteroids 3D: Deepfield, a one-shot-prompt arcade game with front/rear/side cameras and twin cannons; desktop keyboard play. Media: 2 images.",
-        "zh": "Asteroids 3D: Deepfield, a one-shot-prompt arcade game with front/rear/side cameras and twin cannons; desktop keyboard play. Media: 2 images."
-      },
-      "category": "3d-spatial",
-      "proof_type": "demo-video",
-      "source_url": "https://x.com/DantesClown/status/2096085439052452064",
-      "live_url": "https://asteroids-deepfield-cockpit.dan200200.chatgpt.site",
-      "author": "@DantesClown",
-      "cost_note": null,
-      "why_included": "Collected by browsing public x.com search (no X API).",
-      "verified": true,
-      "media": {
-        "embed": "https://x.com/DantesClown/status/2096085439052452064"
-      }
-    },
-    {
       "id": "x-2096023538499309967",
       "title": {
         "en": "Astra built a golf course that refuses to let the player miss; creator says it built the 3D scene, animation, and sound.",
@@ -478,28 +1252,6 @@
         "thumb": "./media/thumbs/x-2096072544491336005.jpg",
         "video": "./media/videos/x-2096072544491336005.mp4",
         "credit": "@WesRoth"
-      }
-    },
-    {
-      "id": "x-2096103821470761033",
-      "title": {
-        "en": "Astra Medium made a 3D diamond ring in about 15 minutes from a prompt; creator shared a playable site.",
-        "zh": "Astra Medium made a 3D diamond ring in about 15 minutes from a prompt; creator shared a playable site."
-      },
-      "description": {
-        "en": "Astra Medium made a 3D diamond ring in about 15 minutes from a prompt; creator shared a playable site. Media: 4 images.",
-        "zh": "Astra Medium made a 3D diamond ring in about 15 minutes from a prompt; creator shared a playable site. Media: 4 images."
-      },
-      "category": "3d-spatial",
-      "proof_type": "demo-video",
-      "source_url": "https://x.com/LexnLin/status/2096103821470761033",
-      "live_url": "https://diamond-light.lexn8.chatgpt.site",
-      "author": "@LexnLin",
-      "cost_note": null,
-      "why_included": "Collected by browsing public x.com search (no X API).",
-      "verified": true,
-      "media": {
-        "embed": "https://x.com/LexnLin/status/2096103821470761033"
       }
     },
     {
@@ -1784,28 +2536,6 @@
       }
     },
     {
-      "id": "x-2096120764135076258",
-      "title": {
-        "en": "GPT-5.6 Sol vs GPT-6 Astra Pro comparison of the Tea Garden scene, with side-by-side visual output.",
-        "zh": "GPT-5.6 Sol vs GPT-6 Astra Pro comparison of the Tea Garden scene, with side-by-side visual output."
-      },
-      "description": {
-        "en": "GPT-5.6 Sol vs GPT-6 Astra Pro comparison of the Tea Garden scene, with side-by-side visual output. Media: 2 images.",
-        "zh": "GPT-5.6 Sol vs GPT-6 Astra Pro comparison of the Tea Garden scene, with side-by-side visual output. Media: 2 images."
-      },
-      "category": "coding-agent",
-      "proof_type": "demo-video",
-      "source_url": "https://x.com/MooncastOnline/status/2096120764135076258",
-      "live_url": "https://reachablegames.com/teagarden.html",
-      "author": "@MooncastOnline",
-      "cost_note": null,
-      "why_included": "Collected by browsing public x.com search (no X API).",
-      "verified": true,
-      "media": {
-        "embed": "https://x.com/MooncastOnline/status/2096120764135076258"
-      }
-    },
-    {
       "id": "x-2095619201105059974",
       "title": {
         "en": "GPT-6 Astra full breakdown",
@@ -1950,31 +2680,6 @@
       }
     },
     {
-      "id": "x-2096120761681338669",
-      "title": {
-        "en": "Japanese Tea Garden Bench / Komorebi, an interactive GPT-6 Astra Pro build; post links the reachable playable site.",
-        "zh": "Japanese Tea Garden Bench / Komorebi, an interactive GPT-6 Astra Pro build; post links the reachable playable site."
-      },
-      "description": {
-        "en": "Japanese Tea Garden Bench / Komorebi, an interactive GPT-6 Astra Pro build; post links the reachable playable site. Media: video (0:54).",
-        "zh": "Japanese Tea Garden Bench / Komorebi, an interactive GPT-6 Astra Pro build; post links the reachable playable site. Media: video (0:54)."
-      },
-      "category": "coding-agent",
-      "proof_type": "demo-video",
-      "source_url": "https://x.com/MooncastOnline/status/2096120761681338669",
-      "live_url": "https://reachablegames.com/teagarden.html",
-      "author": "@MooncastOnline",
-      "cost_note": null,
-      "why_included": "Collected by browsing public x.com search (no X API).",
-      "verified": true,
-      "media": {
-        "embed": "https://x.com/MooncastOnline/status/2096120761681338669",
-        "thumb": "./media/thumbs/x-2096120761681338669.jpg",
-        "video": "./media/videos/x-2096120761681338669.mp4",
-        "credit": "@MooncastOnline"
-      }
-    },
-    {
       "id": "latent-space-ai-engineer",
       "title": {
         "en": "Latent Space: AI engineer for <$6/hour",
@@ -2081,31 +2786,6 @@
         "thumb": "./media/thumbs/x-2095819740694577203.jpg",
         "video": "./media/videos/x-2095819740694577203.mp4",
         "credit": "Tim Jayas (@TimJayas)"
-      }
-    },
-    {
-      "id": "x-2096018636079026498",
-      "title": {
-        "en": "One-shot website-design outputs: Astra used the creator's scroll-craft skill and built multiple websites from an instruction to impress.",
-        "zh": "One-shot website-design outputs: Astra used the creator's scroll-craft skill and built multiple websites from an instruction to impress."
-      },
-      "description": {
-        "en": "One-shot website-design outputs: Astra used the creator's scroll-craft skill and built multiple websites from an instruction to impress. Media: video (0:37).",
-        "zh": "One-shot website-design outputs: Astra used the creator's scroll-craft skill and built multiple websites from an instruction to impress. Media: video (0:37)."
-      },
-      "category": "coding-agent",
-      "proof_type": "demo-video",
-      "source_url": "https://x.com/nateherk/status/2096018636079026498",
-      "live_url": "https://github.com/nateherkai/scroll-craft",
-      "author": "@nateherk",
-      "cost_note": null,
-      "why_included": "Collected by browsing public x.com search (no X API).",
-      "verified": true,
-      "media": {
-        "embed": "https://x.com/nateherk/status/2096018636079026498",
-        "thumb": "./media/thumbs/x-2096018636079026498.jpg",
-        "video": "./media/videos/x-2096018636079026498.mp4",
-        "credit": "@nateherk"
       }
     },
     {
@@ -2248,50 +2928,6 @@
       }
     },
     {
-      "id": "x-2096069429646004337",
-      "title": {
-        "en": "Recreated Minecraft Redstone mechanics with Astra Light; reported completion in 21:26 and showed the working simulator.",
-        "zh": "Recreated Minecraft Redstone mechanics with Astra Light; reported completion in 21:26 and showed the working simulator."
-      },
-      "description": {
-        "en": "Recreated Minecraft Redstone mechanics with Astra Light; reported completion in 21:26 and showed the working simulator. Media: image/screenshot.",
-        "zh": "Recreated Minecraft Redstone mechanics with Astra Light; reported completion in 21:26 and showed the working simulator. Media: image/screenshot."
-      },
-      "category": "coding-agent",
-      "proof_type": "demo-video",
-      "source_url": "https://x.com/jun1228909/status/2096069429646004337",
-      "live_url": "https://redstone-workshop.junjun76.chatgpt.site",
-      "author": "@jun1228909",
-      "cost_note": null,
-      "why_included": "Collected by browsing public x.com search (no X API).",
-      "verified": true,
-      "media": {
-        "embed": "https://x.com/jun1228909/status/2096069429646004337"
-      }
-    },
-    {
-      "id": "x-2096065787698327849",
-      "title": {
-        "en": "Second playable game, Seas of Fear, which the author says is built and playable now (still polishing).",
-        "zh": "Second playable game, Seas of Fear, which the author says is built and playable now (still polishing)."
-      },
-      "description": {
-        "en": "Second playable game, Seas of Fear, which the author says is built and playable now (still polishing). Media: image/screenshot.",
-        "zh": "Second playable game, Seas of Fear, which the author says is built and playable now (still polishing). Media: image/screenshot."
-      },
-      "category": "coding-agent",
-      "proof_type": "demo-video",
-      "source_url": "https://x.com/WesRoth/status/2096065787698327849",
-      "live_url": "https://sentient-crystal-ct94.here.now",
-      "author": "@WesRoth",
-      "cost_note": null,
-      "why_included": "Collected by browsing public x.com search (no X API).",
-      "verified": true,
-      "media": {
-        "embed": "https://x.com/WesRoth/status/2096065787698327849"
-      }
-    },
-    {
       "id": "stork-astra-playable-games",
       "title": {
         "en": "Stork: Astra Fall Guys-style playable in minutes",
@@ -2354,28 +2990,6 @@
       "media": {
         "thumb": "./media/thumbs/testingcatalog-first-outputs.jpg",
         "credit": "TestingCatalog"
-      }
-    },
-    {
-      "id": "x-2096091536551461161",
-      "title": {
-        "en": "THE ROAD DREAMS: a ~4:30 audiovisual night-drive through five moods; user drives a small car through a private-room-like world.",
-        "zh": "THE ROAD DREAMS: a ~4:30 audiovisual night-drive through five moods; user drives a small car through a private-room-like world."
-      },
-      "description": {
-        "en": "THE ROAD DREAMS: a ~4:30 audiovisual night-drive through five moods; user drives a small car through a private-room-like world. Media: 4 images.",
-        "zh": "THE ROAD DREAMS: a ~4:30 audiovisual night-drive through five moods; user drives a small car through a private-room-like world. Media: 4 images."
-      },
-      "category": "coding-agent",
-      "proof_type": "demo-video",
-      "source_url": "https://x.com/kerwinxiao24/status/2096091536551461161",
-      "live_url": "https://the-road-dreams.x2026283037.chatgpt.site",
-      "author": "@kerwinxiao24",
-      "cost_note": null,
-      "why_included": "Collected by browsing public x.com search (no X API).",
-      "verified": true,
-      "media": {
-        "embed": "https://x.com/kerwinxiao24/status/2096091536551461161"
       }
     },
     {

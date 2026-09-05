@@ -1,0 +1,242 @@
+[
+  {
+    "title": "Mosswing — 3D one-tap flight (Astra one-shot, xhigh, ~21 min)",
+    "author": "Ayi1337 / jack-514",
+    "source_url": "https://github.com/Ayi1337/gpt6-astra-one-shot-games",
+    "live_url": "https://mosswing-quiet-flight.jack-514.chatgpt.site/",
+    "note": "Public ChatGPT Site demo + repo with original prompt and single-file HTML; listed in awesome-gpt-6-astra.",
+    "confidence": "high"
+  },
+  {
+    "title": "瓜体实验室 / Melon Lab — semi-fluid fruit physics game",
+    "author": "Ayi1337 / jack-514",
+    "source_url": "https://github.com/Ayi1337/gpt6-astra-one-shot-games",
+    "live_url": "https://melon-game.jack-514.chatgpt.site/",
+    "note": "Second one-shot from same Astra games repo; live ChatGPT Site + downloadable HTML.",
+    "confidence": "high"
+  },
+  {
+    "title": "Magic Carpet Wizard — A Thousand Skies (Three.js arcade)",
+    "author": "threapchills",
+    "source_url": "https://github.com/threapchills/MagicCarpetWizard",
+    "live_url": "https://threapchills.github.io/MagicCarpetWizard/",
+    "note": "Full browser game attributed to GPT-6 Astra; GitHub Pages live; also curated in awesome-gpt-6-astra.",
+    "confidence": "high"
+  },
+  {
+    "title": "The Last Lawn — browser lawn-defense game (~45 min)",
+    "author": "angxuejian",
+    "source_url": "https://github.com/angxuejian/the-last-lawn",
+    "live_url": "https://angxuejian.github.io/the-last-lawn/",
+    "note": "Repo description: Built with GPT-6 Astra in 45 minutes; TypeScript/Vite; GitHub Pages.",
+    "confidence": "high"
+  },
+  {
+    "title": "Van Gogh Town — walkable three.js town from 6 paintings",
+    "author": "@petergostev",
+    "source_url": "https://x.com/petergostev/status/2095776685807346105",
+    "live_url": "https://van-goghs-town.surge.sh/",
+    "note": "Astra Max blend of Van Gogh paintings into FPS town; status id not in gallery; live Surge demo verified 200.",
+    "confidence": "high"
+  },
+  {
+    "title": "Abyssal Living Deep — procedural ocean world",
+    "author": "@emollick / Ethan Mollick",
+    "source_url": "https://github.com/emollick/abyssal-living-deep",
+    "live_url": "https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1",
+    "note": "Astra expanded open-source ocean sim with procedural deep-sea behavior; Netlify live + GitHub source.",
+    "confidence": "high"
+  },
+  {
+    "title": "Zork remade as 3D action-adventure",
+    "author": "@emollick / Ethan Mollick",
+    "source_url": "https://x.com/emollick/status/2096047660662722620",
+    "live_url": "https://zork-underground-empire.netlify.app/",
+    "note": "Astra turned 1977 Zork into Three.js 3D action-adventure; status id new; Netlify live verified.",
+    "confidence": "high"
+  },
+  {
+    "title": "Interactive DualSense (PS5) controller in three.js",
+    "author": "SafaElmali / @SafaElmali",
+    "source_url": "https://github.com/SafaElmali/dualsense-controller",
+    "live_url": "https://dualsense-controller.netlify.app",
+    "note": "Rotate/press/connect real controller; listed in yangqiong gpt6-astra-3d roundup as Astra build.",
+    "confidence": "high"
+  },
+  {
+    "title": "Void Explorer shipyard (official OpenAI ChatGPT Site)",
+    "author": "Thomas Ricouard / OpenAI",
+    "source_url": "https://developers.openai.com/showcase/void-explorer",
+    "live_url": "https://voidexplorer-shipyard.openai.chatgpt.site/",
+    "note": "Live official Sites demo linked from HN launch discussion; showcase page documents Astra build process. Gallery has related writeups but not this live URL.",
+    "confidence": "high"
+  },
+  {
+    "title": "Tidal Rush Paradise — kart/racing ChatGPT Site demo",
+    "author": "@skirano / Playco-adjacent community",
+    "source_url": "https://tidal-rush-paradise-gp.skirano.chatgpt.site/",
+    "live_url": "https://tidal-rush-paradise-gp.skirano.chatgpt.site/",
+    "note": "Launch-week Astra ChatGPT Site kart demo (cited in HN rollout comments); live URL returns 200. Not previously catalogued as live_url/source.",
+    "confidence": "med"
+  },
+  {
+    "title": "Oneshot 3D Game Simulator (prompt → playable 3D)",
+    "author": "cameronwilsonbf (HN)",
+    "source_url": "https://news.ycombinator.com/item?id=49560740",
+    "live_url": "https://oneshot3dgamesimulator.vercel.app/",
+    "note": "HN story reacting to Astra one-shot 3D games; Vercel live playground verified 200.",
+    "confidence": "med"
+  },
+  {
+    "title": "GPT-6 Astra 3D Creations gallery (48h X roundup)",
+    "author": "yangqiong",
+    "source_url": "https://github.com/yangqiong/gpt6-astra-3d",
+    "live_url": "https://gpt6-astra-3d.pages.dev",
+    "note": "Curated verified three.js/Blender/Unreal Astra builds with engagement stats and several playable demo links.",
+    "confidence": "high"
+  },
+  {
+    "title": "Awesome GPT-6 Astra — curated playable games",
+    "author": "MartinDelophy",
+    "source_url": "https://github.com/MartinDelophy/awesome-gpt-6-astra",
+    "live_url": "https://astragames.aigccreative.com/",
+    "note": "Community awesome-list + homepage of Astra games with demos/prompts; updated 2026-09-05.",
+    "confidence": "high"
+  },
+  {
+    "title": "ARC-AGI official results page for GPT-6 Astra",
+    "author": "ARC Prize",
+    "source_url": "https://arcprize.org/results/openai-gpt-6-astra",
+    "live_url": "https://arcprize.org/results/openai-gpt-6-astra",
+    "note": "Per-effort verified scores for ARC-AGI-1/2/3 Standard vs Provider Adapter; distinct from already-catalogued arcprize.org/blog/astra.",
+    "confidence": "high"
+  },
+  {
+    "title": "Artificial Analysis model card — GPT-6 Astra (max)",
+    "author": "Artificial Analysis",
+    "source_url": "https://artificialanalysis.ai/models/gpt-6-astra",
+    "live_url": "https://artificialanalysis.ai/models/gpt-6-astra",
+    "note": "Live Intelligence/Speed/Cost index page; gallery already has the benchmarking article, not this model page.",
+    "confidence": "high"
+  },
+  {
+    "title": "EEBench leaderboard — Astra #1 at 69.3% circuit design",
+    "author": "atopile / EEBench",
+    "source_url": "https://eebench.org/",
+    "live_url": "https://eebench.org/",
+    "note": "Independent electrical-engineering agent bench; leaderboard-data.js shows GPT-6 Astra score_pct 69.3 (Codex CLI). Blog post also discusses KiCad launch demo.",
+    "confidence": "high"
+  },
+  {
+    "title": "AI Benchy SVG/generation compare — Astra vs Gemini 3.8 Flash",
+    "author": "AI Benchy",
+    "source_url": "https://aibenchy.com/compare/google-gemini-3-8-flash-high/openai-gpt-6-astra-high/",
+    "live_url": "https://aibenchy.com/compare/google-gemini-3-8-flash-high/openai-gpt-6-astra-high/",
+    "note": "Independent side-by-side generation bench cited on HN OpenRouter thread for Astra SVG quality.",
+    "confidence": "high"
+  },
+  {
+    "title": "Simon Willison — Astra pelican SVG comparison grid",
+    "author": "Simon Willison",
+    "source_url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+    "live_url": "https://static.simonwillison.net/static/2026/gpt-6-and-5.6-pelicans.html",
+    "note": "New Sep 4 write-up + static comparison grid across Astra effort levels vs Sol/Terra/Luna; gallery only has Sep 3 notes.",
+    "confidence": "high"
+  },
+  {
+    "title": "Köthe conjecture Lean 4 disproof (Epoch eval, Astra)",
+    "author": "Tom Adamczewski / Epoch AI run",
+    "source_url": "https://github.com/tadamcz/koethe",
+    "live_url": "https://github.com/tadamcz/koethe",
+    "note": "Machine-checked Lean proof found autonomously by pre-release GPT-6 Astra in Epoch LeanOpenProblems Wikipedia collection; CI badge.",
+    "confidence": "high"
+  },
+  {
+    "title": "Prime Gaps at Most 186 (OpenAI math artifact)",
+    "author": "OpenAI",
+    "source_url": "https://github.com/openai/PrimeGaps186",
+    "live_url": "https://github.com/openai/PrimeGaps186",
+    "note": "Public math/repo artifact tied to Astra-era HN discussion; distinct from Epoch FrontierMath Erdos page already catalogued.",
+    "confidence": "med"
+  },
+  {
+    "title": "Microsoft Foundry — GPT-6 Astra GA announcement",
+    "author": "Steve Sweetman & Naomi Moneypenny / Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
+    "live_url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
+    "note": "Enterprise deploy path not in gallery; Foundry Standard/Provisioned Throughput availability.",
+    "confidence": "high"
+  },
+  {
+    "title": "OpenAI API model page — gpt-6-astra",
+    "author": "OpenAI",
+    "source_url": "https://developers.openai.com/api/docs/models/gpt-6-astra",
+    "live_url": "https://developers.openai.com/api/docs/models/gpt-6-astra",
+    "note": "Canonical model card (efforts low→max, snapshots); gallery has latest-model guide but not this models/gpt-6-astra URL.",
+    "confidence": "high"
+  },
+  {
+    "title": "Wikipedia — GPT-6 Astra",
+    "author": "Wikipedia contributors",
+    "source_url": "https://en.wikipedia.org/wiki/GPT-6_Astra",
+    "live_url": "https://en.wikipedia.org/wiki/GPT-6_Astra",
+    "note": "Public encyclopedia entry covering release timeline, cyber gating, recurrent-depth monitorability notes.",
+    "confidence": "high"
+  },
+  {
+    "title": "LessWrong — Astra recurrent / neuralese architecture concerns",
+    "author": "LessWrong (HN: famouswaffles thread)",
+    "source_url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+    "live_url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+    "note": "Technical safety write-up on looped-transformer / CoT controllability; cited heavily on HN; not in gallery.",
+    "confidence": "med"
+  },
+  {
+    "title": "Claire Vo / How I AI — hardware hacking + 3D Barbie game review",
+    "author": "Claire Vo",
+    "source_url": "https://www.chatprd.ai/how-i-ai/gpt-6-astra-review-hardware-3d-games-and-coding",
+    "live_url": "https://www.chatprd.ai/how-i-ai/gpt-6-astra-review-hardware-3d-games-and-coding",
+    "note": "Hands-on review with CRM automation, Unity/Blender, Bluetooth speaker hack; distinct from Lenny newsletter entry already catalogued.",
+    "confidence": "med"
+  },
+  {
+    "title": "gpt6astra.watch — crowd rollout map / account watcher",
+    "author": "hancengiz",
+    "source_url": "https://github.com/hancengiz/gpt6astra.watch",
+    "live_url": "https://github.com/hancengiz/gpt6astra.watch",
+    "note": "Public tooling repo for watching GPT-6 Astra rollout across platforms; useful meta-artifact.",
+    "confidence": "med"
+  },
+  {
+    "title": "HN main discussion — GPT-6 Astra (2000+ comments)",
+    "author": "kibae / Hacker News",
+    "source_url": "https://news.ycombinator.com/item?id=49554643",
+    "live_url": "https://news.ycombinator.com/item?id=49554643",
+    "note": "Primary HN model thread (distinct from already-catalogued rollout + AA skepticism threads); dense links to demos/benches.",
+    "confidence": "high"
+  },
+  {
+    "title": "FindCheap — search agent claiming to beat Astra on benches",
+    "author": "findcheap.ai",
+    "source_url": "https://findcheap.ai/introducing-findcheap",
+    "live_url": "https://findcheap.ai/introducing-findcheap",
+    "note": "Independent agent launch post framed against Astra benchmarks (HN); competitive artifact rather than news clone.",
+    "confidence": "med"
+  },
+  {
+    "title": "ComputingForGeeks — measured API pricing/latency for gpt-6-astra",
+    "author": "ComputingForGeeks",
+    "source_url": "https://computingforgeeks.com/gpt-6-astra-released-features-benchmarks/",
+    "live_url": "https://computingforgeeks.com/gpt-6-astra-released-features-benchmarks/",
+    "note": "Claims self-measured endpoint numbers on 2026-09-05 (context window, effort levels, curl examples); more operational than pure launch rewrite.",
+    "confidence": "med"
+  },
+  {
+    "title": "ChatGPT share — GPT-6 Astra first experience (high)",
+    "author": "nycdatasci (HN)",
+    "source_url": "https://news.ycombinator.com/item?id=49571948",
+    "live_url": "https://chatgpt.com/share/6a9b671d-b780-83ea-bd5d-b0ea39f7d9b3",
+    "note": "Public ChatGPT transcript share linked from HN; first-hand session artifact.",
+    "confidence": "med"
+  }
+]
