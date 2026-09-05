@@ -31,5 +31,6 @@
     "docs-office": "Docs",
     "cost-economics": "Cost",
     "safety-monitorability": "Safety"
-  }
+  },
+  "searchPlaceholder": "Search…"
 }

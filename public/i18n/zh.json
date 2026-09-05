@@ -31,5 +31,6 @@
     "docs-office": "文档办公",
     "cost-economics": "成本经济",
     "safety-monitorability": "安全可监控"
-  }
+  },
+  "searchPlaceholder": "搜索标题、作者、描述…"
 }
