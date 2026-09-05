@@ -3,8 +3,14 @@
   "entries": [
     {
       "id": "macos-27-simulator",
-      "title": "macOS 27 simulator",
-      "description": "约 75 分钟做出可登录、带云同步与可点应用的 macOS 模拟站。",
+      "title": {
+        "en": "macOS 27 simulator",
+        "zh": "macOS 27 模拟器"
+      },
+      "description": {
+        "en": "Built in ~75 minutes: a log-inable macOS simulator site with cloud sync and clickable apps.",
+        "zh": "约 75 分钟做出可登录、带云同步与可点应用的 macOS 模拟站。"
+      },
       "category": "computer-use",
       "proof_type": "live-url",
       "source_url": "https://echai.ventures/astra",
@@ -16,8 +22,14 @@
     },
     {
       "id": "techau-background-computer-use",
-      "title": "Background computer use + parallel agents roundup",
-      "description": "techAU launch roundup covering async tool calling, mid-stream steering, background OS computer use (screenshots/DOM/controls), and early Blender/Unreal community demos.",
+      "title": {
+        "en": "Background computer use + parallel agents roundup",
+        "zh": "后台计算机操控与并行智能体综述"
+      },
+      "description": {
+        "en": "techAU launch roundup covering async tool calling, mid-stream steering, background OS computer use (screenshots/DOM/controls), and early Blender/Unreal community demos.",
+        "zh": "techAU 发布综述：异步工具调用、中途接管、后台 OS 计算机操控（截图/DOM/控件），以及早期 Blender/Unreal 社区演示。"
+      },
       "category": "computer-use",
       "proof_type": "writeup",
       "source_url": "https://techau.com.au/openai-gpt-6-astra-offers-parallel-agent-workflows-background-computer-use-and-native-3d-modeling/",
@@ -29,8 +41,14 @@
     },
     {
       "id": "openai-official-launch",
-      "title": "GPT-6 Astra official launch",
-      "description": "OpenAI’s flagship announcement positioning Astra for computer use, coding, math/science, professional work, and cybersecurity, with staged rollout and API model id gpt-6-astra.",
+      "title": {
+        "en": "GPT-6 Astra official launch",
+        "zh": "GPT-6 Astra 官方发布"
+      },
+      "description": {
+        "en": "OpenAI’s flagship announcement positioning Astra for computer use, coding, math/science, professional work, and cybersecurity, with staged rollout and API model id gpt-6-astra.",
+        "zh": "OpenAI 旗舰发布：定位 Astra 于计算机操控、编程、数理科学、专业工作与网络安全；分阶段上线，API 模型 id 为 gpt-6-astra。"
+      },
       "category": "computer-use",
       "proof_type": "writeup",
       "source_url": "https://openai.com/index/gpt-6-astra/",
@@ -38,12 +56,22 @@
       "author": "OpenAI",
       "cost_note": "API standard $10/M input, $50/M output; Fast mode 2× price",
       "why_included": "Canonical product framing and claimed capability map every gallery entry should be checked against.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/openai-official-launch.jpg",
+        "credit": "OpenAI — openai.com/index/gpt-6-astra/"
+      }
     },
     {
       "id": "openai-launch-x-thread",
-      "title": "OpenAI launch thread on X",
-      "description": "Official X announcement thread for GPT-6 Astra (status 2095595741528125780), the primary social launch artifact cited across early demos.",
+      "title": {
+        "en": "OpenAI launch thread on X",
+        "zh": "OpenAI 发布推文串"
+      },
+      "description": {
+        "en": "Official X announcement thread for GPT-6 Astra (status 2095595741528125780), the primary social launch artifact cited across early demos.",
+        "zh": "GPT-6 Astra 官方 X 发布串（status 2095595741528125780），早期演示广泛引用的主社交发布物。"
+      },
       "category": "computer-use",
       "proof_type": "demo-video",
       "source_url": "https://x.com/OpenAI/status/2095595741528125780",
@@ -51,12 +79,22 @@
       "author": "@OpenAI",
       "cost_note": null,
       "why_included": "Primary launch media many community demos remix; link resolves (HTTP 200) even when embeds vary.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/openai-launch-x-thread.webp",
+        "credit": "OpenAI launch media poster"
+      }
     },
     {
       "id": "osworld-computer-use-latency",
-      "title": "OSWorld 2.0 faster desktop agency",
-      "description": "Vendor/third-party tables: Astra ~72.6% on OSWorld 2.0 at ~40 minutes/task versus Sol ~65.7% at ~75 minutes; ScreenSpot-Pro 92.7% vs 76.9%.",
+      "title": {
+        "en": "OSWorld 2.0 faster desktop agency",
+        "zh": "OSWorld 2.0：更快的桌面智能体"
+      },
+      "description": {
+        "en": "Vendor/third-party tables: Astra ~72.6% on OSWorld 2.0 at ~40 minutes/task versus Sol ~65.7% at ~75 minutes; ScreenSpot-Pro 92.7% vs 76.9%.",
+        "zh": "厂商/第三方表：Astra 在 OSWorld 2.0 约 72.6%、约 40 分钟/任务，对比 Sol 约 65.7%、约 75 分钟；ScreenSpot-Pro 92.7% vs 76.9%。"
+      },
       "category": "computer-use",
       "proof_type": "benchmark-thread",
       "source_url": "https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained",
@@ -68,8 +106,14 @@
     },
     {
       "id": "openai-architectural-visualization",
-      "title": "Architectural visualization with Astra",
-      "description": "OpenAI Developers writeup of designing Solace: floor plans, editable Blender geometry via bpy, lived-in props, Cycles camera tours, and interactive UE5 walkthrough with operable fixtures.",
+      "title": {
+        "en": "Architectural visualization with Astra",
+        "zh": "用 Astra 做建筑可视化"
+      },
+      "description": {
+        "en": "OpenAI Developers writeup of designing Solace: floor plans, editable Blender geometry via bpy, lived-in props, Cycles camera tours, and interactive UE5 walkthrough with operable fixtures.",
+        "zh": "OpenAI Developers 长文：设计 Solace——平面图、bpy 可编辑 Blender 几何、生活化道具、Cycles 镜头游、可交互 UE5 漫游与可操作装置。"
+      },
       "category": "3d-spatial",
       "proof_type": "writeup",
       "source_url": "https://developers.openai.com/blog/architectural-visualization-with-astra",
@@ -77,12 +121,24 @@
       "author": "OpenAI Developers / Thomas Ricouard",
       "cost_note": null,
       "why_included": "Long-form reproducible workflow showing Astra as a spatial design agent across Blender and Unreal.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/openai-architectural-visualization.webp",
+        "video": "https://cdn.openai.com/devhub/blog/architectural-visualization/166c87f4-3546-44ce-8357-552d7de7a827.mp4",
+        "poster": "./media/thumbs/openai-architectural-visualization.webp",
+        "credit": "OpenAI Developers — architectural-visualization-with-astra"
+      }
     },
     {
       "id": "dimillian-blender-ue5-house",
-      "title": "Blender → Unreal house walkthrough (Dimillian)",
-      "description": "Thomas Ricouard (@Dimillian) walks through Astra building the launch-blog house via Blender headless/Python, Cycles renders, UE5 export pipeline, and a 60 FPS walkable app.",
+      "title": {
+        "en": "Blender → Unreal house walkthrough (Dimillian)",
+        "zh": "Blender → Unreal 房屋漫游（Dimillian）"
+      },
+      "description": {
+        "en": "Thomas Ricouard (@Dimillian) walks through Astra building the launch-blog house via Blender headless/Python, Cycles renders, UE5 export pipeline, and a 60 FPS walkable app.",
+        "zh": "Thomas Ricouard（@Dimillian）演示 Astra 经 Blender headless/Python、Cycles 渲染、UE5 导出管线做出发布博客同款房屋，并做成 60 FPS 可漫游应用。"
+      },
       "category": "3d-spatial",
       "proof_type": "demo-video",
       "source_url": "https://www.unrollnow.com/status/2095596700815516004",
@@ -90,12 +146,22 @@
       "author": "@Dimillian (Thomas Ricouard)",
       "cost_note": null,
       "why_included": "Concrete end-to-end 3D production pipeline (plan → Blender → UE5 → interactive app), not just a still render.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/dimillian-blender-ue5-house.webp",
+        "credit": "OpenAI Developers / @Dimillian Solace hero poster"
+      }
     },
     {
       "id": "tomkrcha-house-from-photo",
-      "title": "House photo → editable Blender reconstruction",
-      "description": "Tom Krcha (@tomkrcha) feeds Astra a house photo and gets a detailed Blender reconstruction with toys, appliances, and furniture, claimed tweakable and runnable at 60 FPS.",
+      "title": {
+        "en": "House photo → editable Blender reconstruction",
+        "zh": "房屋照片 → 可编辑 Blender 重建"
+      },
+      "description": {
+        "en": "Tom Krcha (@tomkrcha) feeds Astra a house photo and gets a detailed Blender reconstruction with toys, appliances, and furniture, claimed tweakable and runnable at 60 FPS.",
+        "zh": "Tom Krcha（@tomkrcha）给 Astra 一张房屋照片，得到含玩具、家电与家具的细致 Blender 重建，号称可微调并以 60 FPS 运行。"
+      },
       "category": "3d-spatial",
       "proof_type": "demo-video",
       "source_url": "https://techau.com.au/openai-gpt-6-astra-offers-parallel-agent-workflows-background-computer-use-and-native-3d-modeling/",
@@ -107,8 +173,14 @@
     },
     {
       "id": "openai-void-explorer-games",
-      "title": "Building games with Astra (Void Explorer)",
-      "description": "Codex + Astra build of Void Explorer: 2,048 star systems, procedural planets, continuous space-to-ground descent in Three.js/WebGPU, plus Sunwake and Hollowflux browser games.",
+      "title": {
+        "en": "Building games with Astra (Void Explorer)",
+        "zh": "用 Astra 做游戏（Void Explorer）"
+      },
+      "description": {
+        "en": "Codex + Astra build of Void Explorer: 2,048 star systems, procedural planets, continuous space-to-ground descent in Three.js/WebGPU, plus Sunwake and Hollowflux browser games.",
+        "zh": "Codex + Astra 打造 Void Explorer：2048 个恒星系、程序化行星、Three.js/WebGPU 连续从太空到地面降落，另有 Sunwake 与 Hollowflux 浏览器游戏。"
+      },
       "category": "coding-agent",
       "proof_type": "live-url",
       "source_url": "https://developers.openai.com/blog/how-to-build-games-with-astra",
@@ -116,12 +188,24 @@
       "author": "Thomas Ricouard",
       "cost_note": null,
       "why_included": "Playable, inspectable multi-game build with architecture, testing harness, and Sites deploy loop.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/openai-void-explorer-games.webp",
+        "video": "https://cdn.openai.com/devhub/blog/how-to-build-games/c72d1059-324e-4733-8359-89c326600fe2.mp4",
+        "poster": "./media/thumbs/openai-void-explorer-games.webp",
+        "credit": "OpenAI Developers — how-to-build-games-with-astra"
+      }
     },
     {
       "id": "cognition-frontiercode-near-parity",
-      "title": "FrontierCode near-parity at lower cost",
-      "description": "Latent Space AINews summarizes Cognition: on FrontierCode 1.1 Astra is within 0.4 points of Fable 5 at ~64% lower cost; Vellum notes Extended 64.5% slightly trails Fable 5’s 64.9%.",
+      "title": {
+        "en": "FrontierCode near-parity at lower cost",
+        "zh": "FrontierCode 近持平、成本更低"
+      },
+      "description": {
+        "en": "Latent Space AINews summarizes Cognition: on FrontierCode 1.1 Astra is within 0.4 points of Fable 5 at ~64% lower cost; Vellum notes Extended 64.5% slightly trails Fable 5’s 64.9%.",
+        "zh": "Latent Space AINews 汇总 Cognition：FrontierCode 1.1 上 Astra 距 Fable 5 仅 0.4 分、成本约低 64%；Vellum 称 Extended 64.5% 略低于 Fable 5 的 64.9%。"
+      },
       "category": "coding-agent",
       "proof_type": "benchmark-thread",
       "source_url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
@@ -133,8 +217,14 @@
     },
     {
       "id": "latent-space-ai-engineer",
-      "title": "Latent Space: AI engineer for <$6/hour",
-      "description": "swyx/Latent Space early-access writeup after 20B+ Astra tokens: fleets of subagents, run babysitting, personal Arena clones, and framing Astra as an automated AI engineer.",
+      "title": {
+        "en": "Latent Space: AI engineer for <$6/hour",
+        "zh": "Latent Space：不到 $6/小时的 AI 工程师"
+      },
+      "description": {
+        "en": "swyx/Latent Space early-access writeup after 20B+ Astra tokens: fleets of subagents, run babysitting, personal Arena clones, and framing Astra as an automated AI engineer.",
+        "zh": "swyx/Latent Space 早鸟体验（消耗 200 亿+ Astra token）：子智能体舰队、跑任务保姆、个人 Arena 克隆，并把 Astra 框成自动化 AI 工程师。"
+      },
       "category": "coding-agent",
       "proof_type": "writeup",
       "source_url": "https://www.latent.space/p/astra",
@@ -146,8 +236,14 @@
     },
     {
       "id": "arc-prize-astra-agi3",
-      "title": "ARC Prize: Astra on ARC-AGI-3",
-      "description": "ARC Prize reports Astra 62.7% ($26k) on Semi-Private with Standard harness and 99.9% (~$19k) with Provider Adapter; fewer actions than humans on 96% of levels; emergent symbolic DSL notes.",
+      "title": {
+        "en": "ARC Prize: Astra on ARC-AGI-3",
+        "zh": "ARC Prize：Astra 在 ARC-AGI-3"
+      },
+      "description": {
+        "en": "ARC Prize reports Astra 62.7% ($26k) on Semi-Private with Standard harness and 99.9% (~$19k) with Provider Adapter; fewer actions than humans on 96% of levels; emergent symbolic DSL notes.",
+        "zh": "ARC Prize：Standard harness 半私有集 62.7%（$26k），Provider Adapter 99.9%（约 $19k）；96% 关卡动作少于人类；并有涌现符号 DSL 笔记。"
+      },
       "category": "math-science",
       "proof_type": "benchmark-thread",
       "source_url": "https://arcprize.org/blog/astra",
