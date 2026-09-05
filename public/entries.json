@@ -2338,6 +2338,48 @@
         "thumb": "./media/thumbs/transformer-news-neuralese.jpg",
         "credit": "Transformer News — neuralese article OG"
       }
+    },
+    {
+      "id": "davis7-final-cut-setup",
+      "title": {
+        "en": "Final Cut Pro setup from a recorded video",
+        "zh": "把录好的视频自动摆进 Final Cut Pro"
+      },
+      "description": {
+        "en": "Ben Davis asked GPT-6 Astra to set up a freshly recorded video in Final Cut Pro—import clips, color grade, sync, and get a cut ready—calling it a new computer-use holy-shit moment.",
+        "zh": "Ben Davis 让 GPT-6 Astra 在 Final Cut Pro 里整理刚录好的视频：导入片段、调色、同步并准备成片，称这是计算机操控上的新「卧槽」时刻。"
+      },
+      "category": "computer-use",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/davis7/status/2095742249275699415",
+      "live_url": null,
+      "author": "Ben Davis (@davis7)",
+      "cost_note": null,
+      "why_included": "Distinct Final Cut Pro computer-use build from eChai-curated status URL (HTTP 200; text via public fxtwitter). Not a news rewrite.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/davis7/status/2095742249275699415",
+        "credit": "eChai curated · @davis7"
+      }
+    },
+    {
+      "id": "stork-astra-playable-games",
+      "title": {
+        "en": "Stork: Astra Fall Guys-style playable in minutes",
+        "zh": "Stork：Astra 几分钟做出类 Fall Guys 可玩作"
+      },
+      "description": {
+        "en": "Theo Brandt / Stork writeup on Astra shipping a Fall Guys-style multiplayer clone from one prompt in minutes, hosted via here.now, plus notes on browser-native demos and lingering “AI smell.”",
+        "zh": "Theo Brandt / Stork 文记述 Astra 用单条提示在数分钟内做出类 Fall Guys 多人可玩作，经 here.now 托管，并讨论浏览器原生演示与残留的「AI 味」。"
+      },
+      "category": "coding-agent",
+      "proof_type": "writeup",
+      "source_url": "https://www.stork.ai/blog/astra-built-a-game-you-can-play-it-now",
+      "live_url": null,
+      "author": "Theo Brandt / Stork.AI",
+      "cost_note": null,
+      "why_included": "Independent secondary writeup naming a distinct playable game class; page fetched 200. Prefer Berman X entries for primary demos.",
+      "verified": true
     }
   ]
 }
