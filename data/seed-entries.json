@@ -20,7 +20,7 @@
       "why_included": "少数能直接打开用的 live demo。",
       "verified": true,
       "media": {
-        "thumb": "./media/thumbs/macos-27-simulator.webp",
+        "thumb": "./media/thumbs/macos-27-simulator.jpg",
         "credit": "eChai Ventures — echai.ventures/astra"
       }
     },
@@ -249,7 +249,9 @@
       "cost_note": null,
       "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
       "verified": true,
-      "media": {}
+      "media": {
+        "thumb": "./media/thumbs/oneshot-3d-game-simulator-prompt-playabl-f659e1b1.jpg"
+      }
     },
     {
       "id": "x-2096047660662722620",
@@ -901,7 +903,7 @@
       "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
       "verified": true,
       "media": {
-        "thumb": "./media/thumbs/void-explorer-shipyard-official-openai-c-14d0e207.webp"
+        "thumb": "./media/thumbs/void-explorer-shipyard-official-openai-c-14d0e207.jpg"
       }
     },
     {
