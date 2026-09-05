@@ -18,7 +18,11 @@
       "author": "Max Weinbach",
       "cost_note": null,
       "why_included": "少数能直接打开用的 live demo。",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/macos-27-simulator.webp",
+        "credit": "eChai Ventures — echai.ventures/astra"
+      }
     },
     {
       "id": "techau-background-computer-use",
@@ -37,7 +41,11 @@
       "author": "Jason Cartwright / techAU",
       "cost_note": "Cites OSWorld ~40 min/task vs ~75 min prior",
       "why_included": "Clear product explanation of background computer use and parallel sub-agents with linked early builds.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/techau-background-computer-use.jpg",
+        "credit": "techAU — RocketShip article share image"
+      }
     },
     {
       "id": "openai-official-launch",
@@ -82,7 +90,9 @@
       "verified": true,
       "media": {
         "thumb": "./media/thumbs/openai-launch-x-thread.webp",
-        "credit": "OpenAI launch media poster"
+        "credit": "OpenAI launch media poster",
+        "embed": "https://x.com/OpenAI/status/2095595741528125780",
+        "video": null
       }
     },
     {
@@ -102,7 +112,11 @@
       "author": "OpenAI (via Vellum)",
       "cost_note": "~47% less time per OSWorld task vs Sol",
       "why_included": "Quantifies the computer-use speed story that demos alone cannot prove.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/osworld-computer-use-latency.jpg",
+        "credit": "Vellum — gpt-6-astra-benchmarks-explained OG"
+      }
     },
     {
       "id": "openai-architectural-visualization",
@@ -149,7 +163,9 @@
       "verified": true,
       "media": {
         "thumb": "./media/thumbs/dimillian-blender-ue5-house.webp",
-        "credit": "OpenAI Developers / @Dimillian Solace hero poster"
+        "credit": "OpenAI Developers / @Dimillian Solace hero poster",
+        "embed": "https://www.unrollnow.com/status/2095596700815516004",
+        "video": null
       }
     },
     {
@@ -169,7 +185,13 @@
       "author": "@tomkrcha (via techAU)",
       "cost_note": null,
       "why_included": "Image-to-editable-3D reconstruction is a distinct spatial capability beyond text-to-scene demos.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/tomkrcha-house-from-photo.jpg",
+        "credit": "@tomkrcha demo still via unroll/X",
+        "embed": "https://x.com/tomkrcha/status/2095598645190291775",
+        "video": null
+      }
     },
     {
       "id": "openai-void-explorer-games",
@@ -213,7 +235,11 @@
       "author": "Cognition / Latent Space; cross-check Vellum",
       "cost_note": "~64% lower cost vs Fable 5 at near-parity (per @cognition summary)",
       "why_included": "Mergeability-oriented coding eval showing economics, not just pass rates.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/cognition-frontiercode-near-parity.jpg",
+        "credit": "Cognition — cognition.com opengraph"
+      }
     },
     {
       "id": "latent-space-ai-engineer",
@@ -232,7 +258,11 @@
       "author": "Latent Space",
       "cost_note": "~$6/hr at 33 tok/s and $50/M output; Ultra fleets cost much more",
       "why_included": "Rare high-token practical burn report with concrete agent-orchestration patterns and cost framing.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/latent-space-ai-engineer.jpg",
+        "credit": "Latent Space — latent.space/p/astra OG"
+      }
     },
     {
       "id": "arc-prize-astra-agi3",
@@ -251,12 +281,22 @@
       "author": "ARC Prize",
       "cost_note": "Standard max ~$26,098; Provider Adapter high ~$18,817; ~$360/game cited in related Chollet commentary",
       "why_included": "Independent interactive-reasoning eval with harness caveats and action-efficiency analysis, not just a headline score.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/arc-prize-astra-agi3.webp",
+        "credit": "ARC Prize — arcprize.org/blog/astra action-efficiency"
+      }
     },
     {
       "id": "epoch-frontiermath-erdos",
-      "title": "Epoch FrontierMath Erdős: 2/68 Lean solves",
-      "description": "Epoch AI’s Lean-verified open Erdős problem set: only Astra scored (3%), solving problems 74 and 126 within $300/72h; extra runs found 5/68 but burned >$220k compute.",
+      "title": {
+        "en": "Epoch FrontierMath Erdős: 2/68 Lean solves",
+        "zh": "Epoch FrontierMath Erdős：2/68 道 Lean 验证题"
+      },
+      "description": {
+        "en": "Epoch AI’s Lean-verified open Erdős problem set: only Astra scored (3%), solving problems 74 and 126 within $300/72h; extra runs found 5/68 but burned >$220k compute.",
+        "zh": "Epoch AI 的 Lean 验证开放 Erdős 题集：仅 Astra 得分（3%），在 $300/72 小时内解出第 74、126 题；额外跑分达 5/68，但算力花费超过 $22 万。"
+      },
       "category": "math-science",
       "proof_type": "benchmark-thread",
       "source_url": "https://epoch.ai/latest/announcing-frontiermath-erdos",
@@ -264,12 +304,22 @@
       "author": "Epoch AI (Greg Burnham, Tom Adamczewski)",
       "cost_note": "Benchmark: $218–$247 for the two solves; extra attempts >$220,000 total",
       "why_included": "Transparent open-problem math eval with Lean verification and published budgets—rare substance over vibes.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/epoch-frontiermath-erdos.webp",
+        "credit": "Epoch AI — frontiermath-erdos cover"
+      }
     },
     {
       "id": "frontiermath-tier4-saturation",
-      "title": "FrontierMath Tier 4 saturation claim",
-      "description": "OpenAI reports Astra at 97.6% on FrontierMath Tier 4 (v2) vs Sol ~83% and Fable 5.1 87.8%; paired with claims of helping solve long-standing open math problems.",
+      "title": {
+        "en": "FrontierMath Tier 4 saturation claim",
+        "zh": "FrontierMath Tier 4 近饱和声称"
+      },
+      "description": {
+        "en": "OpenAI reports Astra at 97.6% on FrontierMath Tier 4 (v2) vs Sol ~83% and Fable 5.1 87.8%; paired with claims of helping solve long-standing open math problems.",
+        "zh": "OpenAI 称 Astra 在 FrontierMath Tier 4（v2）达 97.6%，对比 Sol 约 83%、Fable 5.1 的 87.8%；并称有助于攻克长期未解数学题。"
+      },
       "category": "math-science",
       "proof_type": "benchmark-thread",
       "source_url": "https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained",
@@ -277,12 +327,22 @@
       "author": "OpenAI (via Vellum); Epoch notes funding caveats",
       "cost_note": "Vellum notes Epoch: OpenAI funded FrontierMath and has exclusive access to part of it",
       "why_included": "Headline math saturation number with an important independence caveat for gallery honesty.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/frontiermath-tier4-saturation.jpg",
+        "credit": "Vellum — gpt-6-astra-benchmarks-explained OG"
+      }
     },
     {
       "id": "openai-exploitbench-critical",
-      "title": "ExploitBench saturation + Critical cyber tier",
-      "description": "Astra is OpenAI’s first Critical cybersecurity model; ExploitBench 100% (vs Sol 78.5%); advanced cyber gated via Daybreak; evals found zero-days later disclosed to maintainers.",
+      "title": {
+        "en": "ExploitBench saturation + Critical cyber tier",
+        "zh": "ExploitBench 满分与 Critical 网络安全档"
+      },
+      "description": {
+        "en": "Astra is OpenAI’s first Critical cybersecurity model; ExploitBench 100% (vs Sol 78.5%); advanced cyber gated via Daybreak; evals found zero-days later disclosed to maintainers.",
+        "zh": "Astra 是 OpenAI 首个 Critical 网络安全模型；ExploitBench 100%（Sol 78.5%）；高级网络能力经 Daybreak 门控；评测中发现的零日漏洞已向维护者披露。"
+      },
       "category": "cyber",
       "proof_type": "writeup",
       "source_url": "https://www.eesel.ai/blog/gpt-6-astra",
@@ -290,12 +350,22 @@
       "author": "eesel AI / OpenAI Preparedness framing",
       "cost_note": null,
       "why_included": "Defines the gated cyber story that separates Astra from prior OpenAI releases.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/openai-exploitbench-critical.webp",
+        "credit": "eesel AI — eesel.ai/blog/gpt-6-astra OG"
+      }
     },
     {
       "id": "openai-sre-bench-cyber",
-      "title": "SRE-Bench binary reverse engineering",
-      "description": "OpenAI reports Astra solves 88.0% of SRE-Bench tasks in one attempt and 99.2% within four (vs Sol 55.9%/68.7%), measuring reverse engineering of binaries without source.",
+      "title": {
+        "en": "SRE-Bench binary reverse engineering",
+        "zh": "SRE-Bench 二进制逆向工程"
+      },
+      "description": {
+        "en": "OpenAI reports Astra solves 88.0% of SRE-Bench tasks in one attempt and 99.2% within four (vs Sol 55.9%/68.7%), measuring reverse engineering of binaries without source.",
+        "zh": "OpenAI 称 Astra 在 SRE-Bench 单次尝试解出 88.0%、四次内 99.2%（Sol 为 55.9%/68.7%），衡量无源码二进制逆向能力。"
+      },
       "category": "cyber",
       "proof_type": "benchmark-thread",
       "source_url": "https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained",
@@ -303,12 +373,22 @@
       "author": "OpenAI (via Vellum summary)",
       "cost_note": "Latent Space also notes ValsAI commentary on pass@4 / custom harness caveats",
       "why_included": "Concrete cyber capability number with attempt protocol; gallery-worthy because it is capability + harness-caveat.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/openai-sre-bench-cyber.jpg",
+        "credit": "Vellum — gpt-6-astra-benchmarks-explained OG"
+      }
     },
     {
       "id": "automationbench-professional-work",
-      "title": "AutomationBench professional work jump",
-      "description": "OpenAI’s AutomationBench shows Astra 41.4% vs Fable 5.1 31.4% and Sol 18.1% on template-driven professional automation (slides/spreadsheets/analyses).",
+      "title": {
+        "en": "AutomationBench professional work jump",
+        "zh": "AutomationBench 专业办公跃升"
+      },
+      "description": {
+        "en": "OpenAI’s AutomationBench shows Astra 41.4% vs Fable 5.1 31.4% and Sol 18.1% on template-driven professional automation (slides/spreadsheets/analyses).",
+        "zh": "OpenAI 的 AutomationBench 显示：模板驱动的专业自动化（幻灯片/表格/分析）上 Astra 41.4%，对比 Fable 5.1 的 31.4% 与 Sol 的 18.1%。"
+      },
       "category": "docs-office",
       "proof_type": "benchmark-thread",
       "source_url": "https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained",
@@ -316,12 +396,22 @@
       "author": "OpenAI (via Vellum)",
       "cost_note": null,
       "why_included": "Largest published professional-work delta; anchors docs/office category with numbers.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/automationbench-professional-work.jpg",
+        "credit": "Vellum — gpt-6-astra-benchmarks-explained OG"
+      }
     },
     {
       "id": "perplexity-wandr",
-      "title": "Perplexity WANDR research-agent win",
-      "description": "Perplexity reports Astra tops WANDR at score 0.682 and $11.98/task — 13.5% above Fable 5.1 at 6.1% lower cost (per Latent Space AINews aggregation of @perplexity_ai).",
+      "title": {
+        "en": "Perplexity WANDR research-agent win",
+        "zh": "Perplexity WANDR 研究智能体夺冠"
+      },
+      "description": {
+        "en": "Perplexity reports Astra tops WANDR at score 0.682 and $11.98/task — 13.5% above Fable 5.1 at 6.1% lower cost (per Latent Space AINews aggregation of @perplexity_ai).",
+        "zh": "Perplexity 称 Astra 在 WANDR 以 0.682 分、$11.98/任务居首——比 Fable 5.1 高 13.5%，成本低 6.1%（据 Latent Space AINews 汇总 @perplexity_ai）。"
+      },
       "category": "docs-office",
       "proof_type": "benchmark-thread",
       "source_url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
@@ -329,12 +419,22 @@
       "author": "Perplexity (@perplexity_ai) via Latent Space",
       "cost_note": "$11.98 per task on WANDR",
       "why_included": "Independent research-workflow leaderboard with explicit cost-per-task — gallery gold for knowledge work.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/perplexity-wandr.jpg",
+        "credit": "Latent Space AINews — ainews-gpt-6-astra OG"
+      }
     },
     {
       "id": "vellum-benchmarks-explained",
-      "title": "Vellum: every published Astra benchmark table",
-      "description": "Side-by-side walkthrough of OpenAI’s computer-use, professional, coding, academic, science, cyber, and alignment tables, including AutomationBench 41.4% and contested coding rows.",
+      "title": {
+        "en": "Vellum: every published Astra benchmark table",
+        "zh": "Vellum：Astra 已公开基准表全解析"
+      },
+      "description": {
+        "en": "Side-by-side walkthrough of OpenAI’s computer-use, professional, coding, academic, science, cyber, and alignment tables, including AutomationBench 41.4% and contested coding rows.",
+        "zh": "并排解读 OpenAI 计算机操控、专业工作、编程、学术、科学、网络安全与对齐各表，含 AutomationBench 41.4% 及有争议的编程行。"
+      },
       "category": "docs-office",
       "proof_type": "writeup",
       "source_url": "https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained",
@@ -342,12 +442,22 @@
       "author": "Nicolas Zeeb / Vellum",
       "cost_note": "Notes $10/$50 vs Sol $4/$20 and that efficiency offset is still sparsely evidenced",
       "why_included": "Best organized third-party unpack of vendor tables, including losses (HLE tools) and professional-work gains.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/vellum-benchmarks-explained.jpg",
+        "credit": "Vellum — gpt-6-astra-benchmarks-explained OG"
+      }
     },
     {
       "id": "artificial-analysis-benchmarking",
-      "title": "Artificial Analysis: Coding vs Intelligence split",
-      "description": "Independent lab finds Coding Agent Index 67 (≈Fable 5, cheaper/task) but Intelligence Index flat at 61 vs Sol; ~3× coding token efficiency; Intelligence Index ~75% more expensive per task after 2.5× price hike.",
+      "title": {
+        "en": "Artificial Analysis: Coding vs Intelligence split",
+        "zh": "Artificial Analysis：编程与智能指数分野"
+      },
+      "description": {
+        "en": "Independent lab finds Coding Agent Index 67 (≈Fable 5, cheaper/task) but Intelligence Index flat at 61 vs Sol; ~3× coding token efficiency; Intelligence Index ~75% more expensive per task after 2.5× price hike.",
+        "zh": "独立实验室：Coding Agent Index 67（约平 Fable 5、更便宜/任务），但 Intelligence Index 相对 Sol 仍为 61；编程 token 效率约 3×；涨价 2.5× 后 Intelligence 每任务约贵 75%。"
+      },
       "category": "cost-economics",
       "proof_type": "benchmark-thread",
       "source_url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
@@ -355,12 +465,22 @@
       "author": "Artificial Analysis",
       "cost_note": "Price $10/$50 (2.5× Sol); coding Pareto cost leader; intelligence ~75% costlier/task at max",
       "why_included": "Essential non-cheerleading cost/perf reality check that separates coding-agent wins from general-intelligence hype.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/artificial-analysis-benchmarking.jpg",
+        "credit": "Artificial Analysis — benchmarking-gpt-6-astra OG"
+      }
     },
     {
       "id": "eesel-cost-and-catch",
-      "title": "eesel: what it costs and the catch",
-      "description": "Practitioner writeup contrasting agentic/cyber jumps with flat AA Intelligence Index, $10/$50 pricing, Daybreak gating, and OpenAI’s admission that monitorability decreased vs Sol.",
+      "title": {
+        "en": "eesel: what it costs and the catch",
+        "zh": "eesel：成本与代价"
+      },
+      "description": {
+        "en": "Practitioner writeup contrasting agentic/cyber jumps with flat AA Intelligence Index, $10/$50 pricing, Daybreak gating, and OpenAI’s admission that monitorability decreased vs Sol.",
+        "zh": "实践向长文：对照智能体/网络安全跃升与 AA Intelligence Index 持平、$10/$50 定价、Daybreak 门控，以及 OpenAI 承认相对 Sol 可监控性下降。"
+      },
       "category": "cost-economics",
       "proof_type": "writeup",
       "source_url": "https://www.eesel.ai/blog/gpt-6-astra",
@@ -368,12 +488,22 @@
       "author": "Kurnia Kharisma Agung Samiadjie / eesel",
       "cost_note": "$10/$50 standard (2.5× Sol); Batch/Flex half; Fast 2×",
       "why_included": "Honest cost + safety catch piece suitable as a skeptical gallery card, not cheerleading.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/eesel-cost-and-catch.webp",
+        "credit": "eesel AI — eesel.ai/blog/gpt-6-astra OG"
+      }
     },
     {
       "id": "hn-aa-coding-skepticism",
-      "title": "HN thread on AA 'major gains' title",
-      "description": "Hacker News discussion of Artificial Analysis results; top critique notes Intelligence Index 61→61 despite 'major gains' framing, plus broader benchmark-trust debate.",
+      "title": {
+        "en": "HN thread on AA 'major gains' title",
+        "zh": "HN 讨论 AA「重大提升」标题"
+      },
+      "description": {
+        "en": "Hacker News discussion of Artificial Analysis results; top critique notes Intelligence Index 61→61 despite 'major gains' framing, plus broader benchmark-trust debate.",
+        "zh": "Hacker News 讨论 Artificial Analysis 结果；置顶批评指出 Intelligence Index 仍为 61→61，却用「重大提升」包装，并延伸基准可信度争论。"
+      },
       "category": "cost-economics",
       "proof_type": "benchmark-thread",
       "source_url": "https://news.ycombinator.com/item?id=49556147",
@@ -385,8 +515,14 @@
     },
     {
       "id": "latent-space-ainews-launch",
-      "title": "Latent Space AINews Astra launch digest",
-      "description": "Dense day-after digest aggregating official claims, Artificial Analysis/ARC/Epoch/Perplexity/Cognition/Vals numbers, safety/monitorability debate, and rollout friction.",
+      "title": {
+        "en": "Latent Space AINews Astra launch digest",
+        "zh": "Latent Space AINews：Astra 发布精粹"
+      },
+      "description": {
+        "en": "Dense day-after digest aggregating official claims, Artificial Analysis/ARC/Epoch/Perplexity/Cognition/Vals numbers, safety/monitorability debate, and rollout friction.",
+        "zh": "发布次日高密度精粹：汇总官方主张，Artificial Analysis/ARC/Epoch/Perplexity/Cognition/Vals 数据，安全/可监控性争论与上线摩擦。"
+      },
       "category": "cost-economics",
       "proof_type": "writeup",
       "source_url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
@@ -394,12 +530,22 @@
       "author": "Latent Space",
       "cost_note": "Summarizes $10/$50 pricing and per-task vs per-token debate",
       "why_included": "Best single secondary index of verified third-party numbers and skeptical takes for curators.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/latent-space-ainews-launch.jpg",
+        "credit": "Latent Space AINews — ainews-gpt-6-astra OG"
+      }
     },
     {
       "id": "hn-openai-rollout",
-      "title": "HN: OpenAI begins rolling out GPT-6 Astra",
-      "description": "Hacker News discussion of CNBC rollout coverage, including Brockman’s AGI-era comments, price-per-task framing, and cyber-gated staged release.",
+      "title": {
+        "en": "HN: OpenAI begins rolling out GPT-6 Astra",
+        "zh": "HN：OpenAI 开始推送 GPT-6 Astra"
+      },
+      "description": {
+        "en": "Hacker News discussion of CNBC rollout coverage, including Brockman’s AGI-era comments, price-per-task framing, and cyber-gated staged release.",
+        "zh": "Hacker News 讨论 CNBC 推送报道，含 Brockman 的 AGI 时代评论、按任务计价框架，以及网络安全门控的分阶段发布。"
+      },
       "category": "safety-monitorability",
       "proof_type": "benchmark-thread",
       "source_url": "https://news.ycombinator.com/item?id=49554273",
@@ -411,8 +557,14 @@
     },
     {
       "id": "transformer-news-neuralese",
-      "title": "Transformer: neuralese & CoT monitorability fears",
-      "description": "Explainer on recurrent-depth/'neuralese' concerns around Astra, Ryan Greenblatt’s warning, and Jakub Pachocki’s reply that computation depth stays within ~2× of GPT-4.",
+      "title": {
+        "en": "Transformer: neuralese & CoT monitorability fears",
+        "zh": "Transformer：neuralese 与思维链可监控性担忧"
+      },
+      "description": {
+        "en": "Explainer on recurrent-depth/'neuralese' concerns around Astra, Ryan Greenblatt’s warning, and Jakub Pachocki’s reply that computation depth stays within ~2× of GPT-4.",
+        "zh": "解读围绕 Astra 的循环深度/「neuralese」担忧、Ryan Greenblatt 的警告，以及 Jakub Pachocki 回应称计算深度仍约在 GPT-4 的 2× 以内。"
+      },
       "category": "safety-monitorability",
       "proof_type": "writeup",
       "source_url": "https://www.transformernews.ai/p/what-is-neuralese-openai-astra-chain-of-thought-recurrent-depth",
@@ -420,7 +572,11 @@
       "author": "Transformer News",
       "cost_note": null,
       "why_included": "Best accessible critical safety card on why monitorability, not just capability, belongs in an Astra gallery.",
-      "verified": true
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/transformer-news-neuralese.jpg",
+        "credit": "Transformer News — neuralese article OG"
+      }
     }
   ]
 }
