@@ -32,5 +32,13 @@
     "cost-economics": "Cost",
     "safety-monitorability": "Safety"
   },
-  "searchPlaceholder": "Search…"
+  "searchPlaceholder": "Search…",
+  "sigViews": " views",
+  "sigLikes": " likes",
+  "sigReposts": " RTs",
+  "sigBookmarks": " bookmarks",
+  "sigReplies": " replies",
+  "sigQuotes": " quotes",
+  "sigSource": "{platform} · as of {when}",
+  "sigTooltip": "Public X counts · running totals · not official Analytics"
 }
