@@ -43,7 +43,8 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/DantesClown/status/2096085439052452064"
+        "embed": "https://x.com/DantesClown/status/2096085439052452064",
+        "thumb": "./media/thumbs/x-2096085439052452064.jpg"
       }
     },
     {
@@ -65,7 +66,8 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/LexnLin/status/2096103821470761033"
+        "embed": "https://x.com/LexnLin/status/2096103821470761033",
+        "thumb": "./media/thumbs/x-2096103821470761033.jpg"
       }
     },
     {
@@ -87,7 +89,7 @@
       "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
       "verified": true,
       "media": {
-        "thumb": "./media/thumbs/claire-vo-how-i-ai-hardware-hacking-3d-b-26aec0b0.png"
+        "thumb": "./media/thumbs/claire-vo-how-i-ai-hardware-hacking-3d-b-26aec0b0.jpg"
       }
     },
     {
@@ -212,7 +214,7 @@
       "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
       "verified": true,
       "media": {
-        "thumb": "./media/thumbs/abyssal-living-deep-procedural-ocean-wor-06838972.png"
+        "thumb": "./media/thumbs/abyssal-living-deep-procedural-ocean-wor-06838972.jpg"
       }
     },
     {
@@ -274,7 +276,7 @@
       "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
       "verified": true,
       "media": {
-        "thumb": "./media/thumbs/computingforgeeks-measured-api-pricing-l-79317d15.png"
+        "thumb": "./media/thumbs/computingforgeeks-measured-api-pricing-l-79317d15.jpg"
       }
     },
     {
@@ -407,7 +409,7 @@
       "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
       "verified": true,
       "media": {
-        "thumb": "./media/thumbs/microsoft-foundry-gpt-6-astra-ga-announc-50fd8613.png"
+        "thumb": "./media/thumbs/microsoft-foundry-gpt-6-astra-ga-announc-50fd8613.jpg"
       }
     },
     {
@@ -454,7 +456,7 @@
       "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
       "verified": true,
       "media": {
-        "thumb": "./media/thumbs/openai-api-model-page-gpt-6-astra-93682c1d.png"
+        "thumb": "./media/thumbs/openai-api-model-page-gpt-6-astra-93682c1d.jpg"
       }
     },
     {
@@ -690,7 +692,7 @@
       "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
       "verified": true,
       "media": {
-        "thumb": "./media/thumbs/ai-benchy-svg-generation-compare-astra-v-560144e5.png"
+        "thumb": "./media/thumbs/ai-benchy-svg-generation-compare-astra-v-560144e5.jpg"
       }
     },
     {
@@ -756,7 +758,7 @@
       "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
       "verified": true,
       "media": {
-        "thumb": "./media/thumbs/eebench-leaderboard-astra-1-at-69-3-circ-180c87a2.png"
+        "thumb": "./media/thumbs/eebench-leaderboard-astra-1-at-69-3-circ-180c87a2.jpg"
       }
     },
     {
@@ -1029,7 +1031,7 @@
       "verified": true,
       "media": {
         "credit": "somethingbig.ai",
-        "thumb": "./media/thumbs/somethingbig-manager-loop-review.png"
+        "thumb": "./media/thumbs/somethingbig-manager-loop-review.jpg"
       }
     },
     {
@@ -1273,7 +1275,8 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/WesRoth/status/2096113142367740406"
+        "embed": "https://x.com/WesRoth/status/2096113142367740406",
+        "thumb": "./media/thumbs/x-2096113142367740406.jpg"
       }
     },
     {
@@ -1395,7 +1398,8 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/cedric_chee/status/2096131333580107782"
+        "embed": "https://x.com/cedric_chee/status/2096131333580107782",
+        "thumb": "./media/thumbs/x-2096131333580107782.jpg"
       }
     },
     {
@@ -1417,7 +1421,8 @@
       "why_included": "Collected by browsing public x.com search (no X API).",
       "verified": true,
       "media": {
-        "embed": "https://x.com/trikcode/status/2096130490436636713"
+        "embed": "https://x.com/trikcode/status/2096130490436636713",
+        "thumb": "./media/thumbs/x-2096130490436636713.jpg"
       }
     },
     {
@@ -1761,7 +1766,7 @@
       "why_included": "Explicit Astra comparison artifact with openable repo.",
       "verified": true,
       "media": {
-        "thumb": "./media/thumbs/philolabs-union-square-astra.png",
+        "thumb": "./media/thumbs/philolabs-union-square-astra.jpg",
         "credit": "PhiloLabs / fable51-worlds"
       }
     },
@@ -3451,7 +3456,7 @@
       "why_included": "Canonical API/behavior guide builders should check against demos.",
       "verified": true,
       "media": {
-        "thumb": "./media/thumbs/openai-model-guidance.png",
+        "thumb": "./media/thumbs/openai-model-guidance.jpg",
         "credit": "OpenAI Developers"
       }
     },
@@ -3703,7 +3708,7 @@
       "why_included": "Primary multi-provider price/perf surface for builders.",
       "verified": true,
       "media": {
-        "thumb": "./media/thumbs/openrouter-astra.png",
+        "thumb": "./media/thumbs/openrouter-astra.jpg",
         "credit": "OpenRouter"
       }
     },
@@ -3767,7 +3772,7 @@
       "why_included": "Canonical gateway model card for deployment wiring.",
       "verified": true,
       "media": {
-        "thumb": "./media/thumbs/vercel-ai-gateway-astra.png",
+        "thumb": "./media/thumbs/vercel-ai-gateway-astra.jpg",
         "credit": "Vercel AI Gateway"
       }
     },
@@ -3809,7 +3814,7 @@
       "why_included": "Authoritative long-form safety/eval artifact.",
       "verified": true,
       "media": {
-        "thumb": "./media/thumbs/openai-system-card.png",
+        "thumb": "./media/thumbs/openai-system-card.jpg",
         "credit": "OpenAI Deployment Safety Hub"
       }
     },
