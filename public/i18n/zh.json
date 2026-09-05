@@ -32,5 +32,13 @@
     "cost-economics": "成本经济",
     "safety-monitorability": "安全可监控"
   },
-  "searchPlaceholder": "搜索标题、作者、描述…"
+  "searchPlaceholder": "搜索标题、作者、描述…",
+  "sigViews": "展示",
+  "sigLikes": "赞",
+  "sigReposts": "转",
+  "sigBookmarks": "书签",
+  "sigReplies": "回复",
+  "sigQuotes": "引用",
+  "sigSource": "{platform} · 截至 {when}",
+  "sigTooltip": "数据来自 X 公开计数 · 累计值 · 非官方小时分析"
 }

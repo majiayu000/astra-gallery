@@ -44,6 +44,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/mweinbach/status/2095596867081916653"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095596867081916653",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 736668,
+          "likes": 2434,
+          "reposts": 102,
+          "replies": 146,
+          "quotes": 65,
+          "bookmarks": 1584
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 5.9
+        }
       }
     },
     {
@@ -112,6 +129,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/OpenAIDevs/status/2095596020638036311"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095596020638036311",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 759568,
+          "likes": 5012,
+          "reposts": 361,
+          "replies": 204,
+          "quotes": 107,
+          "bookmarks": 843
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 8.6
+        }
       }
     },
     {
@@ -137,6 +171,23 @@
         "credit": "OpenAI launch media poster",
         "embed": "https://x.com/OpenAI/status/2095595741528125780",
         "video": null
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095595741528125780",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 119520460,
+          "likes": 323735,
+          "reposts": 33505,
+          "replies": 8184,
+          "quotes": 25294,
+          "bookmarks": 101541
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 4.1
+        }
       }
     },
     {
@@ -204,6 +255,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/DeryaTR_/status/2095699049722581065"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095699049722581065",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 20579,
+          "likes": 272,
+          "reposts": 21,
+          "replies": 17,
+          "quotes": 5,
+          "bookmarks": 59
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 18.2
+        }
       }
     },
     {
@@ -226,6 +294,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/MatthewBerman/status/2095620888695902366"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095620888695902366",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 391178,
+          "likes": 6398,
+          "reposts": 354,
+          "replies": 115,
+          "quotes": 29,
+          "bookmarks": 2294
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 23.5
+        }
       }
     },
     {
@@ -248,6 +333,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/Dimillian/status/2095596700815516004"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095596700815516004",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 2667183,
+          "likes": 7615,
+          "reposts": 753,
+          "replies": 272,
+          "quotes": 471,
+          "bookmarks": 6873
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 6.0
+        }
       }
     },
     {
@@ -271,6 +373,23 @@
       "media": {
         "credit": "@Bhavani_00007 via eChai",
         "embed": "https://x.com/Bhavani_00007/status/2095858967515930706"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095858967515930706",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 53345,
+          "likes": 425,
+          "reposts": 18,
+          "replies": 51,
+          "quotes": 5,
+          "bookmarks": 88
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 11.0
+        }
       }
     },
     {
@@ -343,6 +462,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/theo/status/2095751225283350624"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095751225283350624",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 520474,
+          "likes": 4982,
+          "reposts": 249,
+          "replies": 123,
+          "quotes": 31,
+          "bookmarks": 6009
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 21.9
+        }
       }
     },
     {
@@ -365,6 +501,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/FieroTy/status/2095635722208493813"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095635722208493813",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 184776,
+          "likes": 2346,
+          "reposts": 128,
+          "replies": 49,
+          "quotes": 27,
+          "bookmarks": 655
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 17.3
+        }
       }
     },
     {
@@ -471,6 +624,23 @@
       "media": {
         "credit": "@Feraser8 via eChai",
         "embed": "https://x.com/Feraser8/status/2095776712579571725"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095776712579571725",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 2413,
+          "likes": 11,
+          "reposts": 0,
+          "replies": 1,
+          "quotes": 1,
+          "bookmarks": 10
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 9.5
+        }
       }
     },
     {
@@ -493,6 +663,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/mattshumer_/status/2095723177389232540"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095723177389232540",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 541663,
+          "likes": 4209,
+          "reposts": 263,
+          "replies": 177,
+          "quotes": 45,
+          "bookmarks": 6722
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 21.1
+        }
       }
     },
     {
@@ -515,6 +702,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/skirano/status/2095648379455861054"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095648379455861054",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 615525,
+          "likes": 6415,
+          "reposts": 311,
+          "replies": 140,
+          "quotes": 80,
+          "bookmarks": 2702
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 15.7
+        }
       }
     },
     {
@@ -560,6 +764,23 @@
       "media": {
         "credit": "@chddaniel via eChai",
         "embed": "https://x.com/chddaniel/status/2095775049475313943"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095775049475313943",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 416235,
+          "likes": 3908,
+          "reposts": 161,
+          "replies": 144,
+          "quotes": 25,
+          "bookmarks": 2974
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 17.3
+        }
       }
     },
     {
@@ -583,6 +804,23 @@
       "media": {
         "credit": "@reach_vb via eChai",
         "embed": "https://x.com/reach_vb/status/2095973112097747199"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095973112097747199",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 37638,
+          "likes": 383,
+          "reposts": 20,
+          "replies": 28,
+          "quotes": 5,
+          "bookmarks": 127
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 15.0
+        }
       }
     },
     {
@@ -606,6 +844,23 @@
       "media": {
         "credit": "@xikhar via eChai",
         "embed": "https://x.com/xikhar/status/2095969538290712800"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095969538290712800",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 399716,
+          "likes": 3746,
+          "reposts": 233,
+          "replies": 92,
+          "quotes": 46,
+          "bookmarks": 1760
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 14.7
+        }
       }
     },
     {
@@ -628,6 +883,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/higgsfield_ai/status/2095630197257367857"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095630197257367857",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 1073036,
+          "likes": 4838,
+          "reposts": 447,
+          "replies": 143,
+          "quotes": 123,
+          "bookmarks": 2639
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 7.6
+        }
       }
     },
     {
@@ -692,6 +964,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/sharifshameem/status/2095653641164329143"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095653641164329143",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 2241286,
+          "likes": 5433,
+          "reposts": 381,
+          "replies": 209,
+          "quotes": 234,
+          "bookmarks": 2139
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 3.7
+        }
       }
     },
     {
@@ -752,6 +1041,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/tomkrcha/status/2095756085890310311"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095756085890310311",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 1106092,
+          "likes": 6206,
+          "reposts": 446,
+          "replies": 233,
+          "quotes": 181,
+          "bookmarks": 3126
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 9.2
+        }
       }
     },
     {
@@ -796,6 +1102,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/karankendre/status/2095636679264780481"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095636679264780481",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 2687231,
+          "likes": 15054,
+          "reposts": 791,
+          "replies": 207,
+          "quotes": 201,
+          "bookmarks": 4334
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 7.7
+        }
       }
     },
     {
@@ -818,6 +1141,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/maxt3chno/status/2095648896991080555"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095648896991080555",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 12099,
+          "likes": 67,
+          "reposts": 1,
+          "replies": 5,
+          "quotes": 0,
+          "bookmarks": 22
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 7.9
+        }
       }
     },
     {
@@ -840,6 +1180,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/DeryaTR_/status/2095719731860750613"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095719731860750613",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 108507,
+          "likes": 330,
+          "reposts": 22,
+          "replies": 36,
+          "quotes": 13,
+          "bookmarks": 112
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 4.7
+        }
       }
     },
     {
@@ -881,6 +1238,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/realYunfanYe/status/2095612137582526615"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095612137582526615",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 1599177,
+          "likes": 7487,
+          "reposts": 467,
+          "replies": 183,
+          "quotes": 158,
+          "bookmarks": 4288
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 7.9
+        }
       }
     },
     {
@@ -903,6 +1277,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/dabit3/status/2095610200778592665"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095610200778592665",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 562136,
+          "likes": 3419,
+          "reposts": 198,
+          "replies": 5027,
+          "quotes": 49,
+          "bookmarks": 873
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 17.0
+        }
       }
     },
     {
@@ -925,6 +1316,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/wadefoster/status/2095596405620441591"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095596405620441591",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 16386,
+          "likes": 186,
+          "reposts": 21,
+          "replies": 9,
+          "quotes": 3,
+          "bookmarks": 45
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 16.1
+        }
       }
     },
     {
@@ -947,6 +1355,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/levie/status/2095598710311067716"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095598710311067716",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 258961,
+          "likes": 1085,
+          "reposts": 106,
+          "replies": 99,
+          "quotes": 29,
+          "bookmarks": 389
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 6.6
+        }
       }
     },
     {
@@ -1017,6 +1442,23 @@
       "media": {
         "credit": "@Voxyz_ai via eChai",
         "embed": "https://x.com/Voxyz_ai/status/2095951726452847071"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095951726452847071",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 132264,
+          "likes": 742,
+          "reposts": 40,
+          "replies": 23,
+          "quotes": 1,
+          "bookmarks": 1410
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 16.8
+        }
       }
     },
     {
@@ -1039,6 +1481,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/robinebers/status/2095598016103329898"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095598016103329898",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 23895,
+          "likes": 189,
+          "reposts": 4,
+          "replies": 19,
+          "quotes": 3,
+          "bookmarks": 58
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 11.4
+        }
       }
     },
     {
@@ -1061,6 +1520,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/skirano/status/2095595932335170031"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095595932335170031",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 1567605,
+          "likes": 10041,
+          "reposts": 581,
+          "replies": 358,
+          "quotes": 233,
+          "bookmarks": 6819
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 11.5
+        }
       }
     },
     {
@@ -1083,6 +1559,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/danshipper/status/2095877348314730821"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095877348314730821",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 19351,
+          "likes": 172,
+          "reposts": 8,
+          "replies": 12,
+          "quotes": 0,
+          "bookmarks": 71
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 13.6
+        }
       }
     },
     {
@@ -1147,6 +1640,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/mehulmpt/status/2095610463954637132"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095610463954637132",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 45937,
+          "likes": 566,
+          "reposts": 14,
+          "replies": 36,
+          "quotes": 6,
+          "bookmarks": 111
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 16.0
+        }
       }
     },
     {
@@ -1170,6 +1680,23 @@
       "media": {
         "credit": "eChai Ventures curation · x.com/Angaisb_",
         "embed": "https://x.com/Angaisb_/status/2095964361105789424"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095964361105789424",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 351911,
+          "likes": 6971,
+          "reposts": 332,
+          "replies": 85,
+          "quotes": 49,
+          "bookmarks": 3671
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 31.6
+        }
       }
     },
     {
@@ -1192,6 +1719,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/MatthewBerman/status/2095619201105059974"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095619201105059974",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 113584,
+          "likes": 1393,
+          "reposts": 112,
+          "replies": 36,
+          "quotes": 9,
+          "bookmarks": 778
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 20.5
+        }
       }
     },
     {
@@ -1236,6 +1780,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/literallydenis/status/2095596903014580579"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095596903014580579",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 22110,
+          "likes": 90,
+          "reposts": 10,
+          "replies": 8,
+          "quotes": 1,
+          "bookmarks": 84
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 8.7
+        }
       }
     },
     {
@@ -1258,6 +1819,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/KavinIK/status/2095603691948843077"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095603691948843077",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 15031,
+          "likes": 104,
+          "reposts": 3,
+          "replies": 6,
+          "quotes": 3,
+          "bookmarks": 22
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 9.2
+        }
       }
     },
     {
@@ -1303,6 +1881,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/PaulSolt/status/2095604728683958295"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095604728683958295",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 172599,
+          "likes": 1121,
+          "reposts": 53,
+          "replies": 54,
+          "quotes": 8,
+          "bookmarks": 1102
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 13.5
+        }
       }
     },
     {
@@ -1409,6 +2004,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/TimJayas/status/2095819740694577203"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095819740694577203",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 14151,
+          "likes": 148,
+          "reposts": 5,
+          "replies": 9,
+          "quotes": 0,
+          "bookmarks": 23
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 13.1
+        }
       }
     },
     {
@@ -1431,6 +2043,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/petergostev/status/2095596341422440714"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095596341422440714",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 91052,
+          "likes": 1123,
+          "reposts": 54,
+          "replies": 34,
+          "quotes": 22,
+          "bookmarks": 266
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 16.5
+        }
       }
     },
     {
@@ -1473,6 +2102,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/ChihYang04/status/2095637507337826741"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095637507337826741",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 811567,
+          "likes": 4920,
+          "reposts": 439,
+          "replies": 93,
+          "quotes": 136,
+          "bookmarks": 1893
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 9.2
+        }
       }
     },
     {
@@ -1587,6 +2233,23 @@
       "media": {
         "credit": "@theo via eChai",
         "embed": "https://x.com/theo/status/2095966874010046621"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095966874010046621",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 374739,
+          "likes": 5620,
+          "reposts": 212,
+          "replies": 134,
+          "quotes": 27,
+          "bookmarks": 6992
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 34.7
+        }
       }
     },
     {
@@ -1609,6 +2272,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/clairevo/status/2095625355231142079"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095625355231142079",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 84025,
+          "likes": 828,
+          "reposts": 23,
+          "replies": 40,
+          "quotes": 4,
+          "bookmarks": 250
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 13.6
+        }
       }
     },
     {
@@ -1631,6 +2311,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/ChrisGPT/status/2095601996770263362"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095601996770263362",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 21967,
+          "likes": 267,
+          "reposts": 17,
+          "replies": 18,
+          "quotes": 0,
+          "bookmarks": 60
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 16.5
+        }
       }
     },
     {
@@ -1654,6 +2351,23 @@
       "media": {
         "credit": "@DeryaTR_ via eChai",
         "embed": "https://x.com/DeryaTR_/status/2095952101000016076"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095952101000016076",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 19627,
+          "likes": 313,
+          "reposts": 22,
+          "replies": 20,
+          "quotes": 1,
+          "bookmarks": 64
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 21.4
+        }
       }
     },
     {
@@ -1810,6 +2524,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/DeryaTR_/status/2095659170661904804"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095659170661904804",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 272079,
+          "likes": 1963,
+          "reposts": 235,
+          "replies": 86,
+          "quotes": 47,
+          "bookmarks": 1514
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 14.1
+        }
       }
     },
     {
@@ -1898,6 +2629,23 @@
       "media": {
         "credit": "@gregisenberg via eChai",
         "embed": "https://x.com/gregisenberg/status/2095854071580156338"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095854071580156338",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 608146,
+          "likes": 2921,
+          "reposts": 234,
+          "replies": 114,
+          "quotes": 26,
+          "bookmarks": 7874
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 18.4
+        }
       }
     },
     {
@@ -1921,6 +2669,23 @@
       "media": {
         "credit": "@Miguel07Code via eChai",
         "embed": "https://x.com/Miguel07Code/status/2095969648738967726"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095969648738967726",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 26764,
+          "likes": 229,
+          "reposts": 11,
+          "replies": 14,
+          "quotes": 4,
+          "bookmarks": 206
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 17.3
+        }
       }
     },
     {
@@ -1989,6 +2754,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/MatthewBerman/status/2095616764793270705"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095616764793270705",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 190704,
+          "likes": 1434,
+          "reposts": 57,
+          "replies": 74,
+          "quotes": 21,
+          "bookmarks": 575
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 11.3
+        }
       }
     },
     {
@@ -2011,6 +2793,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/Rubzem/status/2095608815492202985"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095608815492202985",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 128198,
+          "likes": 668,
+          "reposts": 45,
+          "replies": 52,
+          "quotes": 19,
+          "bookmarks": 283
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 8.3
+        }
       }
     },
     {
@@ -2079,6 +2878,23 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/cheatyyyy/status/2095597213896610184"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095597213896610184",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 640524,
+          "likes": 2449,
+          "reposts": 110,
+          "replies": 52,
+          "quotes": 34,
+          "bookmarks": 546
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 5.0
+        }
       }
     },
     {
@@ -2360,6 +3176,23 @@
       "media": {
         "embed": "https://x.com/davis7/status/2095742249275699415",
         "credit": "eChai curated · @davis7"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095742249275699415",
+        "fetched_at": "2026-09-05T16:55:24Z",
+        "metrics": {
+          "impressions": 283817,
+          "likes": 2430,
+          "reposts": 118,
+          "replies": 80,
+          "quotes": 49,
+          "bookmarks": 1214
+        },
+        "freshness": "ok",
+        "derived": {
+          "engage_per_1k_impr": 13.7
+        }
       }
     },
     {
