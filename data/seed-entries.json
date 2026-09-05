@@ -11,7 +11,7 @@
       "live_url": "https://macos-27-simulator.mweinbach.chatgpt.site",
       "author": "Max Weinbach",
       "cost_note": null,
-      "why_included": "少数能直接打开用的 live demo，不是纯视频。",
+      "why_included": "少数能直接打开用的 live demo。",
       "verified": true
     },
     {
@@ -41,6 +41,32 @@
       "verified": true
     },
     {
+      "id": "openai-launch-x-thread",
+      "title": "OpenAI launch thread on X",
+      "description": "Official X announcement thread for GPT-6 Astra (status 2095595741528125780), the primary social launch artifact cited across early demos.",
+      "category": "computer-use",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/OpenAI/status/2095595741528125780",
+      "live_url": null,
+      "author": "@OpenAI",
+      "cost_note": null,
+      "why_included": "Primary launch media many community demos remix; link resolves (HTTP 200) even when embeds vary.",
+      "verified": true
+    },
+    {
+      "id": "osworld-computer-use-latency",
+      "title": "OSWorld 2.0 faster desktop agency",
+      "description": "Vendor/third-party tables: Astra ~72.6% on OSWorld 2.0 at ~40 minutes/task versus Sol ~65.7% at ~75 minutes; ScreenSpot-Pro 92.7% vs 76.9%.",
+      "category": "computer-use",
+      "proof_type": "benchmark-thread",
+      "source_url": "https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained",
+      "live_url": null,
+      "author": "OpenAI (via Vellum)",
+      "cost_note": "~47% less time per OSWorld task vs Sol",
+      "why_included": "Quantifies the computer-use speed story that demos alone cannot prove.",
+      "verified": true
+    },
+    {
       "id": "openai-architectural-visualization",
       "title": "Architectural visualization with Astra",
       "description": "OpenAI Developers writeup of designing Solace: floor plans, editable Blender geometry via bpy, lived-in props, Cycles camera tours, and interactive UE5 walkthrough with operable fixtures.",
@@ -64,6 +90,19 @@
       "author": "@Dimillian (Thomas Ricouard)",
       "cost_note": null,
       "why_included": "Concrete end-to-end 3D production pipeline (plan → Blender → UE5 → interactive app), not just a still render.",
+      "verified": true
+    },
+    {
+      "id": "tomkrcha-house-from-photo",
+      "title": "House photo → editable Blender reconstruction",
+      "description": "Tom Krcha (@tomkrcha) feeds Astra a house photo and gets a detailed Blender reconstruction with toys, appliances, and furniture, claimed tweakable and runnable at 60 FPS.",
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://techau.com.au/openai-gpt-6-astra-offers-parallel-agent-workflows-background-computer-use-and-native-3d-modeling/",
+      "live_url": null,
+      "author": "@tomkrcha (via techAU)",
+      "cost_note": null,
+      "why_included": "Image-to-editable-3D reconstruction is a distinct spatial capability beyond text-to-scene demos.",
       "verified": true
     },
     {
@@ -132,6 +171,71 @@
       "verified": true
     },
     {
+      "id": "frontiermath-tier4-saturation",
+      "title": "FrontierMath Tier 4 saturation claim",
+      "description": "OpenAI reports Astra at 97.6% on FrontierMath Tier 4 (v2) vs Sol ~83% and Fable 5.1 87.8%; paired with claims of helping solve long-standing open math problems.",
+      "category": "math-science",
+      "proof_type": "benchmark-thread",
+      "source_url": "https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained",
+      "live_url": null,
+      "author": "OpenAI (via Vellum); Epoch notes funding caveats",
+      "cost_note": "Vellum notes Epoch: OpenAI funded FrontierMath and has exclusive access to part of it",
+      "why_included": "Headline math saturation number with an important independence caveat for gallery honesty.",
+      "verified": true
+    },
+    {
+      "id": "openai-exploitbench-critical",
+      "title": "ExploitBench saturation + Critical cyber tier",
+      "description": "Astra is OpenAI’s first Critical cybersecurity model; ExploitBench 100% (vs Sol 78.5%); advanced cyber gated via Daybreak; evals found zero-days later disclosed to maintainers.",
+      "category": "cyber",
+      "proof_type": "writeup",
+      "source_url": "https://www.eesel.ai/blog/gpt-6-astra",
+      "live_url": null,
+      "author": "eesel AI / OpenAI Preparedness framing",
+      "cost_note": null,
+      "why_included": "Defines the gated cyber story that separates Astra from prior OpenAI releases.",
+      "verified": true
+    },
+    {
+      "id": "openai-sre-bench-cyber",
+      "title": "SRE-Bench binary reverse engineering",
+      "description": "OpenAI reports Astra solves 88.0% of SRE-Bench tasks in one attempt and 99.2% within four (vs Sol 55.9%/68.7%), measuring reverse engineering of binaries without source.",
+      "category": "cyber",
+      "proof_type": "benchmark-thread",
+      "source_url": "https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained",
+      "live_url": null,
+      "author": "OpenAI (via Vellum summary)",
+      "cost_note": "Latent Space also notes ValsAI commentary on pass@4 / custom harness caveats",
+      "why_included": "Concrete cyber capability number with attempt protocol; gallery-worthy because it is capability + harness-caveat.",
+      "verified": true
+    },
+    {
+      "id": "automationbench-professional-work",
+      "title": "AutomationBench professional work jump",
+      "description": "OpenAI’s AutomationBench shows Astra 41.4% vs Fable 5.1 31.4% and Sol 18.1% on template-driven professional automation (slides/spreadsheets/analyses).",
+      "category": "docs-office",
+      "proof_type": "benchmark-thread",
+      "source_url": "https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained",
+      "live_url": null,
+      "author": "OpenAI (via Vellum)",
+      "cost_note": null,
+      "why_included": "Largest published professional-work delta; anchors docs/office category with numbers.",
+      "verified": true
+    },
+    {
+      "id": "perplexity-wandr",
+      "title": "Perplexity WANDR research-agent win",
+      "description": "Perplexity reports Astra tops WANDR at score 0.682 and $11.98/task — 13.5% above Fable 5.1 at 6.1% lower cost (per Latent Space AINews aggregation of @perplexity_ai).",
+      "category": "docs-office",
+      "proof_type": "benchmark-thread",
+      "source_url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "live_url": null,
+      "author": "Perplexity (@perplexity_ai) via Latent Space",
+      "cost_note": "$11.98 per task on WANDR",
+      "why_included": "Independent research-workflow leaderboard with explicit cost-per-task — gallery gold for knowledge work.",
+      "verified": true
+    },
+    {
       "id": "vellum-benchmarks-explained",
       "title": "Vellum: every published Astra benchmark table",
       "description": "Side-by-side walkthrough of OpenAI’s computer-use, professional, coding, academic, science, cyber, and alignment tables, including AutomationBench 41.4% and contested coding rows.",
@@ -181,6 +285,32 @@
       "author": "HN / NiekvdMaas et al.",
       "cost_note": "Commenters note cost-per-task Pareto may be the real gain",
       "why_included": "Documented skeptical community read that keeps the gallery honest about marketing vs charts.",
+      "verified": true
+    },
+    {
+      "id": "latent-space-ainews-launch",
+      "title": "Latent Space AINews Astra launch digest",
+      "description": "Dense day-after digest aggregating official claims, Artificial Analysis/ARC/Epoch/Perplexity/Cognition/Vals numbers, safety/monitorability debate, and rollout friction.",
+      "category": "cost-economics",
+      "proof_type": "writeup",
+      "source_url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "live_url": null,
+      "author": "Latent Space",
+      "cost_note": "Summarizes $10/$50 pricing and per-task vs per-token debate",
+      "why_included": "Best single secondary index of verified third-party numbers and skeptical takes for curators.",
+      "verified": true
+    },
+    {
+      "id": "hn-openai-rollout",
+      "title": "HN: OpenAI begins rolling out GPT-6 Astra",
+      "description": "Hacker News discussion of CNBC rollout coverage, including Brockman’s AGI-era comments, price-per-task framing, and cyber-gated staged release.",
+      "category": "safety-monitorability",
+      "proof_type": "benchmark-thread",
+      "source_url": "https://news.ycombinator.com/item?id=49554273",
+      "live_url": null,
+      "author": "Hacker News",
+      "cost_note": "Quotes Brockman: price per task is what matters",
+      "why_included": "Public skeptical/governance thread pairing capability claims with rollout and cyber caution.",
       "verified": true
     },
     {
