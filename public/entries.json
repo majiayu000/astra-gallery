@@ -25,6 +25,28 @@
       }
     },
     {
+      "id": "x-2095596867081916653",
+      "title": {
+        "en": "macOS 27 simulator (75 minutes) with cloud sync + working apps",
+        "zh": "macOS 27 simulator (75 minutes) with cloud sync + working apps"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). live_url taken from URL written in the post body on eChai.",
+        "zh": "Curated on eChai Built with Astra (from X). live_url taken from URL written in the post body on eChai."
+      },
+      "category": "coding-agent",
+      "proof_type": "live-url",
+      "source_url": "https://x.com/mweinbach/status/2095596867081916653",
+      "live_url": "https://macos-27-simulator.mweinbach.chatgpt.site/",
+      "author": "Max Weinbach (@mweinbach)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/mweinbach/status/2095596867081916653"
+      }
+    },
+    {
       "id": "techau-background-computer-use",
       "title": {
         "en": "Background computer use + parallel agents roundup",
@@ -68,6 +90,28 @@
       "media": {
         "thumb": "./media/thumbs/openai-official-launch.jpg",
         "credit": "OpenAI — openai.com/index/gpt-6-astra/"
+      }
+    },
+    {
+      "id": "x-2095596020638036311",
+      "title": {
+        "en": "OpenAI Developers: computer use / SWE / visual understanding positioning",
+        "zh": "OpenAI Developers: computer use / SWE / visual understanding positioning"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "computer-use",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/OpenAIDevs/status/2095596020638036311",
+      "live_url": null,
+      "author": "OpenAI Developers (@OpenAIDevs)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/OpenAIDevs/status/2095596020638036311"
       }
     },
     {
@@ -116,6 +160,117 @@
       "media": {
         "thumb": "./media/thumbs/osworld-computer-use-latency.jpg",
         "credit": "Vellum — gpt-6-astra-benchmarks-explained OG"
+      }
+    },
+    {
+      "id": "somethingbig-manager-loop-review",
+      "title": {
+        "en": "Something Big: Manager Loop + Unreal worlds",
+        "zh": "Something Big：Manager Loop 与虚幻世界"
+      },
+      "description": {
+        "en": "Long Astra review: computer-use daily driver, Manager Loop (coordinator + implementer Codex sessions), simulated civilization with talking agents, and an ambitious Unreal Manhattan/GTA-like build.",
+        "zh": "长篇 Astra 评测：日常计算机操控、Manager Loop（协调者+实现者 Codex 会话）、会对话的文明模拟，以及虚幻引擎曼哈顿/类 GTA 大工程。"
+      },
+      "category": "computer-use",
+      "proof_type": "writeup",
+      "source_url": "https://somethingbig.ai/astra-review",
+      "live_url": null,
+      "author": "Something Big Is Happening",
+      "cost_note": "Author flags enormous token burn on large experiments",
+      "why_included": "Primary long-form field report for Shumer-scale Unreal demos without inventing X links.",
+      "verified": true,
+      "media": {
+        "credit": "somethingbig.ai"
+      }
+    },
+    {
+      "id": "x-2095699049722581065",
+      "title": {
+        "en": "17th-century ship-in-a-bottle (detailed voxel ship)",
+        "zh": "17th-century ship-in-a-bottle (detailed voxel ship)"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/DeryaTR_/status/2095699049722581065",
+      "live_url": null,
+      "author": "Derya Unutmaz, MD (@DeryaTR_)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/DeryaTR_/status/2095699049722581065"
+      }
+    },
+    {
+      "id": "x-2095620888695902366",
+      "title": {
+        "en": "3D assets & spatial awareness showcase",
+        "zh": "3D assets & spatial awareness showcase"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/MatthewBerman/status/2095620888695902366",
+      "live_url": null,
+      "author": "Matthew Berman (@MatthewBerman)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/MatthewBerman/status/2095620888695902366"
+      }
+    },
+    {
+      "id": "x-2095596700815516004",
+      "title": {
+        "en": "3D modeling walkthrough / showcase",
+        "zh": "3D modeling walkthrough / showcase"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/Dimillian/status/2095596700815516004",
+      "live_url": null,
+      "author": "Thomas Ricouard (@Dimillian)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/Dimillian/status/2095596700815516004"
+      }
+    },
+    {
+      "id": "bhavani-3d-scene-model-bakeoff",
+      "title": {
+        "en": "3D scene bakeoff: Astra vs Kimi/Fable/Sol",
+        "zh": "三维场景对比：Astra vs Kimi/Fable/Sol"
+      },
+      "description": {
+        "en": "Bhavy compares one-shot 3D scene outputs across GPT-6 Astra, Kimi K3 (~$2.3), Fable 5.1, and Sol, calling Astra a clear jump up from Sol on 3D.",
+        "zh": "Bhavy 对比 GPT-6 Astra、Kimi K3（约 $2.3）、Fable 5.1 与 Sol 的一枪三维场景；认为 Astra 相对 Sol 三维明显跃升。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/Bhavani_00007/status/2095858967515930706",
+      "live_url": null,
+      "author": "Bhavy / @Bhavani_00007",
+      "cost_note": "Cites Kimi K3 scene at ~$2.3",
+      "why_included": "Comparative 3D artifact with named Astra result, not a news mirror.",
+      "verified": true,
+      "media": {
+        "credit": "@Bhavani_00007 via eChai",
+        "embed": "https://x.com/Bhavani_00007/status/2095858967515930706"
       }
     },
     {
@@ -169,6 +324,108 @@
       }
     },
     {
+      "id": "x-2095751225283350624",
+      "title": {
+        "en": "Blender→playable game workflow (prompt/harness notes)",
+        "zh": "Blender→playable game workflow (prompt/harness notes)"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/theo/status/2095751225283350624",
+      "live_url": null,
+      "author": "Theo - t3.gg (@theo)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/theo/status/2095751225283350624"
+      }
+    },
+    {
+      "id": "x-2095635722208493813",
+      "title": {
+        "en": "Chelsea FC Stamford Bridge stadium one-shot 3D model",
+        "zh": "Chelsea FC Stamford Bridge stadium one-shot 3D model"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/FieroTy/status/2095635722208493813",
+      "live_url": null,
+      "author": "Ty (@FieroTy)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/FieroTy/status/2095635722208493813"
+      }
+    },
+    {
+      "id": "openai-giverny-garden",
+      "title": {
+        "en": "Giverny-inspired Blender water garden",
+        "zh": "吉维尼灵感 Blender 水景花园"
+      },
+      "description": {
+        "en": "Official viz post: Astra builds a Monet/Giverny-inspired lily pond, green bridge, and dense planting as an editable Blender scene, refining flat surfaces after reference study.",
+        "zh": "官方可视化博文：Astra 构建莫奈/吉维尼灵感睡莲池、绿桥与密植，作为可编辑 Blender 场景，并在参考研究后改进扁平表面。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "writeup",
+      "source_url": "https://developers.openai.com/blog/architectural-visualization-with-astra",
+      "live_url": null,
+      "author": "OpenAI Developers",
+      "cost_note": null,
+      "why_included": "Third distinct scene type on the architectural Astra post.",
+      "verified": true
+    },
+    {
+      "id": "claire-vo-4552204b",
+      "title": {
+        "en": "GPT-6 Astra is a banger — AIM Mac app, Barbie Bench, hardware hack",
+        "zh": "GPT-6 Astra is a banger — AIM Mac app, Barbie Bench, hardware hack"
+      },
+      "description": {
+        "en": "How I AI / Lenny's episode writeup: CRM computer-use, ChatPRD one-shot, Divoom MiniToo CLI hack, AIM-style Mac app, Blender Barbie Bench / kids family app. Fetched 2026-09-05.",
+        "zh": "How I AI / Lenny's episode writeup: CRM computer-use, ChatPRD one-shot, Divoom MiniToo CLI hack, AIM-style Mac app, Blender Barbie Bench / kids family app. Fetched 2026-09-05."
+      },
+      "category": "3d-spatial",
+      "proof_type": "writeup",
+      "source_url": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
+      "live_url": null,
+      "author": "Claire Vo",
+      "cost_note": null,
+      "why_included": "High-confidence public candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
+    },
+    {
+      "id": "openai-helios-dyson",
+      "title": {
+        "en": "HELIOS Dyson-sphere Blender scene",
+        "zh": "HELIOS 戴森球 Blender 场景"
+      },
+      "description": {
+        "en": "Architectural-visualization post also covers HELIOS: Astra builds a solar-system scene with a multi-thousand-panel Dyson collector, iterating from washed-out previews to Earthward compositions with NASA-credited imagery.",
+        "zh": "建筑可视化博文亦含 HELIOS：Astra 构建含数千面板戴森收集器的太阳系场景，从发白预览迭代到朝向地球的构图，并注明 NASA 影像来源。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "writeup",
+      "source_url": "https://developers.openai.com/blog/architectural-visualization-with-astra",
+      "live_url": null,
+      "author": "OpenAI Developers",
+      "cost_note": null,
+      "why_included": "Distinct non-architecture 3D build on the official viz post.",
+      "verified": true
+    },
+    {
       "id": "tomkrcha-house-from-photo",
       "title": {
         "en": "House photo → editable Blender reconstruction",
@@ -191,6 +448,505 @@
         "credit": "@tomkrcha demo still via unroll/X",
         "embed": "https://x.com/tomkrcha/status/2095598645190291775",
         "video": null
+      }
+    },
+    {
+      "id": "feraser-interactive-turbocharger",
+      "title": {
+        "en": "Interactive 3D turbocharger explainer",
+        "zh": "可交互三维涡轮增压器拆解"
+      },
+      "description": {
+        "en": "Feraser asked Astra for an interactive 3D turbocharger with separable systems (nine assemblies) in a browser viewer so parts can be rotated and isolated.",
+        "zh": "Feraser 让 Astra 做可交互三维涡轮增压器，九大总成可在浏览器里旋转、隔离查看。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/Feraser8/status/2095776712579571725",
+      "live_url": null,
+      "author": "Feraser",
+      "cost_note": null,
+      "why_included": "Concrete mechanical explainer demo named on eChai; not a news rewrite.",
+      "verified": true,
+      "media": {
+        "credit": "@Feraser8 via eChai",
+        "embed": "https://x.com/Feraser8/status/2095776712579571725"
+      }
+    },
+    {
+      "id": "x-2095723177389232540",
+      "title": {
+        "en": "Long-horizon Unreal builds method (how the multi-day runs work)",
+        "zh": "Long-horizon Unreal builds method (how the multi-day runs work)"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/mattshumer_/status/2095723177389232540",
+      "live_url": null,
+      "author": "Matt Shumer (@mattshumer_)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/mattshumer_/status/2095723177389232540"
+      }
+    },
+    {
+      "id": "x-2095648379455861054",
+      "title": {
+        "en": "Mac app with 3D Blender iPod + original iPod UI",
+        "zh": "Mac app with 3D Blender iPod + original iPod UI"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/skirano/status/2095648379455861054",
+      "live_url": null,
+      "author": "Pietro Schirano (@skirano)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/skirano/status/2095648379455861054"
+      }
+    },
+    {
+      "id": "shumer-manhattan-unreal",
+      "title": {
+        "en": "Manhattan rebuilt block-by-block in Unreal",
+        "zh": "在虚幻中按街区重建曼哈顿"
+      },
+      "description": {
+        "en": "Shumer’s week-long Astra Unreal project reconstructing walkable Manhattan street-by-street for consistency with the real city; covered by Something Big and techAU.",
+        "zh": "Shumer 用 Astra 在虚幻中花一周按街区重建可步行曼哈顿以保持与真实街道一致；Something Big 与 techAU 均有记述。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "writeup",
+      "source_url": "https://somethingbig.ai/astra-review",
+      "live_url": null,
+      "author": "Matt Shumer",
+      "cost_note": null,
+      "why_included": "Long-horizon spatial persistence demo distinct from single-shot renders.",
+      "verified": true,
+      "media": {
+        "credit": "somethingbig.ai / techAU"
+      }
+    },
+    {
+      "id": "chddaniel-motion-videos-14min",
+      "title": {
+        "en": "Motion video one-shot in ~14 minutes",
+        "zh": "约 14 分钟一枪运动视频"
+      },
+      "description": {
+        "en": "Daniel Ch reports GPT-6 Astra one-shotting a motion video in about 14 minutes with only two follow-up changes.",
+        "zh": "Daniel Ch 称 GPT-6 Astra 约 14 分钟一枪生成运动视频，只改了两次。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/chddaniel/status/2095775049475313943",
+      "live_url": null,
+      "author": "Daniel Ch",
+      "cost_note": null,
+      "why_included": "Timed motion-video demo curated on eChai.",
+      "verified": true,
+      "media": {
+        "credit": "@chddaniel via eChai",
+        "embed": "https://x.com/chddaniel/status/2095775049475313943"
+      }
+    },
+    {
+      "id": "vaibhav-nurburgring-blender",
+      "title": {
+        "en": "Nürburgring Blender fly-through",
+        "zh": "纽博格林 Blender 飞越动画"
+      },
+      "description": {
+        "en": "OpenAI’s Vaibhav Srivastav reports prompting GPT-6 Astra for a real-scale Nürburgring track video fly-through in Blender, alongside Astra prompting/AGENTS.md tips after Pro/Enterprise rollout.",
+        "zh": "OpenAI 的 Vaibhav Srivastav 称用 GPT-6 Astra 在 Blender 做纽博格林赛道真比例飞越视频，并分享 Pro/Enterprise 上线后的提示词与 AGENTS.md 建议。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/reach_vb/status/2095973112097747199",
+      "live_url": null,
+      "author": "Vaibhav (VB) Srivastav",
+      "cost_note": null,
+      "why_included": "Staff demo of Blender spatial video + instruction-following tips; eChai-curated.",
+      "verified": true,
+      "media": {
+        "credit": "@reach_vb via eChai",
+        "embed": "https://x.com/reach_vb/status/2095973112097747199"
+      }
+    },
+    {
+      "id": "xikhar-blender-oneshot-assets",
+      "title": {
+        "en": "One-shot Blender game assets",
+        "zh": "一枪出 Blender 游戏资产"
+      },
+      "description": {
+        "en": "Shikhar demos GPT-6 Astra one-shotting game assets in Blender, curated on eChai as evidence of spatial/asset strength.",
+        "zh": "Shikhar 演示 GPT-6 Astra 在 Blender 一枪生成游戏资产；eChai 策展为空间/资产能力证据。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/xikhar/status/2095969538290712800",
+      "live_url": null,
+      "author": "Shikhar / @xikhar",
+      "cost_note": null,
+      "why_included": "Distinct Blender asset one-shot demo with openable source.",
+      "verified": true,
+      "media": {
+        "credit": "@xikhar via eChai",
+        "embed": "https://x.com/xikhar/status/2095969538290712800"
+      }
+    },
+    {
+      "id": "x-2095630197257367857",
+      "title": {
+        "en": "Oval Office 3D vibe-coded set",
+        "zh": "Oval Office 3D vibe-coded set"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/higgsfield_ai/status/2095630197257367857",
+      "live_url": null,
+      "author": "Higgsfield AI 🧩 (@higgsfield_ai)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/higgsfield_ai/status/2095630197257367857"
+      }
+    },
+    {
+      "id": "pasquale-palace-fine-arts",
+      "title": {
+        "en": "Palace of Fine Arts in Blender (Shameem)",
+        "zh": "Blender 重建艺术宫（Shameem）"
+      },
+      "description": {
+        "en": "Pasquale’s wild-builds article documents Sharif Shameem asking Astra to recreate San Francisco’s Palace of Fine Arts in Blender from reference images with clean dome/colonnade geometry.",
+        "zh": "Pasquale 狂野构建文记述 Sharif Shameem 让 Astra 按参考图在 Blender 重建旧金山艺术宫，穹顶与柱廊几何干净。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "writeup",
+      "source_url": "https://pasqualepillitteri.it/en/news/14472/gpt-6-astra-10-wild-builds",
+      "live_url": null,
+      "author": "Sharif Shameem (via Pasquale / Min Choi)",
+      "cost_note": null,
+      "why_included": "Named architectural fidelity Blender build in a sourced roundup.",
+      "verified": true
+    },
+    {
+      "id": "philolabs-union-square-astra",
+      "title": {
+        "en": "PhiloLabs: Union Square Astra vs Fable",
+        "zh": "PhiloLabs：联合广场 Astra vs Fable"
+      },
+      "description": {
+        "en": "Public GitHub worlds-as-code repo runs the same Union Square brief head-to-head: GPT-6 Astra vs Claude Fable 5.1, with side-by-side walkthrough video and separate Astra/Fable builds.",
+        "zh": "公开 GitHub「代码即世界」仓库用同一联合广场 brief 对决 GPT-6 Astra 与 Claude Fable 5.1，含并排漫游视频与各自构建。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "repo",
+      "source_url": "https://github.com/PhiloLabs/fable51-worlds",
+      "live_url": null,
+      "author": "PhiloLabs",
+      "cost_note": null,
+      "why_included": "Explicit Astra comparison artifact with openable repo.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/philolabs-union-square-astra.png",
+        "credit": "PhiloLabs / fable51-worlds"
+      }
+    },
+    {
+      "id": "x-2095653641164329143",
+      "title": {
+        "en": "San Francisco Palace of Fine Arts recreated in Blender",
+        "zh": "San Francisco Palace of Fine Arts recreated in Blender"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/sharifshameem/status/2095653641164329143",
+      "live_url": null,
+      "author": "Sharif Shameem (@sharifshameem)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/sharifshameem/status/2095653641164329143"
+      }
+    },
+    {
+      "id": "openai-shipyard-aurelion",
+      "title": {
+        "en": "Shipyard cruiser AURELION-07",
+        "zh": "船坞巡洋舰 AURELION-07"
+      },
+      "description": {
+        "en": "Same official viz post: Shipyard project where Astra models cruiser AURELION-07 with tapered hull, segmented ring, four detailed drives, and editable Blender materials/lights/cameras.",
+        "zh": "同一官方可视化博文：Shipyard 项目中 Astra 建模巡洋舰 AURELION-07——锥形船体、分段环、四组精细推进器，材质/灯光/相机仍可在 Blender 编辑。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "writeup",
+      "source_url": "https://developers.openai.com/blog/architectural-visualization-with-astra",
+      "live_url": null,
+      "author": "OpenAI Developers",
+      "cost_note": null,
+      "why_included": "Named hard-surface Blender build separate from Solace house.",
+      "verified": true
+    },
+    {
+      "id": "tomkrcha-locomotive-3295",
+      "title": {
+        "en": "Steam locomotive drawing → 3,295 Blender objects",
+        "zh": "蒸汽机车图纸 → 3,295 个 Blender 对象"
+      },
+      "description": {
+        "en": "Tom Krcha asked Astra to rebuild an old steam-locomotive technical drawing in Blender; roundup reports 3,295 fully editable objects with clean decomposable geometry (distinct from his house-from-photo demo already in catalog).",
+        "zh": "Tom Krcha 让 Astra 按旧蒸汽机车技术图纸在 Blender 重建；综述称得到 3,295 个可编辑对象、几何可拆（有别于目录中已有的照片建房演示）。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "writeup",
+      "source_url": "https://pasqualepillitteri.it/en/news/14472/gpt-6-astra-10-wild-builds",
+      "live_url": null,
+      "author": "Tom Krcha (via Pasquale / Min Choi)",
+      "cost_note": null,
+      "why_included": "Quantified editable-object Blender stress test, not a duplicate of house-from-photo.",
+      "verified": true
+    },
+    {
+      "id": "x-2095756085890310311",
+      "title": {
+        "en": "Steam locomotive drawing → 3,295 editable Blender objects",
+        "zh": "Steam locomotive drawing → 3,295 editable Blender objects"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/tomkrcha/status/2095756085890310311",
+      "live_url": null,
+      "author": "Tom Krcha (@tomkrcha)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/tomkrcha/status/2095756085890310311"
+      }
+    },
+    {
+      "id": "shumer-ue-talking-agents",
+      "title": {
+        "en": "Unreal world where Astra agents talk unprompted",
+        "zh": "虚幻世界里 Astra 智能体自行交谈"
+      },
+      "description": {
+        "en": "Matt Shumer’s Unreal survival world populated by Astra-driven human agents that began talking among themselves without a live prompt—documented in the Something Big review and Pasquale’s 10-wild-builds roundup.",
+        "zh": "Matt Shumer 的虚幻求生世界里，由 Astra 驱动的人类智能体在无人实时提示时开始互相交谈——见 Something Big 评测与 Pasquale「10 个狂野构建」综述。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "writeup",
+      "source_url": "https://somethingbig.ai/astra-review",
+      "live_url": null,
+      "author": "Matt Shumer (via Something Big / Min Choi roundups)",
+      "cost_note": null,
+      "why_included": "Canonical emergent-agent Unreal demo referenced across independent writeups.",
+      "verified": true,
+      "media": {
+        "credit": "somethingbig.ai astra-review"
+      }
+    },
+    {
+      "id": "x-2095636679264780481",
+      "title": {
+        "en": "Villa scene in Blender (Fable 5.1 + Astra)",
+        "zh": "Villa scene in Blender (Fable 5.1 + Astra)"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/karankendre/status/2095636679264780481",
+      "live_url": null,
+      "author": "Karan (@karankendre)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/karankendre/status/2095636679264780481"
+      }
+    },
+    {
+      "id": "x-2095648896991080555",
+      "title": {
+        "en": "Viral 3D / AGI-skepticism demo post",
+        "zh": "Viral 3D / AGI-skepticism demo post"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/maxt3chno/status/2095648896991080555",
+      "live_url": null,
+      "author": "Max (@maxt3chno)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/maxt3chno/status/2095648896991080555"
+      }
+    },
+    {
+      "id": "x-2095719731860750613",
+      "title": {
+        "en": "Voxel train table / train playset",
+        "zh": "Voxel train table / train playset"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/DeryaTR_/status/2095719731860750613",
+      "live_url": null,
+      "author": "Derya Unutmaz, MD (@DeryaTR_)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/DeryaTR_/status/2095719731860750613"
+      }
+    },
+    {
+      "id": "pasquale-yunfan-zillow-3d",
+      "title": {
+        "en": "Zillow listing → 3D house + promo (Ye)",
+        "zh": "Zillow 房源 → 三维房屋+宣传片（Ye）"
+      },
+      "description": {
+        "en": "Yunfan Ye fed a Zillow listing to Astra; it rebuilt the house in 3D from listing photos and cut a promo video in one pass (author notes remaining detail errors).",
+        "zh": "Yunfan Ye 把 Zillow 房源交给 Astra：按房源照片重建三维房屋并一枪剪宣传片（作者承认细节仍有误）。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "writeup",
+      "source_url": "https://pasqualepillitteri.it/en/news/14472/gpt-6-astra-10-wild-builds",
+      "live_url": null,
+      "author": "Yunfan Ye (via Pasquale / Min Choi)",
+      "cost_note": null,
+      "why_included": "End-to-end listing→3D→video workflow with named author.",
+      "verified": true
+    },
+    {
+      "id": "x-2095612137582526615",
+      "title": {
+        "en": "Zillow listing → 3D house model + promo video",
+        "zh": "Zillow listing → 3D house model + promo video"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/realYunfanYe/status/2095612137582526615",
+      "live_url": null,
+      "author": "Yunfan Ye (@realYunfanYe)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/realYunfanYe/status/2095612137582526615"
+      }
+    },
+    {
+      "id": "x-2095610200778592665",
+      "title": {
+        "en": "Astra coming to Devin (50 free Max plans giveaway)",
+        "zh": "Astra coming to Devin (50 free Max plans giveaway)"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/dabit3/status/2095610200778592665",
+      "live_url": null,
+      "author": "nader dabit (@dabit3)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/dabit3/status/2095610200778592665"
+      }
+    },
+    {
+      "id": "x-2095596405620441591",
+      "title": {
+        "en": "AutomationBench score claim (highest so far)",
+        "zh": "AutomationBench score claim (highest so far)"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/wadefoster/status/2095596405620441591",
+      "live_url": null,
+      "author": "Wade Foster (@wadefoster)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/wadefoster/status/2095596405620441591"
+      }
+    },
+    {
+      "id": "x-2095598710311067716",
+      "title": {
+        "en": "Box enterprise complex-work eval early preview results",
+        "zh": "Box enterprise complex-work eval early preview results"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/levie/status/2095598710311067716",
+      "live_url": null,
+      "author": "Aaron Levie (@levie)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/levie/status/2095598710311067716"
       }
     },
     {
@@ -219,6 +975,136 @@
       }
     },
     {
+      "id": "coderabbit-code-review-eval",
+      "title": {
+        "en": "CodeRabbit: Astra code-review eval",
+        "zh": "CodeRabbit：Astra 代码审查评测"
+      },
+      "description": {
+        "en": "CodeRabbit reports Astra catching ~4% more labeled bugs overall than GPT-5.6 Sol (~22% vs Opus 5), with larger gains on harder cross-file reviews (~20% over Sol), plus API cost tables and ZDR notes.",
+        "zh": "CodeRabbit 称 Astra 总体比 GPT-5.6 Sol 多抓约 4% 已标注缺陷（相对 Opus 5 约 +22%），跨文件难例增益更大（相对 Sol 约 +20%），并给出 API 成本表与 ZDR 说明。"
+      },
+      "category": "coding-agent",
+      "proof_type": "writeup",
+      "source_url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "live_url": null,
+      "author": "Erik Thorelli & Erfan Al-Hossami / CodeRabbit",
+      "cost_note": "Illustrative 100k in + 10k out: Astra ~$1.50 vs Sol ~$0.60",
+      "why_included": "Independent code-review evaluation with measured deltas.",
+      "verified": true,
+      "media": {
+        "credit": "CodeRabbit blog"
+      }
+    },
+    {
+      "id": "vox-agents-md-from-reviewer",
+      "title": {
+        "en": "Codex prompt: mine reviewer flags into AGENTS.md",
+        "zh": "Codex 提示：把审查意见沉淀进 AGENTS.md"
+      },
+      "description": {
+        "en": "Vox shares a Codex prompt for Astra: use gh to scan ~50 recent PRs per repo, rank a named reviewer’s recurring flags, then add only approved rules to ~/.codex/AGENTS.md.",
+        "zh": "Vox 分享给 Astra 的 Codex 提示：用 gh 扫每仓近 50 个 PR，统计某审查者反复指出的问题，经批准后再写入 ~/.codex/AGENTS.md。"
+      },
+      "category": "coding-agent",
+      "proof_type": "writeup",
+      "source_url": "https://x.com/Voxyz_ai/status/2095951726452847071",
+      "live_url": null,
+      "author": "Vox / @Voxyz_ai",
+      "cost_note": null,
+      "why_included": "Reusable coding-agent ops pattern curated on eChai.",
+      "verified": true,
+      "media": {
+        "credit": "@Voxyz_ai via eChai",
+        "embed": "https://x.com/Voxyz_ai/status/2095951726452847071"
+      }
+    },
+    {
+      "id": "x-2095598016103329898",
+      "title": {
+        "en": "Design work showcase (Astra as designer)",
+        "zh": "Design work showcase (Astra as designer)"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/robinebers/status/2095598016103329898",
+      "live_url": null,
+      "author": "Robin Ebers (@robinebers)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/robinebers/status/2095598016103329898"
+      }
+    },
+    {
+      "id": "x-2095595932335170031",
+      "title": {
+        "en": "Early-access shatter-expectations demo thread",
+        "zh": "Early-access shatter-expectations demo thread"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/skirano/status/2095595932335170031",
+      "live_url": null,
+      "author": "Pietro Schirano (@skirano)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/skirano/status/2095595932335170031"
+      }
+    },
+    {
+      "id": "x-2095877348314730821",
+      "title": {
+        "en": "Every magazine vibe-check draft one-shotted by Astra",
+        "zh": "Every magazine vibe-check draft one-shotted by Astra"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/danshipper/status/2095877348314730821",
+      "live_url": null,
+      "author": "Dan Shipper (@danshipper)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/danshipper/status/2095877348314730821"
+      }
+    },
+    {
+      "id": "pasquale-theo-fishslop",
+      "title": {
+        "en": "fishslop: one-shot browser 3D game (Theo)",
+        "zh": "fishslop：Theo 一枪浏览器 3D 游戏"
+      },
+      "description": {
+        "en": "Roundup documents Theo’s one-shot browser 3D game “fishslop” as a pipeline-from-assets-to-playable-code demo attributed to GPT-6 Astra.",
+        "zh": "综述记述 Theo 的一枪浏览器 3D 游戏 fishslop，作为 GPT-6 Astra 从资产到可玩代码的管线演示。"
+      },
+      "category": "coding-agent",
+      "proof_type": "writeup",
+      "source_url": "https://pasqualepillitteri.it/en/news/14472/gpt-6-astra-10-wild-builds",
+      "live_url": null,
+      "author": "Theo / t3.gg (via Pasquale / Min Choi)",
+      "cost_note": null,
+      "why_included": "Named one-shot game distinct from Void Explorer official writeup.",
+      "verified": true
+    },
+    {
       "id": "cognition-frontiercode-near-parity",
       "title": {
         "en": "FrontierCode near-parity at lower cost",
@@ -239,6 +1125,184 @@
       "media": {
         "thumb": "./media/thumbs/cognition-frontiercode-near-parity.jpg",
         "credit": "Cognition — cognition.com opengraph"
+      }
+    },
+    {
+      "id": "x-2095610463954637132",
+      "title": {
+        "en": "Full-stack coding + verify + Linear ticket close loop",
+        "zh": "Full-stack coding + verify + Linear ticket close loop"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/mehulmpt/status/2095610463954637132",
+      "live_url": null,
+      "author": "Mehul Mohan (@mehulmpt)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/mehulmpt/status/2095610463954637132"
+      }
+    },
+    {
+      "id": "angaisb-gameboy-portfolio",
+      "title": {
+        "en": "Gameboy-style portfolio console",
+        "zh": "Gameboy 风格作品集控制台"
+      },
+      "description": {
+        "en": "Angel asked GPT-6 Astra to build a portfolio inside a Gameboy-like console UI; eChai curated the demo as a clear jump from GPT-5.6.",
+        "zh": "Angel 让 GPT-6 Astra 在类似 Gameboy 的控制台 UI 里做作品集；eChai 策展称相对 GPT-5.6 跨度很大。"
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/Angaisb_/status/2095964361105789424",
+      "live_url": null,
+      "author": "Angel / @Angaisb_",
+      "cost_note": null,
+      "why_included": "Distinct curated live demo on eChai; status URL opens (HTTP 200).",
+      "verified": true,
+      "media": {
+        "credit": "eChai Ventures curation · x.com/Angaisb_",
+        "embed": "https://x.com/Angaisb_/status/2095964361105789424"
+      }
+    },
+    {
+      "id": "x-2095619201105059974",
+      "title": {
+        "en": "GPT-6 Astra full breakdown",
+        "zh": "GPT-6 Astra full breakdown"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/MatthewBerman/status/2095619201105059974",
+      "live_url": null,
+      "author": "Matthew Berman (@MatthewBerman)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/MatthewBerman/status/2095619201105059974"
+      }
+    },
+    {
+      "id": "github-copilot-astra-ga",
+      "title": {
+        "en": "GPT-6 Astra GA in GitHub Copilot",
+        "zh": "GPT-6 Astra 在 GitHub Copilot 正式可用"
+      },
+      "description": {
+        "en": "GitHub Changelog: GPT-6 Astra generally available in Copilot for Pro+/Max/Business/Enterprise across VS Code, Visual Studio, CLI, coding agent, github.com, Mobile, JetBrains, Xcode, Eclipse; usage-based provider list pricing.",
+        "zh": "GitHub Changelog：GPT-6 Astra 在 Copilot Pro+/Max/Business/Enterprise 正式可用，覆盖 VS Code、Visual Studio、CLI、coding agent、github.com、Mobile、JetBrains、Xcode、Eclipse；按供应商挂牌价用量计费。"
+      },
+      "category": "coding-agent",
+      "proof_type": "writeup",
+      "source_url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot/",
+      "live_url": null,
+      "author": "GitHub",
+      "cost_note": "Billed at provider list pricing under usage-based billing",
+      "why_included": "Official IDE/agent distribution channel for Astra coding.",
+      "verified": true,
+      "media": {
+        "credit": "GitHub Changelog"
+      }
+    },
+    {
+      "id": "x-2095596903014580579",
+      "title": {
+        "en": "Hands-on observations thread after heavy Astra use",
+        "zh": "Hands-on observations thread after heavy Astra use"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/literallydenis/status/2095596903014580579",
+      "live_url": null,
+      "author": "Denis Shiryaev 💙💛 (@literallydenis)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/literallydenis/status/2095596903014580579"
+      }
+    },
+    {
+      "id": "x-2095603691948843077",
+      "title": {
+        "en": "Healthcare products built with Astra as daily driver",
+        "zh": "Healthcare products built with Astra as daily driver"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/KavinIK/status/2095603691948843077",
+      "live_url": null,
+      "author": "Kavin Karthik (@KavinIK)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/KavinIK/status/2095603691948843077"
+      }
+    },
+    {
+      "id": "openai-hollowflux-2d-rpg",
+      "title": {
+        "en": "Hollowflux 2D underground-river RPG",
+        "zh": "Hollowflux 地下河 2D 动作 RPG"
+      },
+      "description": {
+        "en": "Official games post: Hollowflux is a small 2D action RPG with code-drawn caves/characters and a water simulation grid reacting to footsteps, spear wakes, hammer rings, and electrical discharge through connected water.",
+        "zh": "官方游戏博文：Hollowflux 是小型 2D 动作 RPG，洞穴/角色代码绘制，水面网格对脚步、矛刺尾流、锤击环波与导电放电作出反应。"
+      },
+      "category": "coding-agent",
+      "proof_type": "writeup",
+      "source_url": "https://developers.openai.com/blog/how-to-build-games-with-astra",
+      "live_url": null,
+      "author": "OpenAI Developers",
+      "cost_note": null,
+      "why_included": "Second distinct official game artifact on the Astra games writeup.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/openai-hollowflux-2d-rpg.webp",
+        "credit": "OpenAI Developers — Building games with Astra"
+      }
+    },
+    {
+      "id": "x-2095604728683958295",
+      "title": {
+        "en": "iOS app built in 13m 3s via AppCreator skill",
+        "zh": "iOS app built in 13m 3s via AppCreator skill"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/PaulSolt/status/2095604728683958295",
+      "live_url": null,
+      "author": "Paul Solt (@PaulSolt)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/PaulSolt/status/2095604728683958295"
       }
     },
     {
@@ -263,6 +1327,353 @@
         "thumb": "./media/thumbs/latent-space-ai-engineer.jpg",
         "credit": "Latent Space — latent.space/p/astra OG"
       }
+    },
+    {
+      "id": "max-weinbach-2bcfa700",
+      "title": {
+        "en": "macOS 27 simulator (live chatgpt.site)",
+        "zh": "macOS 27 simulator (live chatgpt.site)"
+      },
+      "description": {
+        "en": "Playable Sites-hosted demo cited from eChai Astra gallery (https://echai.ventures/astra). Real chatgpt.site live URL.",
+        "zh": "Playable Sites-hosted demo cited from eChai Astra gallery (https://echai.ventures/astra). Real chatgpt.site live URL."
+      },
+      "category": "coding-agent",
+      "proof_type": "writeup",
+      "source_url": "https://macos-27-simulator.mweinbach.chatgpt.site",
+      "live_url": null,
+      "author": "Max Weinbach",
+      "cost_note": null,
+      "why_included": "High-confidence public candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
+    },
+    {
+      "id": "pasquale-minecraft-oneshot",
+      "title": {
+        "en": "Minecraft clone one-shot (Adamo)",
+        "zh": "一枪 Minecraft 克隆（Adamo）"
+      },
+      "description": {
+        "en": "Flavio Adamo’s informal Minecraft recreation benchmark: a single prompt to GPT-6 Astra yielded a playable block-game clone, per the wild-builds roundup.",
+        "zh": "Flavio Adamo 的非正式 Minecraft 复刻基准：据狂野构建综述，单条提示即得到可玩方块游戏克隆。"
+      },
+      "category": "coding-agent",
+      "proof_type": "writeup",
+      "source_url": "https://pasqualepillitteri.it/en/news/14472/gpt-6-astra-10-wild-builds",
+      "live_url": null,
+      "author": "Flavio Adamo (via Pasquale / Min Choi)",
+      "cost_note": null,
+      "why_included": "Community coding benchmark instance explicitly attributed to Astra.",
+      "verified": true
+    },
+    {
+      "id": "coderabbit-nightshift-godot",
+      "title": {
+        "en": "NIGHTSHIFT action RPG (Godot) via Astra",
+        "zh": "用 Astra 做的 NIGHTSHIFT 动作 RPG（Godot）"
+      },
+      "description": {
+        "en": "Same CodeRabbit writeup: team used Astra to build NIGHTSHIFT, a Godot/GDScript action RPG with seven classes, a 988-node passive tree, 40 zones/10 acts, controller support, co-op, and agent-as-player sessions.",
+        "zh": "同一篇 CodeRabbit 文：团队用 Astra 做 NIGHTSHIFT——Godot/GDScript 动作 RPG，七职业、988 节点天赋树、40 区/10 章、手柄、联机，以及智能体当玩家同玩。"
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "live_url": null,
+      "author": "CodeRabbit",
+      "cost_note": null,
+      "why_included": "Distinct large game artifact documented alongside the review eval.",
+      "verified": true,
+      "media": {
+        "credit": "CodeRabbit — NIGHTSHIFT"
+      }
+    },
+    {
+      "id": "x-2095819740694577203",
+      "title": {
+        "en": "One-shot comparison: GPT-6 Astra vs teffa-alpha",
+        "zh": "One-shot comparison: GPT-6 Astra vs teffa-alpha"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/TimJayas/status/2095819740694577203",
+      "live_url": null,
+      "author": "Tim Jayas (@TimJayas)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/TimJayas/status/2095819740694577203"
+      }
+    },
+    {
+      "id": "x-2095596341422440714",
+      "title": {
+        "en": "Open-world adventure game (GPT-6-Astra Ultra)",
+        "zh": "Open-world adventure game (GPT-6-Astra Ultra)"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/petergostev/status/2095596341422440714",
+      "live_url": null,
+      "author": "Peter Gostev (@petergostev)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/petergostev/status/2095596341422440714"
+      }
+    },
+    {
+      "id": "openai-developers-0b74d134",
+      "title": {
+        "en": "OpenAI Developers blog — Astra posts index",
+        "zh": "OpenAI Developers blog — Astra posts index"
+      },
+      "description": {
+        "en": "Blog index Recent section lists exactly two Astra posts as of fetch: Architectural visualization with Astra; Building games with Astra (both Sep 4, 2026).",
+        "zh": "Blog index Recent section lists exactly two Astra posts as of fetch: Architectural visualization with Astra; Building games with Astra (both Sep 4, 2026)."
+      },
+      "category": "coding-agent",
+      "proof_type": "writeup",
+      "source_url": "https://developers.openai.com/blog",
+      "live_url": null,
+      "author": "OpenAI Developers",
+      "cost_note": null,
+      "why_included": "High-confidence public candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
+    },
+    {
+      "id": "x-2095637507337826741",
+      "title": {
+        "en": "PCB layout in KiCad",
+        "zh": "PCB layout in KiCad"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/ChihYang04/status/2095637507337826741",
+      "live_url": null,
+      "author": "Kai Yang (@ChihYang04)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/ChihYang04/status/2095637507337826741"
+      }
+    },
+    {
+      "id": "openai-playco-prototyping",
+      "title": {
+        "en": "Playco: 3 themed games from one grey box",
+        "zh": "Playco：一个灰盒做出三套主题游戏"
+      },
+      "description": {
+        "en": "OpenAI case study: Playco used GPT-6 Astra in Playbot to turn one kart grey-box into pirate, candy, and cyberpunk prototypes, claiming ~50% fewer manual fixes than the prior model.",
+        "zh": "OpenAI 案例：Playco 在 Playbot 里用 GPT-6 Astra 把同一赛车灰盒做成海盗/糖果/赛博三套原型，称手工修复比上一代少约 50%。"
+      },
+      "category": "coding-agent",
+      "proof_type": "writeup",
+      "source_url": "https://openai.com/index/playco-game-prototyping-with-astra/",
+      "live_url": null,
+      "author": "Playco / OpenAI",
+      "cost_note": "Claims 50% fewer manual fixes vs previous model",
+      "why_included": "Official named customer build with quantified workflow claim.",
+      "verified": true,
+      "media": {
+        "credit": "OpenAI — playco-game-prototyping-with-astra"
+      }
+    },
+    {
+      "id": "realpython-turtle-benchmark",
+      "title": {
+        "en": "Real Python: turtle “python reading a book”",
+        "zh": "Real Python：海龟画“蟒蛇读书”"
+      },
+      "description": {
+        "en": "Fixed five-prompt vibe check via OpenRouter openai/gpt-6-astra: turtle snake drawing (2264 cmds / 196 LOC), stash CLI modernity, tiny edit, and made-up itertools.flatten() catch; billed $0.31 for all five.",
+        "zh": "经 OpenRouter 的 openai/gpt-6-astra 固定五题：海龟画蟒蛇读书（2264 指令/196 行）、stash CLI 现代性、小改动、识破虚构 itertools.flatten()；五题合计账单 $0.31。"
+      },
+      "category": "coding-agent",
+      "proof_type": "writeup",
+      "source_url": "https://realpython.com/ai-benchmark-gpt-6-astra/",
+      "live_url": null,
+      "author": "Martin Breuss / Real Python",
+      "cost_note": "$0.31 for 5 tasks via OpenRouter; ~1m25s wall",
+      "why_included": "Reproducible coding vibe-check with published script and cost.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/realpython-turtle-benchmark.jpg",
+        "credit": "Real Python"
+      }
+    },
+    {
+      "id": "openai-sunwake-ocean",
+      "title": {
+        "en": "Sunwake procedural ocean boat game",
+        "zh": "Sunwake 程序化海洋驾船游戏"
+      },
+      "description": {
+        "en": "From OpenAI’s games-with-Astra blog: Sunwake couples a custom Three.js faceted stained-glass ocean (shared wave model for visuals + buoyancy) with a Blender-authored boat.",
+        "zh": "出自 OpenAI「用 Astra 做游戏」博文：Sunwake 用自定义 Three.js 切面彩玻风海面（同一波浪模型驱动视觉与浮力），船体在 Blender 中制作。"
+      },
+      "category": "coding-agent",
+      "proof_type": "writeup",
+      "source_url": "https://developers.openai.com/blog/how-to-build-games-with-astra",
+      "live_url": null,
+      "author": "OpenAI Developers",
+      "cost_note": null,
+      "why_included": "Distinct playable game system beyond Void Explorer on the same official post.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/openai-sunwake-ocean.webp",
+        "credit": "OpenAI Developers — Building games with Astra"
+      }
+    },
+    {
+      "id": "testingcatalog-first-outputs",
+      "title": {
+        "en": "TestingCatalog: first pre-release Astra outputs",
+        "zh": "TestingCatalog：Astra 预发布首批输出"
+      },
+      "description": {
+        "en": "Aug 29 writeup of early leaked/zero-shot Max-effort Astra outputs (GTA2-style game, voxel castle/pagoda, detailed sites) during mozaik-alpha-fdm internal testing, before public launch.",
+        "zh": "8 月 29 日文：公开上线前 mozaik-alpha-fdm 内测阶段流出的 Max effort 零样本输出（GTA2 风游戏、体素城堡/宝塔、精细站点等）。"
+      },
+      "category": "coding-agent",
+      "proof_type": "writeup",
+      "source_url": "https://www.testingcatalog.com/first-outputs-from-gpt-6-astra-model-from-openai/",
+      "live_url": null,
+      "author": "Alexey Shabanov / TestingCatalog",
+      "cost_note": null,
+      "why_included": "Documented pre-GA output gallery explicitly naming Astra.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/testingcatalog-first-outputs.jpg",
+        "credit": "TestingCatalog"
+      }
+    },
+    {
+      "id": "theo-codebase-slop-audits",
+      "title": {
+        "en": "Theo’s Astra codebase push list",
+        "zh": "Theo 的 Astra 代码库压测清单"
+      },
+      "description": {
+        "en": "Theo (t3.gg) lists Astra workflows that pay off on existing code: slop audits, performance hunts, agent DX loops, closing 200+ PRs/issues, careful merge trust, and taking over stuck branches.",
+        "zh": "Theo（t3.gg）列出在已有代码库上压 Astra 的做法：清 slop、找性能、改 agent DX、关掉 200+ PR/issue、谨慎放权合并、接管卡住的分支。"
+      },
+      "category": "coding-agent",
+      "proof_type": "writeup",
+      "source_url": "https://x.com/theo/status/2095966874010046621",
+      "live_url": null,
+      "author": "Theo / t3.gg",
+      "cost_note": "Author notes surprise bills / limit usage risk",
+      "why_included": "Maintenance-focused coding-agent playbook, not a launch news clone.",
+      "verified": true,
+      "media": {
+        "credit": "@theo via eChai",
+        "embed": "https://x.com/theo/status/2095966874010046621"
+      }
+    },
+    {
+      "id": "x-2095625355231142079",
+      "title": {
+        "en": "Tiny Computer Bench™ / computer-use crush claim",
+        "zh": "Tiny Computer Bench™ / computer-use crush claim"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/clairevo/status/2095625355231142079",
+      "live_url": null,
+      "author": "claire vo 🖤 (@clairevo)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/clairevo/status/2095625355231142079"
+      }
+    },
+    {
+      "id": "x-2095601996770263362",
+      "title": {
+        "en": "Unity city scene assembled from existing assets",
+        "zh": "Unity city scene assembled from existing assets"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/ChrisGPT/status/2095601996770263362",
+      "live_url": null,
+      "author": "Chris (@ChrisGPT)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/ChrisGPT/status/2095601996770263362"
+      }
+    },
+    {
+      "id": "derya-wow-runescape-rpg",
+      "title": {
+        "en": "WoW/RuneScape-inspired browser RPG",
+        "zh": "WoW/RuneScape 风格浏览器 RPG"
+      },
+      "description": {
+        "en": "Derya Unutmaz is building a World of Warcraft–inspired single-player browser RPG with RuneScape gathering elements using GPT-6 Astra; early build already has combat, tree chopping, and resource gathering.",
+        "zh": "Derya Unutmaz 用 GPT-6 Astra 做 WoW 灵感单机浏览器 RPG，并带 RuneScape 采集要素；早期版本已有战斗、砍树与资源采集。"
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/DeryaTR_/status/2095952101000016076",
+      "live_url": null,
+      "author": "Derya Unutmaz, MD",
+      "cost_note": null,
+      "why_included": "Named Astra browser RPG demo curated on eChai with openable status URL.",
+      "verified": true,
+      "media": {
+        "credit": "@DeryaTR_ via eChai",
+        "embed": "https://x.com/DeryaTR_/status/2095952101000016076"
+      }
+    },
+    {
+      "id": "pasquale-tcells-remotion",
+      "title": {
+        "en": "5-minute T-cell lesson (Remotion)",
+        "zh": "五分钟 T 细胞课（Remotion）"
+      },
+      "description": {
+        "en": "Immunologist Derya Unutmaz asked Astra for a five-minute teaching video on T cells; the model used Remotion to combine explanation and animation, and he found it publishable.",
+        "zh": "免疫学家 Derya Unutmaz 让 Astra 做五分钟 T 细胞教学视频；模型用 Remotion 组合讲解与动画，他认为达到可发布水准。"
+      },
+      "category": "math-science",
+      "proof_type": "writeup",
+      "source_url": "https://pasqualepillitteri.it/en/news/14472/gpt-6-astra-10-wild-builds",
+      "live_url": null,
+      "author": "Derya Unutmaz, MD (via Pasquale / Min Choi)",
+      "cost_note": null,
+      "why_included": "Domain-expert-validated science explainer, distinct from his RPG demo.",
+      "verified": true
     },
     {
       "id": "arc-prize-astra-agi3",
@@ -380,6 +1791,28 @@
       }
     },
     {
+      "id": "x-2095659170661904804",
+      "title": {
+        "en": "5-minute T-cell educational video from one prompt",
+        "zh": "5-minute T-cell educational video from one prompt"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "docs-office",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/DeryaTR_/status/2095659170661904804",
+      "live_url": null,
+      "author": "Derya Unutmaz, MD (@DeryaTR_)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/DeryaTR_/status/2095659170661904804"
+      }
+    },
+    {
       "id": "automationbench-professional-work",
       "title": {
         "en": "AutomationBench professional work jump",
@@ -403,6 +1836,117 @@
       }
     },
     {
+      "id": "openai-chatgpt-learn-4fbbda03",
+      "title": {
+        "en": "ChatGPT Sites docs (chatgpt.site hosting)",
+        "zh": "ChatGPT Sites docs (chatgpt.site hosting)"
+      },
+      "description": {
+        "en": "Docs for Sites feature used to host Astra-built web apps/games on chatgpt.site subdomains. Platform docs, not a single demo; explains live_url pattern like macos-27-simulator.*.chatgpt.site.",
+        "zh": "Docs for Sites feature used to host Astra-built web apps/games on chatgpt.site subdomains. Platform docs, not a single demo; explains live_url pattern like macos-27-simulator.*.chatgpt.site."
+      },
+      "category": "docs-office",
+      "proof_type": "writeup",
+      "source_url": "https://learn.chatgpt.com/docs/sites",
+      "live_url": null,
+      "author": "OpenAI / ChatGPT Learn",
+      "cost_note": null,
+      "why_included": "High-confidence public candidate with fetchable URL.",
+      "verified": true,
+      "media": {}
+    },
+    {
+      "id": "every-astra-vibe-check",
+      "title": {
+        "en": "Every: Astra vibe check (model-drafted)",
+        "zh": "Every：Astra 手感评测（模型起草）"
+      },
+      "description": {
+        "en": "Every’s vibe check page states GPT-6 Astra wrote the first draft from a single prompt; Dan Shipper’s eChai-linked post says a ~3,000-word draft landed by 7am after a 3am launch tip.",
+        "zh": "Every 手感评测页写明 GPT-6 Astra 用单条提示起草初稿；Dan Shipper 在 eChai 链到的帖中称凌晨 3 点得知上线、7 点已有约 3000 字草稿。"
+      },
+      "category": "docs-office",
+      "proof_type": "writeup",
+      "source_url": "https://every.to/vibe-check/gpt-6-astra-vibe-check",
+      "live_url": null,
+      "author": "Katie Parrott / Every (+ Dan Shipper note)",
+      "cost_note": null,
+      "why_included": "Named writing/docs artifact; Astra as author of its own review draft.",
+      "verified": true,
+      "media": {
+        "credit": "Every"
+      }
+    },
+    {
+      "id": "greg-isenberg-astra-prompts",
+      "title": {
+        "en": "Greg Isenberg: 9 Astra job prompts",
+        "zh": "Greg Isenberg：9 条 Astra 任务提示"
+      },
+      "description": {
+        "en": "Nine prompts framed as jobs for GPT-6 Astra (bill renegotiation, agency→software, marketplace flip alerts, operator dashboard, agent opportunity audit, browser operator, nightly QA, competitor spy, lead-magnet game)—one docs-office entry for the set.",
+        "zh": "九条写成“岗位”的 GPT-6 Astra 提示（账单议价、中介改软件、二手捡漏、一人公司仪表盘、智能体机会审计、浏览器操作员、夜间 QA、竞品间谍、获客小游戏）——整组只收一条。"
+      },
+      "category": "docs-office",
+      "proof_type": "writeup",
+      "source_url": "https://x.com/gregisenberg/status/2095854071580156338",
+      "live_url": null,
+      "author": "Greg Isenberg",
+      "cost_note": null,
+      "why_included": "Single capped entry for the Greg prompt pack per gallery rule.",
+      "verified": true,
+      "media": {
+        "credit": "@gregisenberg via eChai",
+        "embed": "https://x.com/gregisenberg/status/2095854071580156338"
+      }
+    },
+    {
+      "id": "miguel-hyperframes-videos",
+      "title": {
+        "en": "HyperFrames videos with Astra",
+        "zh": "用 Astra 做 HyperFrames 视频"
+      },
+      "description": {
+        "en": "HeyGen product engineer Miguel Ángel shows GPT-6 Astra generating HyperFrames videos for the product he builds day-to-day.",
+        "zh": "HeyGen 产品工程师 Miguel Ángel 展示 GPT-6 Astra 为日常产品 HyperFrames 生成视频。"
+      },
+      "category": "docs-office",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/Miguel07Code/status/2095969648738967726",
+      "live_url": null,
+      "author": "Miguel Ángel",
+      "cost_note": null,
+      "why_included": "Product-native video demo curated on eChai.",
+      "verified": true,
+      "media": {
+        "credit": "@Miguel07Code via eChai",
+        "embed": "https://x.com/Miguel07Code/status/2095969648738967726"
+      }
+    },
+    {
+      "id": "openai-model-guidance-astra",
+      "title": {
+        "en": "OpenAI docs: using GPT-6 Astra",
+        "zh": "OpenAI 文档：如何使用 GPT-6 Astra"
+      },
+      "description": {
+        "en": "Official model guidance for gpt-6-astra: async tool calling, mid-turn steering, configuration_update for reasoning effort, misalignment monitoring, and prompting patterns for initiative, AGENTS.md, subagents, and verification.",
+        "zh": "官方 gpt-6-astra 使用指南：异步工具调用、中途转向、configuration_update 调推理力度、错位监控，以及主动性、AGENTS.md、子智能体与验证相关提示词模式。"
+      },
+      "category": "docs-office",
+      "proof_type": "writeup",
+      "source_url": "https://developers.openai.com/api/docs/guides/latest-model",
+      "live_url": null,
+      "author": "OpenAI",
+      "cost_note": null,
+      "why_included": "Canonical API/behavior guide builders should check against demos.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/openai-model-guidance.png",
+        "credit": "OpenAI Developers"
+      }
+    },
+    {
       "id": "perplexity-wandr",
       "title": {
         "en": "Perplexity WANDR research-agent win",
@@ -423,6 +1967,50 @@
       "media": {
         "thumb": "./media/thumbs/perplexity-wandr.jpg",
         "credit": "Latent Space AINews — ainews-gpt-6-astra OG"
+      }
+    },
+    {
+      "id": "x-2095616764793270705",
+      "title": {
+        "en": "Prompt-to-playable games milestone",
+        "zh": "Prompt-to-playable games milestone"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "docs-office",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/MatthewBerman/status/2095616764793270705",
+      "live_url": null,
+      "author": "Matthew Berman (@MatthewBerman)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/MatthewBerman/status/2095616764793270705"
+      }
+    },
+    {
+      "id": "x-2095608815492202985",
+      "title": {
+        "en": "Skyrim-inspired game from one prompt",
+        "zh": "Skyrim-inspired game from one prompt"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "docs-office",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/Rubzem/status/2095608815492202985",
+      "live_url": null,
+      "author": "S (@Rubzem)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/Rubzem/status/2095608815492202985"
       }
     },
     {
@@ -469,6 +2057,28 @@
       "media": {
         "thumb": "./media/thumbs/artificial-analysis-benchmarking.jpg",
         "credit": "Artificial Analysis — benchmarking-gpt-6-astra OG"
+      }
+    },
+    {
+      "id": "x-2095597213896610184",
+      "title": {
+        "en": "Cost-efficiency / token-efficiency Pareto claim",
+        "zh": "Cost-efficiency / token-efficiency Pareto claim"
+      },
+      "description": {
+        "en": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page.",
+        "zh": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+      },
+      "category": "cost-economics",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/cheatyyyy/status/2095597213896610184",
+      "live_url": null,
+      "author": "cheaty (@cheatyyyy)",
+      "cost_note": null,
+      "why_included": "Public X post curated via eChai Built with Astra; status URL verified on aggregator page.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/cheatyyyy/status/2095597213896610184"
       }
     },
     {
@@ -537,6 +2147,135 @@
       }
     },
     {
+      "id": "openrouter-astra-routing",
+      "title": {
+        "en": "OpenRouter: GPT-6 Astra providers & prices",
+        "zh": "OpenRouter：GPT-6 Astra 供应商与价格"
+      },
+      "description": {
+        "en": "OpenRouter model page for openai/gpt-6-astra with live provider table (OpenAI/Azure/Flex/Fast), effective vs listed prices, throughput/latency, and AA index snippets.",
+        "zh": "OpenRouter 上 openai/gpt-6-astra 模型页：供应商表（OpenAI/Azure/Flex/Fast）、实付相对挂牌价、吞吐/延迟，以及 AA 指数摘录。"
+      },
+      "category": "cost-economics",
+      "proof_type": "writeup",
+      "source_url": "https://openrouter.ai/openai/gpt-6-astra",
+      "live_url": null,
+      "author": "OpenRouter",
+      "cost_note": "Listed $10/$50 per 1M; Flex $5/$25; Fast $20/$100",
+      "why_included": "Primary multi-provider price/perf surface for builders.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/openrouter-astra.png",
+        "credit": "OpenRouter"
+      }
+    },
+    {
+      "id": "simonwillison-astra-notes",
+      "title": {
+        "en": "Simon Willison’s Astra launch notes",
+        "zh": "Simon Willison 的 Astra 发布笔记"
+      },
+      "description": {
+        "en": "Concise launch digest covering $10/$50 API parity with Fable, ARC-AGI-3 harness caveat (99.9% adapter vs 62.7% default), ExploitBench/SRE-Bench figures, and Artificial Analysis split read.",
+        "zh": "精简发布笔记：API $10/$50 与 Fable 持平、ARC-AGI-3 工具套差异（适配器 99.9% vs 默认 62.7%）、ExploitBench/SRE-Bench 数字，以及 Artificial Analysis 的分化解读。"
+      },
+      "category": "cost-economics",
+      "proof_type": "writeup",
+      "source_url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+      "live_url": null,
+      "author": "Simon Willison",
+      "cost_note": "$10/M in, $50/M out; ARC adapter run cited ~$19k",
+      "why_included": "Trusted independent digest tying price to contested benches.",
+      "verified": true,
+      "media": {
+        "credit": "simonwillison.net"
+      }
+    },
+    {
+      "id": "thenewstack-astra-benchmarks",
+      "title": {
+        "en": "The New Stack: Astra benchmarks package",
+        "zh": "The New Stack：Astra 基准打包解读"
+      },
+      "description": {
+        "en": "The New Stack launch/benchmarks article aggregating OpenAI’s GPT-6 Astra scores and AGI-era framing; kept only as a secondary bench digest (prefer AA/Vellum/ARC primaries already in catalog).",
+        "zh": "The New Stack 汇总 GPT-6 Astra 分数与“AGI 时代”表述的发布/基准文；仅作次级基准摘要（主条目仍以 AA/Vellum/ARC 为准）。"
+      },
+      "category": "cost-economics",
+      "proof_type": "writeup",
+      "source_url": "https://thenewstack.io/openai-gpt6-astra-benchmarks/",
+      "live_url": null,
+      "author": "The New Stack",
+      "cost_note": null,
+      "why_included": "Widely cited bench image/source on HN; limited news-clone value but URL verified.",
+      "verified": true
+    },
+    {
+      "id": "vercel-ai-gateway-astra",
+      "title": {
+        "en": "Vercel AI Gateway: gpt-6-astra",
+        "zh": "Vercel AI Gateway：gpt-6-astra"
+      },
+      "description": {
+        "en": "Vercel AI Gateway listing for openai/gpt-6-astra with context window (~1.05M), max output 128k, and $10/$50 per 1M pricing.",
+        "zh": "Vercel AI Gateway 列出 openai/gpt-6-astra：上下文约 1.05M、最大输出 128k、价格 $10/$50 每百万 token。"
+      },
+      "category": "cost-economics",
+      "proof_type": "writeup",
+      "source_url": "https://vercel.com/ai-gateway/models/gpt-6-astra",
+      "live_url": null,
+      "author": "Vercel",
+      "cost_note": "$10/1M input, $50/1M output",
+      "why_included": "Canonical gateway model card for deployment wiring.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/vercel-ai-gateway-astra.png",
+        "credit": "Vercel AI Gateway"
+      }
+    },
+    {
+      "id": "gary-marcus-astra-hot-take",
+      "title": {
+        "en": "Gary Marcus hot take on GPT-6 Astra",
+        "zh": "Gary Marcus 对 GPT-6 Astra 的热评"
+      },
+      "description": {
+        "en": "Independent critical essay on GPT-6 Astra’s launch claims and limits (Substack), useful as a dissenting voice alongside capability demos.",
+        "zh": "关于 GPT-6 Astra 发布主张与局限的独立批评文章（Substack），作为能力演示之外的反对意见。"
+      },
+      "category": "safety-monitorability",
+      "proof_type": "writeup",
+      "source_url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
+      "live_url": null,
+      "author": "Gary Marcus",
+      "cost_note": null,
+      "why_included": "High-signal critical perspective; not a CNBC-style launch mirror.",
+      "verified": true
+    },
+    {
+      "id": "openai-system-card-hub",
+      "title": {
+        "en": "GPT-6 Astra system card (Deployment Safety Hub)",
+        "zh": "GPT-6 Astra 系统卡（部署安全中心）"
+      },
+      "description": {
+        "en": "Full Deployment Safety Hub system card for GPT-6 Astra covering cyber Critical threshold, jailbreak/prompt-injection robustness, alignment evals, CoT controllability/monitorability, and external UK AISI/Apollo notes.",
+        "zh": "部署安全中心完整系统卡：Critical 网络阈值、越狱/注入鲁棒性、对齐评测、CoT 可控/可监控性，以及英国 AISI/Apollo 外部评注。"
+      },
+      "category": "safety-monitorability",
+      "proof_type": "writeup",
+      "source_url": "https://deploymentsafety.openai.com/gpt-6-astra",
+      "live_url": null,
+      "author": "OpenAI",
+      "cost_note": null,
+      "why_included": "Authoritative long-form safety/eval artifact.",
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/openai-system-card.png",
+        "credit": "OpenAI Deployment Safety Hub"
+      }
+    },
+    {
       "id": "hn-openai-rollout",
       "title": {
         "en": "HN: OpenAI begins rolling out GPT-6 Astra",
@@ -554,6 +2293,28 @@
       "cost_note": "Quotes Brockman: price per task is what matters",
       "why_included": "Public skeptical/governance thread pairing capability claims with rollout and cyber caution.",
       "verified": true
+    },
+    {
+      "id": "openai-safety-overview",
+      "title": {
+        "en": "Safety overview: GPT-6 Astra",
+        "zh": "安全综述：GPT-6 Astra"
+      },
+      "description": {
+        "en": "OpenAI safety overview: first broadly deployed Critical cyber model under Preparedness Framework; stronger alignment vs Sol, broader misalignment monitoring, and decreased CoT monitorability called out explicitly.",
+        "zh": "OpenAI 安全综述：Preparedness Framework 下首个广泛部署的 Critical 网络能力模型；相对 Sol 对齐更强、错位监控更广，并明确指出 CoT 可监控性下降。"
+      },
+      "category": "safety-monitorability",
+      "proof_type": "writeup",
+      "source_url": "https://openai.com/index/safety-overview-gpt-6-astra/",
+      "live_url": null,
+      "author": "OpenAI",
+      "cost_note": null,
+      "why_included": "Primary public safety framing companion to the system card.",
+      "verified": true,
+      "media": {
+        "credit": "OpenAI"
+      }
     },
     {
       "id": "transformer-news-neuralese",
