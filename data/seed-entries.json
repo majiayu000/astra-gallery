@@ -70,6 +70,51 @@
       }
     },
     {
+      "id": "x-2096124169406775325",
+      "title": {
+        "en": "Computer Use drew the creator's portrait in a drawing app entirely via AI mouse actions.",
+        "zh": "Computer Use drew the creator's portrait in a drawing app entirely via AI mouse actions."
+      },
+      "description": {
+        "en": "Computer Use drew the creator's portrait in a drawing app entirely via AI mouse actions. Media: video (about 0:39).",
+        "zh": "Computer Use drew the creator's portrait in a drawing app entirely via AI mouse actions. Media: video (about 0:39)."
+      },
+      "category": "computer-use",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/keitowebai/status/2096124169406775325",
+      "live_url": null,
+      "author": "@keitowebai",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/keitowebai/status/2096124169406775325"
+      }
+    },
+    {
+      "id": "davis7-final-cut-setup",
+      "title": {
+        "en": "Final Cut Pro setup from a recorded video",
+        "zh": "把录好的视频自动摆进 Final Cut Pro"
+      },
+      "description": {
+        "en": "Ben Davis asked GPT-6 Astra to set up a freshly recorded video in Final Cut Pro—import clips, color grade, sync, and get a cut ready—calling it a new computer-use holy-shit moment.",
+        "zh": "Ben Davis 让 GPT-6 Astra 在 Final Cut Pro 里整理刚录好的视频：导入片段、调色、同步并准备成片，称这是计算机操控上的新「卧槽」时刻。"
+      },
+      "category": "computer-use",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/davis7/status/2095742249275699415",
+      "live_url": null,
+      "author": "Ben Davis (@davis7)",
+      "cost_note": null,
+      "why_included": "Distinct Final Cut Pro computer-use build from eChai-curated status URL (HTTP 200; text via public fxtwitter). Not a news rewrite.",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/davis7/status/2095742249275699415",
+        "credit": "eChai curated · @davis7"
+      }
+    },
+    {
       "id": "openai-official-launch",
       "title": {
         "en": "GPT-6 Astra official launch",
@@ -182,6 +227,28 @@
       "verified": true,
       "media": {
         "credit": "somethingbig.ai"
+      }
+    },
+    {
+      "id": "x-2095992132620136677",
+      "title": {
+        "en": "Told GPT-6 Astra to draw the author in Canva using browser/computer use; high-engagement screen recording shows the process.",
+        "zh": "Told GPT-6 Astra to draw the author in Canva using browser/computer use; high-engagement screen recording shows the process."
+      },
+      "description": {
+        "en": "Told GPT-6 Astra to draw the author in Canva using browser/computer use; high-engagement screen recording shows the process. Media: screen-recording/video.",
+        "zh": "Told GPT-6 Astra to draw the author in Canva using browser/computer use; high-engagement screen recording shows the process. Media: screen-recording/video."
+      },
+      "category": "computer-use",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/iam_zachi/status/2095992132620136677",
+      "live_url": null,
+      "author": "@iam_zachi",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/iam_zachi/status/2095992132620136677"
       }
     },
     {
@@ -299,6 +366,138 @@
       }
     },
     {
+      "id": "x-2096085439052452064",
+      "title": {
+        "en": "Asteroids 3D: Deepfield, a one-shot-prompt arcade game with front/rear/side cameras and twin cannons; desktop keyboard play.",
+        "zh": "Asteroids 3D: Deepfield, a one-shot-prompt arcade game with front/rear/side cameras and twin cannons; desktop keyboard play."
+      },
+      "description": {
+        "en": "Asteroids 3D: Deepfield, a one-shot-prompt arcade game with front/rear/side cameras and twin cannons; desktop keyboard play. Media: 2 images.",
+        "zh": "Asteroids 3D: Deepfield, a one-shot-prompt arcade game with front/rear/side cameras and twin cannons; desktop keyboard play. Media: 2 images."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/DantesClown/status/2096085439052452064",
+      "live_url": "https://asteroids-deepfield-cockpit.dan200200.chatgpt.site",
+      "author": "@DantesClown",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/DantesClown/status/2096085439052452064"
+      }
+    },
+    {
+      "id": "x-2096023538499309967",
+      "title": {
+        "en": "Astra built a golf course that refuses to let the player miss; creator says it built the 3D scene, animation, and sound.",
+        "zh": "Astra built a golf course that refuses to let the player miss; creator says it built the 3D scene, animation, and sound."
+      },
+      "description": {
+        "en": "Astra built a golf course that refuses to let the player miss; creator says it built the 3D scene, animation, and sound. Media: video/output.",
+        "zh": "Astra built a golf course that refuses to let the player miss; creator says it built the 3D scene, animation, and sound. Media: video/output."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/ecomchasedimond/status/2096023538499309967",
+      "live_url": null,
+      "author": "@ecomchasedimond",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/ecomchasedimond/status/2096023538499309967"
+      }
+    },
+    {
+      "id": "x-2096065409455886689",
+      "title": {
+        "en": "Astra built a voiced Unreal Engine videogame and play-tested it remotely; creator says 11labs provides the voice.",
+        "zh": "Astra built a voiced Unreal Engine videogame and play-tested it remotely; creator says 11labs provides the voice."
+      },
+      "description": {
+        "en": "Astra built a voiced Unreal Engine videogame and play-tested it remotely; creator says 11labs provides the voice. Media: video (2:37).",
+        "zh": "Astra built a voiced Unreal Engine videogame and play-tested it remotely; creator says 11labs provides the voice. Media: video (2:37)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/WesRoth/status/2096065409455886689",
+      "live_url": null,
+      "author": "@WesRoth",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/WesRoth/status/2096065409455886689"
+      }
+    },
+    {
+      "id": "x-2096072544491336005",
+      "title": {
+        "en": "Astra installed Blender and built a DeLorean with moving doors from two prompts; process shown at 4x speed.",
+        "zh": "Astra installed Blender and built a DeLorean with moving doors from two prompts; process shown at 4x speed."
+      },
+      "description": {
+        "en": "Astra installed Blender and built a DeLorean with moving doors from two prompts; process shown at 4x speed. Media: video/screen recording (4x).",
+        "zh": "Astra installed Blender and built a DeLorean with moving doors from two prompts; process shown at 4x speed. Media: video/screen recording (4x)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/WesRoth/status/2096072544491336005",
+      "live_url": null,
+      "author": "@WesRoth",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/WesRoth/status/2096072544491336005"
+      }
+    },
+    {
+      "id": "x-2096103821470761033",
+      "title": {
+        "en": "Astra Medium made a 3D diamond ring in about 15 minutes from a prompt; creator shared a playable site.",
+        "zh": "Astra Medium made a 3D diamond ring in about 15 minutes from a prompt; creator shared a playable site."
+      },
+      "description": {
+        "en": "Astra Medium made a 3D diamond ring in about 15 minutes from a prompt; creator shared a playable site. Media: 4 images.",
+        "zh": "Astra Medium made a 3D diamond ring in about 15 minutes from a prompt; creator shared a playable site. Media: 4 images."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/LexnLin/status/2096103821470761033",
+      "live_url": "https://diamond-light.lexn8.chatgpt.site",
+      "author": "@LexnLin",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/LexnLin/status/2096103821470761033"
+      }
+    },
+    {
+      "id": "x-2096113142367740406",
+      "title": {
+        "en": "Astra-generated 3D objects in Blender were used to build an entire playable game in Unreal Engine; screenshot shows the running level.",
+        "zh": "Astra-generated 3D objects in Blender were used to build an entire playable game in Unreal Engine; screenshot shows the running level."
+      },
+      "description": {
+        "en": "Astra-generated 3D objects in Blender were used to build an entire playable game in Unreal Engine; screenshot shows the running level. Media: image/screenshot.",
+        "zh": "Astra-generated 3D objects in Blender were used to build an entire playable game in Unreal Engine; screenshot shows the running level. Media: image/screenshot."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/WesRoth/status/2096113142367740406",
+      "live_url": null,
+      "author": "@WesRoth",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/WesRoth/status/2096113142367740406"
+      }
+    },
+    {
       "id": "dimillian-blender-ue5-house",
       "title": {
         "en": "Blender → Unreal house walkthrough (Dimillian)",
@@ -365,6 +564,72 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/FieroTy/status/2095635722208493813"
+      }
+    },
+    {
+      "id": "x-2096130492110447033",
+      "title": {
+        "en": "Computer-use prompt had Astra gather Pilatus PC-12 reference/engineering imagery, install Blender, build a pixel-perfect 3D plane, and save/render it.",
+        "zh": "Computer-use prompt had Astra gather Pilatus PC-12 reference/engineering imagery, install Blender, build a pixel-perfect 3D plane, and save/render it."
+      },
+      "description": {
+        "en": "Computer-use prompt had Astra gather Pilatus PC-12 reference/engineering imagery, install Blender, build a pixel-perfect 3D plane, and save/render it. Media: image/output screenshot.",
+        "zh": "Computer-use prompt had Astra gather Pilatus PC-12 reference/engineering imagery, install Blender, build a pixel-perfect 3D plane, and save/render it. Media: image/output screenshot."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/grepmoney/status/2096130492110447033",
+      "live_url": null,
+      "author": "@grepmoney",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/grepmoney/status/2096130492110447033"
+      }
+    },
+    {
+      "id": "x-2096131333580107782",
+      "title": {
+        "en": "Design comparison thread: GPT-6 Astra vs GPT-5.6 Sol, Kimi K3, Fable 5, etc., with a detailed pagoda/voxel garden scene output.",
+        "zh": "Design comparison thread: GPT-6 Astra vs GPT-5.6 Sol, Kimi K3, Fable 5, etc., with a detailed pagoda/voxel garden scene output."
+      },
+      "description": {
+        "en": "Design comparison thread: GPT-6 Astra vs GPT-5.6 Sol, Kimi K3, Fable 5, etc., with a detailed pagoda/voxel garden scene output. Media: 2 images.",
+        "zh": "Design comparison thread: GPT-6 Astra vs GPT-5.6 Sol, Kimi K3, Fable 5, etc., with a detailed pagoda/voxel garden scene output. Media: 2 images."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/cedric_chee/status/2096131333580107782",
+      "live_url": null,
+      "author": "@cedric_chee",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/cedric_chee/status/2096131333580107782"
+      }
+    },
+    {
+      "id": "x-2096130490436636713",
+      "title": {
+        "en": "Fable 5.1 vs GPT-6 Astra 3D spatial/modeling comparison using a rendered taxi/car model.",
+        "zh": "Fable 5.1 vs GPT-6 Astra 3D spatial/modeling comparison using a rendered taxi/car model."
+      },
+      "description": {
+        "en": "Fable 5.1 vs GPT-6 Astra 3D spatial/modeling comparison using a rendered taxi/car model. Media: 2 images.",
+        "zh": "Fable 5.1 vs GPT-6 Astra 3D spatial/modeling comparison using a rendered taxi/car model. Media: 2 images."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/trikcode/status/2096130490436636713",
+      "live_url": null,
+      "author": "@trikcode",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/trikcode/status/2096130490436636713"
       }
     },
     {
@@ -563,6 +828,28 @@
       }
     },
     {
+      "id": "x-2096085354529144842",
+      "title": {
+        "en": "Natural-language Blender MCP 3D modeling followed by Unity CLI gameification; video shows the resulting knight scene/game.",
+        "zh": "Natural-language Blender MCP 3D modeling followed by Unity CLI gameification; video shows the resulting knight scene/game."
+      },
+      "description": {
+        "en": "Natural-language Blender MCP 3D modeling followed by Unity CLI gameification; video shows the resulting knight scene/game. Media: video (1:07).",
+        "zh": "Natural-language Blender MCP 3D modeling followed by Unity CLI gameification; video shows the resulting knight scene/game. Media: video (1:07)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/keitowebai/status/2096085354529144842",
+      "live_url": null,
+      "author": "@keitowebai",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/keitowebai/status/2096085354529144842"
+      }
+    },
+    {
       "id": "vaibhav-nurburgring-blender",
       "title": {
         "en": "Nürburgring Blender fly-through",
@@ -673,6 +960,72 @@
       }
     },
     {
+      "id": "x-2096009543327404491",
+      "title": {
+        "en": "Playable American Museum of Natural History game rebuilt from a single prompt on Higgsfield Supercomputer; video shows museum exploration with T-rex/mummy eleme",
+        "zh": "Playable American Museum of Natural History game rebuilt from a single prompt on Higgsfield Supercomputer; video shows museum exploration with T-rex/mummy eleme"
+      },
+      "description": {
+        "en": "Playable American Museum of Natural History game rebuilt from a single prompt on Higgsfield Supercomputer; video shows museum exploration with T-rex/mummy elements. Media: video (about 1:00).",
+        "zh": "Playable American Museum of Natural History game rebuilt from a single prompt on Higgsfield Supercomputer; video shows museum exploration with T-rex/mummy elements. Media: video (about 1:00)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/higgsfield_ai/status/2096009543327404491",
+      "live_url": null,
+      "author": "@higgsfield_ai",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/higgsfield_ai/status/2096009543327404491"
+      }
+    },
+    {
+      "id": "x-2096131354706825655",
+      "title": {
+        "en": "Quote/demo of GPT-6 Astra + Blender MCP natural-language modeling carried through Unity CLI into a game; video shows the workflow/output.",
+        "zh": "Quote/demo of GPT-6 Astra + Blender MCP natural-language modeling carried through Unity CLI into a game; video shows the workflow/output."
+      },
+      "description": {
+        "en": "Quote/demo of GPT-6 Astra + Blender MCP natural-language modeling carried through Unity CLI into a game; video shows the workflow/output. Media: video (1:08).",
+        "zh": "Quote/demo of GPT-6 Astra + Blender MCP natural-language modeling carried through Unity CLI into a game; video shows the workflow/output. Media: video (1:08)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/neko_lab_55/status/2096131354706825655",
+      "live_url": null,
+      "author": "@neko_lab_55",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/neko_lab_55/status/2096131354706825655"
+      }
+    },
+    {
+      "id": "x-2096095444640116766",
+      "title": {
+        "en": "Reference image + Chinese sentence -> Astra/Codex wrote and ran Blender Python to build a black grand piano with open lid; editable .blend, 7,940 triangles, 5 m",
+        "zh": "Reference image + Chinese sentence -> Astra/Codex wrote and ran Blender Python to build a black grand piano with open lid; editable .blend, 7,940 triangles, 5 m"
+      },
+      "description": {
+        "en": "Reference image + Chinese sentence -> Astra/Codex wrote and ran Blender Python to build a black grand piano with open lid; editable .blend, 7,940 triangles, 5 meshes, 3 materials. Media: video (0:12) plus 3 images.",
+        "zh": "Reference image + Chinese sentence -> Astra/Codex wrote and ran Blender Python to build a black grand piano with open lid; editable .blend, 7,940 triangles, 5 meshes, 3 materials. Media: video (0:12) plus 3 images."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/LuwisTsang/status/2096095444640116766",
+      "live_url": null,
+      "author": "@LuwisTsang",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/LuwisTsang/status/2096095444640116766"
+      }
+    },
+    {
       "id": "x-2095653641164329143",
       "title": {
         "en": "San Francisco Palace of Fine Arts recreated in Blender",
@@ -712,6 +1065,28 @@
       "cost_note": null,
       "why_included": "Named hard-surface Blender build separate from Solace house.",
       "verified": true
+    },
+    {
+      "id": "x-2096132569674969099",
+      "title": {
+        "en": "Showcase says Astra turned a one-sentence concept into playable 3D arcade racer Street Heat with drift physics and combo scoring.",
+        "zh": "Showcase says Astra turned a one-sentence concept into playable 3D arcade racer Street Heat with drift physics and combo scoring."
+      },
+      "description": {
+        "en": "Showcase says Astra turned a one-sentence concept into playable 3D arcade racer Street Heat with drift physics and combo scoring. Media: video (0:14) / gameplay clip.",
+        "zh": "Showcase says Astra turned a one-sentence concept into playable 3D arcade racer Street Heat with drift physics and combo scoring. Media: video (0:14) / gameplay clip."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/SciTechera/status/2096132569674969099",
+      "live_url": null,
+      "author": "@SciTechera",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/SciTechera/status/2096132569674969099"
+      }
     },
     {
       "id": "tomkrcha-locomotive-3295",
@@ -774,6 +1149,50 @@
       "verified": true,
       "media": {
         "credit": "somethingbig.ai astra-review"
+      }
+    },
+    {
+      "id": "x-2096136035436757361",
+      "title": {
+        "en": "Update on a multiplayer Halo-CE-like browser game; creator added Codex GPT-6 Astra with Blender MCP and is improving the character model.",
+        "zh": "Update on a multiplayer Halo-CE-like browser game; creator added Codex GPT-6 Astra with Blender MCP and is improving the character model."
+      },
+      "description": {
+        "en": "Update on a multiplayer Halo-CE-like browser game; creator added Codex GPT-6 Astra with Blender MCP and is improving the character model. Media: video (0:01) / gameplay clip.",
+        "zh": "Update on a multiplayer Halo-CE-like browser game; creator added Codex GPT-6 Astra with Blender MCP and is improving the character model. Media: video (0:01) / gameplay clip."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/CadenBurleson/status/2096136035436757361",
+      "live_url": null,
+      "author": "@CadenBurleson",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/CadenBurleson/status/2096136035436757361"
+      }
+    },
+    {
+      "id": "x-2096130344458310128",
+      "title": {
+        "en": "Used GPT-6 Astra to model in Blender and record a 4-second video; Chinese prompt is in replies.",
+        "zh": "Used GPT-6 Astra to model in Blender and record a 4-second video; Chinese prompt is in replies."
+      },
+      "description": {
+        "en": "Used GPT-6 Astra to model in Blender and record a 4-second video; Chinese prompt is in replies. Media: video (0:04).",
+        "zh": "Used GPT-6 Astra to model in Blender and record a 4-second video; Chinese prompt is in replies. Media: video (0:04)."
+      },
+      "category": "3d-spatial",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/AAAAAAAJtoy/status/2096130344458310128",
+      "live_url": null,
+      "author": "@AAAAAAAJtoy",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/AAAAAAAJtoy/status/2096130344458310128"
       }
     },
     {
@@ -884,6 +1303,50 @@
       }
     },
     {
+      "id": "x-2096023021937164764",
+      "title": {
+        "en": "A short sound-on animation of what happens after clicking unsubscribe, explicitly labeled built with Astra.",
+        "zh": "A short sound-on animation of what happens after clicking unsubscribe, explicitly labeled built with Astra."
+      },
+      "description": {
+        "en": "A short sound-on animation of what happens after clicking unsubscribe, explicitly labeled built with Astra. Media: video (0:18).",
+        "zh": "A short sound-on animation of what happens after clicking unsubscribe, explicitly labeled built with Astra. Media: video (0:18)."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/ecomchasedimond/status/2096023021937164764",
+      "live_url": null,
+      "author": "@ecomchasedimond",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/ecomchasedimond/status/2096023021937164764"
+      }
+    },
+    {
+      "id": "x-2096038589943726186",
+      "title": {
+        "en": "Asked Astra to build a LEGO-style city; video shows a self-assembling bridge and city scene.",
+        "zh": "Asked Astra to build a LEGO-style city; video shows a self-assembling bridge and city scene."
+      },
+      "description": {
+        "en": "Asked Astra to build a LEGO-style city; video shows a self-assembling bridge and city scene. Media: video (0:07).",
+        "zh": "Asked Astra to build a LEGO-style city; video shows a self-assembling bridge and city scene. Media: video (0:07)."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/ecomchasedimond/status/2096038589943726186",
+      "live_url": null,
+      "author": "@ecomchasedimond",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/ecomchasedimond/status/2096038589943726186"
+      }
+    },
+    {
       "id": "x-2095610200778592665",
       "title": {
         "en": "Astra coming to Devin (50 free Max plans giveaway)",
@@ -903,6 +1366,28 @@
       "verified": true,
       "media": {
         "embed": "https://x.com/dabit3/status/2095610200778592665"
+      }
+    },
+    {
+      "id": "x-2096133339329536249",
+      "title": {
+        "en": "Astra rigged and animated a T-rex model (model credited to TripoAI), rendered in Three.js.",
+        "zh": "Astra rigged and animated a T-rex model (model credited to TripoAI), rendered in Three.js."
+      },
+      "description": {
+        "en": "Astra rigged and animated a T-rex model (model credited to TripoAI), rendered in Three.js. Media: video (0:47).",
+        "zh": "Astra rigged and animated a T-rex model (model credited to TripoAI), rendered in Three.js. Media: video (0:47)."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/majidmanzarpour/status/2096133339329536249",
+      "live_url": null,
+      "author": "@majidmanzarpour",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/majidmanzarpour/status/2096133339329536249"
       }
     },
     {
@@ -1105,6 +1590,28 @@
       "verified": true
     },
     {
+      "id": "x-2095992893026484299",
+      "title": {
+        "en": "Follow-up Canva output: before/after portrait images, with the author noting the level of detail.",
+        "zh": "Follow-up Canva output: before/after portrait images, with the author noting the level of detail."
+      },
+      "description": {
+        "en": "Follow-up Canva output: before/after portrait images, with the author noting the level of detail. Media: 2 images.",
+        "zh": "Follow-up Canva output: before/after portrait images, with the author noting the level of detail. Media: 2 images."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/iam_zachi/status/2095992893026484299",
+      "live_url": null,
+      "author": "@iam_zachi",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/iam_zachi/status/2095992893026484299"
+      }
+    },
+    {
       "id": "cognition-frontiercode-near-parity",
       "title": {
         "en": "FrontierCode near-parity at lower cost",
@@ -1170,6 +1677,28 @@
       "media": {
         "credit": "eChai Ventures curation · x.com/Angaisb_",
         "embed": "https://x.com/Angaisb_/status/2095964361105789424"
+      }
+    },
+    {
+      "id": "x-2096120764135076258",
+      "title": {
+        "en": "GPT-5.6 Sol vs GPT-6 Astra Pro comparison of the Tea Garden scene, with side-by-side visual output.",
+        "zh": "GPT-5.6 Sol vs GPT-6 Astra Pro comparison of the Tea Garden scene, with side-by-side visual output."
+      },
+      "description": {
+        "en": "GPT-5.6 Sol vs GPT-6 Astra Pro comparison of the Tea Garden scene, with side-by-side visual output. Media: 2 images.",
+        "zh": "GPT-5.6 Sol vs GPT-6 Astra Pro comparison of the Tea Garden scene, with side-by-side visual output. Media: 2 images."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/MooncastOnline/status/2096120764135076258",
+      "live_url": "https://reachablegames.com/teagarden.html",
+      "author": "@MooncastOnline",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/MooncastOnline/status/2096120764135076258"
       }
     },
     {
@@ -1306,6 +1835,28 @@
       }
     },
     {
+      "id": "x-2096120761681338669",
+      "title": {
+        "en": "Japanese Tea Garden Bench / Komorebi, an interactive GPT-6 Astra Pro build; post links the reachable playable site.",
+        "zh": "Japanese Tea Garden Bench / Komorebi, an interactive GPT-6 Astra Pro build; post links the reachable playable site."
+      },
+      "description": {
+        "en": "Japanese Tea Garden Bench / Komorebi, an interactive GPT-6 Astra Pro build; post links the reachable playable site. Media: video (0:54).",
+        "zh": "Japanese Tea Garden Bench / Komorebi, an interactive GPT-6 Astra Pro build; post links the reachable playable site. Media: video (0:54)."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/MooncastOnline/status/2096120761681338669",
+      "live_url": "https://reachablegames.com/teagarden.html",
+      "author": "@MooncastOnline",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/MooncastOnline/status/2096120761681338669"
+      }
+    },
+    {
       "id": "latent-space-ai-engineer",
       "title": {
         "en": "Latent Space: AI engineer for <$6/hour",
@@ -1412,6 +1963,28 @@
       }
     },
     {
+      "id": "x-2096018636079026498",
+      "title": {
+        "en": "One-shot website-design outputs: Astra used the creator's scroll-craft skill and built multiple websites from an instruction to impress.",
+        "zh": "One-shot website-design outputs: Astra used the creator's scroll-craft skill and built multiple websites from an instruction to impress."
+      },
+      "description": {
+        "en": "One-shot website-design outputs: Astra used the creator's scroll-craft skill and built multiple websites from an instruction to impress. Media: video (0:37).",
+        "zh": "One-shot website-design outputs: Astra used the creator's scroll-craft skill and built multiple websites from an instruction to impress. Media: video (0:37)."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/nateherk/status/2096018636079026498",
+      "live_url": "https://github.com/nateherkai/scroll-craft",
+      "author": "@nateherk",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/nateherk/status/2096018636079026498"
+      }
+    },
+    {
       "id": "x-2095596341422440714",
       "title": {
         "en": "Open-world adventure game (GPT-6-Astra Ultra)",
@@ -1498,6 +2071,28 @@
       }
     },
     {
+      "id": "x-2096128425190621436",
+      "title": {
+        "en": "Quote of Zachi's Canva computer-use demo: 'Told GPT-6-Astra to draw me in Canva'; media preview is included.",
+        "zh": "Quote of Zachi's Canva computer-use demo: 'Told GPT-6-Astra to draw me in Canva'; media preview is included."
+      },
+      "description": {
+        "en": "Quote of Zachi's Canva computer-use demo: 'Told GPT-6-Astra to draw me in Canva'; media preview is included. Media: video/image preview.",
+        "zh": "Quote of Zachi's Canva computer-use demo: 'Told GPT-6-Astra to draw me in Canva'; media preview is included. Media: video/image preview."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/AGTPinsights/status/2096128425190621436",
+      "live_url": null,
+      "author": "@AGTPinsights",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/AGTPinsights/status/2096128425190621436"
+      }
+    },
+    {
       "id": "realpython-turtle-benchmark",
       "title": {
         "en": "Real Python: turtle “python reading a book”",
@@ -1519,6 +2114,69 @@
         "thumb": "./media/thumbs/realpython-turtle-benchmark.jpg",
         "credit": "Real Python"
       }
+    },
+    {
+      "id": "x-2096069429646004337",
+      "title": {
+        "en": "Recreated Minecraft Redstone mechanics with Astra Light; reported completion in 21:26 and showed the working simulator.",
+        "zh": "Recreated Minecraft Redstone mechanics with Astra Light; reported completion in 21:26 and showed the working simulator."
+      },
+      "description": {
+        "en": "Recreated Minecraft Redstone mechanics with Astra Light; reported completion in 21:26 and showed the working simulator. Media: image/screenshot.",
+        "zh": "Recreated Minecraft Redstone mechanics with Astra Light; reported completion in 21:26 and showed the working simulator. Media: image/screenshot."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/jun1228909/status/2096069429646004337",
+      "live_url": "https://redstone-workshop.junjun76.chatgpt.site",
+      "author": "@jun1228909",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/jun1228909/status/2096069429646004337"
+      }
+    },
+    {
+      "id": "x-2096065787698327849",
+      "title": {
+        "en": "Second playable game, Seas of Fear, which the author says is built and playable now (still polishing).",
+        "zh": "Second playable game, Seas of Fear, which the author says is built and playable now (still polishing)."
+      },
+      "description": {
+        "en": "Second playable game, Seas of Fear, which the author says is built and playable now (still polishing). Media: image/screenshot.",
+        "zh": "Second playable game, Seas of Fear, which the author says is built and playable now (still polishing). Media: image/screenshot."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/WesRoth/status/2096065787698327849",
+      "live_url": "https://sentient-crystal-ct94.here.now",
+      "author": "@WesRoth",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/WesRoth/status/2096065787698327849"
+      }
+    },
+    {
+      "id": "stork-astra-playable-games",
+      "title": {
+        "en": "Stork: Astra Fall Guys-style playable in minutes",
+        "zh": "Stork：Astra 几分钟做出类 Fall Guys 可玩作"
+      },
+      "description": {
+        "en": "Theo Brandt / Stork writeup on Astra shipping a Fall Guys-style multiplayer clone from one prompt in minutes, hosted via here.now, plus notes on browser-native demos and lingering “AI smell.”",
+        "zh": "Theo Brandt / Stork 文记述 Astra 用单条提示在数分钟内做出类 Fall Guys 多人可玩作，经 here.now 托管，并讨论浏览器原生演示与残留的「AI 味」。"
+      },
+      "category": "coding-agent",
+      "proof_type": "writeup",
+      "source_url": "https://www.stork.ai/blog/astra-built-a-game-you-can-play-it-now",
+      "live_url": null,
+      "author": "Theo Brandt / Stork.AI",
+      "cost_note": null,
+      "why_included": "Independent secondary writeup naming a distinct playable game class; page fetched 200. Prefer Berman X entries for primary demos.",
+      "verified": true
     },
     {
       "id": "openai-sunwake-ocean",
@@ -1564,6 +2222,28 @@
       "media": {
         "thumb": "./media/thumbs/testingcatalog-first-outputs.jpg",
         "credit": "TestingCatalog"
+      }
+    },
+    {
+      "id": "x-2096091536551461161",
+      "title": {
+        "en": "THE ROAD DREAMS: a ~4:30 audiovisual night-drive through five moods; user drives a small car through a private-room-like world.",
+        "zh": "THE ROAD DREAMS: a ~4:30 audiovisual night-drive through five moods; user drives a small car through a private-room-like world."
+      },
+      "description": {
+        "en": "THE ROAD DREAMS: a ~4:30 audiovisual night-drive through five moods; user drives a small car through a private-room-like world. Media: 4 images.",
+        "zh": "THE ROAD DREAMS: a ~4:30 audiovisual night-drive through five moods; user drives a small car through a private-room-like world. Media: 4 images."
+      },
+      "category": "coding-agent",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/kerwinxiao24/status/2096091536551461161",
+      "live_url": "https://the-road-dreams.x2026283037.chatgpt.site",
+      "author": "@kerwinxiao24",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/kerwinxiao24/status/2096091536551461161"
       }
     },
     {
@@ -1856,6 +2536,28 @@
       "media": {}
     },
     {
+      "id": "x-2096128591989973192",
+      "title": {
+        "en": "Computer-use test on an app: Astra could not perform long presses; screenshot documents the workaround/security implication.",
+        "zh": "Computer-use test on an app: Astra could not perform long presses; screenshot documents the workaround/security implication."
+      },
+      "description": {
+        "en": "Computer-use test on an app: Astra could not perform long presses; screenshot documents the workaround/security implication. Media: image/screenshot.",
+        "zh": "Computer-use test on an app: Astra could not perform long presses; screenshot documents the workaround/security implication. Media: image/screenshot."
+      },
+      "category": "docs-office",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/jackieyang_/status/2096128591989973192",
+      "live_url": null,
+      "author": "@jackieyang_",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/jackieyang_/status/2096128591989973192"
+      }
+    },
+    {
       "id": "every-astra-vibe-check",
       "title": {
         "en": "Every: Astra vibe check (model-drafted)",
@@ -1901,6 +2603,28 @@
       }
     },
     {
+      "id": "x-2096134318544568577",
+      "title": {
+        "en": "Higgsfield + GPT-6 Astra one-prompt game pipeline: sketch scanning, game concept, mechanics and prototype generation from one prompt.",
+        "zh": "Higgsfield + GPT-6 Astra one-prompt game pipeline: sketch scanning, game concept, mechanics and prototype generation from one prompt."
+      },
+      "description": {
+        "en": "Higgsfield + GPT-6 Astra one-prompt game pipeline: sketch scanning, game concept, mechanics and prototype generation from one prompt. Media: video (0:46).",
+        "zh": "Higgsfield + GPT-6 Astra one-prompt game pipeline: sketch scanning, game concept, mechanics and prototype generation from one prompt. Media: video (0:46)."
+      },
+      "category": "docs-office",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/dasepmochly/status/2096134318544568577",
+      "live_url": null,
+      "author": "@dasepmochly",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/dasepmochly/status/2096134318544568577"
+      }
+    },
+    {
       "id": "miguel-hyperframes-videos",
       "title": {
         "en": "HyperFrames videos with Astra",
@@ -1921,6 +2645,28 @@
       "media": {
         "credit": "@Miguel07Code via eChai",
         "embed": "https://x.com/Miguel07Code/status/2095969648738967726"
+      }
+    },
+    {
+      "id": "x-2095987816127705600",
+      "title": {
+        "en": "One-prompt GPT-6 Astra output showcase; video is a 3:08 screen presentation (artifact type is not stated in the text).",
+        "zh": "One-prompt GPT-6 Astra output showcase; video is a 3:08 screen presentation (artifact type is not stated in the text)."
+      },
+      "description": {
+        "en": "One-prompt GPT-6 Astra output showcase; video is a 3:08 screen presentation (artifact type is not stated in the text). Media: video (3:08).",
+        "zh": "One-prompt GPT-6 Astra output showcase; video is a 3:08 screen presentation (artifact type is not stated in the text). Media: video (3:08)."
+      },
+      "category": "docs-office",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/nateherk/status/2095987816127705600",
+      "live_url": null,
+      "author": "@nateherk",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/nateherk/status/2095987816127705600"
       }
     },
     {
@@ -2102,6 +2848,28 @@
       "media": {
         "thumb": "./media/thumbs/eesel-cost-and-catch.webp",
         "credit": "eesel AI — eesel.ai/blog/gpt-6-astra OG"
+      }
+    },
+    {
+      "id": "x-2096075129885204811",
+      "title": {
+        "en": "Gave Astra two photos and had it draw the person in Canva through browser use; video asks viewers to guess time/cost.",
+        "zh": "Gave Astra two photos and had it draw the person in Canva through browser use; video asks viewers to guess time/cost."
+      },
+      "description": {
+        "en": "Gave Astra two photos and had it draw the person in Canva through browser use; video asks viewers to guess time/cost. Media: video (0:15).",
+        "zh": "Gave Astra two photos and had it draw the person in Canva through browser use; video asks viewers to guess time/cost. Media: video (0:15)."
+      },
+      "category": "cost-economics",
+      "proof_type": "demo-video",
+      "source_url": "https://x.com/nateherk/status/2096075129885204811",
+      "live_url": null,
+      "author": "@nateherk",
+      "cost_note": null,
+      "why_included": "Collected by browsing public x.com search (no X API).",
+      "verified": true,
+      "media": {
+        "embed": "https://x.com/nateherk/status/2096075129885204811"
       }
     },
     {
@@ -2338,48 +3106,6 @@
         "thumb": "./media/thumbs/transformer-news-neuralese.jpg",
         "credit": "Transformer News — neuralese article OG"
       }
-    },
-    {
-      "id": "davis7-final-cut-setup",
-      "title": {
-        "en": "Final Cut Pro setup from a recorded video",
-        "zh": "把录好的视频自动摆进 Final Cut Pro"
-      },
-      "description": {
-        "en": "Ben Davis asked GPT-6 Astra to set up a freshly recorded video in Final Cut Pro—import clips, color grade, sync, and get a cut ready—calling it a new computer-use holy-shit moment.",
-        "zh": "Ben Davis 让 GPT-6 Astra 在 Final Cut Pro 里整理刚录好的视频：导入片段、调色、同步并准备成片，称这是计算机操控上的新「卧槽」时刻。"
-      },
-      "category": "computer-use",
-      "proof_type": "demo-video",
-      "source_url": "https://x.com/davis7/status/2095742249275699415",
-      "live_url": null,
-      "author": "Ben Davis (@davis7)",
-      "cost_note": null,
-      "why_included": "Distinct Final Cut Pro computer-use build from eChai-curated status URL (HTTP 200; text via public fxtwitter). Not a news rewrite.",
-      "verified": true,
-      "media": {
-        "embed": "https://x.com/davis7/status/2095742249275699415",
-        "credit": "eChai curated · @davis7"
-      }
-    },
-    {
-      "id": "stork-astra-playable-games",
-      "title": {
-        "en": "Stork: Astra Fall Guys-style playable in minutes",
-        "zh": "Stork：Astra 几分钟做出类 Fall Guys 可玩作"
-      },
-      "description": {
-        "en": "Theo Brandt / Stork writeup on Astra shipping a Fall Guys-style multiplayer clone from one prompt in minutes, hosted via here.now, plus notes on browser-native demos and lingering “AI smell.”",
-        "zh": "Theo Brandt / Stork 文记述 Astra 用单条提示在数分钟内做出类 Fall Guys 多人可玩作，经 here.now 托管，并讨论浏览器原生演示与残留的「AI 味」。"
-      },
-      "category": "coding-agent",
-      "proof_type": "writeup",
-      "source_url": "https://www.stork.ai/blog/astra-built-a-game-you-can-play-it-now",
-      "live_url": null,
-      "author": "Theo Brandt / Stork.AI",
-      "cost_note": null,
-      "why_included": "Independent secondary writeup naming a distinct playable game class; page fetched 200. Prefer Berman X entries for primary demos.",
-      "verified": true
     }
   ]
 }
