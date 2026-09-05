@@ -145,6 +145,24 @@
     .card h3 { margin: 0; font-size: 17px; letter-spacing: -0.01em; }
     .card p { margin: 0; color: var(--muted); font-size: 14px; flex: 1; }
     .meta { display: flex; flex-wrap: wrap; gap: 6px; }
+
+    .signals {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px 10px;
+      align-items: baseline;
+      font-size: 12px;
+      color: var(--muted);
+      line-height: 1.35;
+    }
+    .signals .sig {
+      font-variant-numeric: tabular-nums;
+      white-space: nowrap;
+    }
+    .signals .sig-note {
+      font-size: 11px;
+      opacity: 0.85;
+    }
     .tag {
       font-family: "IBM Plex Mono", monospace;
       font-size: 11px;
@@ -351,6 +369,74 @@
       return "";
     }
 
+
+    function formatCompact(n, lang) {
+      const x = Number(n);
+      if (!Number.isFinite(x)) return "";
+      if (lang === "zh") {
+        if (x >= 100000000) return (x / 100000000).toFixed(x >= 1000000000 ? 1 : 2).replace(/\.0+$/, "").replace(/(\.\d*?)0+$/, "$1") + "亿";
+        if (x >= 10000) {
+          const v = x / 10000;
+          const s = v >= 100 ? v.toFixed(0) : (v >= 10 ? v.toFixed(1) : v.toFixed(1));
+          return String(Number(s)) + "万";
+        }
+        return String(Math.round(x));
+      }
+      if (x >= 1000000) {
+        const v = x / 1000000;
+        return (v >= 10 ? v.toFixed(0) : v.toFixed(1)).replace(/\.0$/, "") + "M";
+      }
+      if (x >= 1000) {
+        const v = x / 1000;
+        return (v >= 10 ? v.toFixed(0) : v.toFixed(1)).replace(/\.0$/, "") + "k";
+      }
+      return String(Math.round(x));
+    }
+
+    function formatFetchedAt(iso) {
+      if (!iso) return "";
+      const d = new Date(iso);
+      if (Number.isNaN(d.getTime())) return iso;
+      const pad = n => String(n).padStart(2, "0");
+      // Asia/Shanghai display for zh; UTC-ish short for en
+      if (lang === "zh") {
+        const parts = new Intl.DateTimeFormat("zh-CN", {
+          timeZone: "Asia/Shanghai",
+          month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hour12: false
+        }).formatToParts(d);
+        const get = t => (parts.find(p => p.type === t) || {}).value || "";
+        return get("month") + "-" + get("day") + " " + get("hour") + ":" + get("minute") + " CST";
+      }
+      return d.toISOString().slice(5, 16).replace("T", " ") + " UTC";
+    }
+
+    function signalsBlock(e) {
+      const att = e.attention;
+      const m = att && att.metrics;
+      if (!m || typeof m !== "object") return "";
+      const parts = [];
+      const push = (key, labelKey) => {
+        if (m[key] == null) return;
+        parts.push(`<span class="sig">${escapeHtml(formatCompact(m[key], lang))}${escapeHtml(ui(labelKey))}</span>`);
+      };
+      // Prefer impressions/views, likes, reposts, bookmarks (design priority)
+      push("impressions", "sigViews");
+      push("likes", "sigLikes");
+      push("reposts", "sigReposts");
+      push("bookmarks", "sigBookmarks");
+      if (!parts.length) {
+        push("replies", "sigReplies");
+        push("quotes", "sigQuotes");
+      }
+      if (!parts.length) return "";
+      const plat = (att.platform || "x").toUpperCase();
+      const when = formatFetchedAt(att.fetched_at);
+      const note = when
+        ? `<span class="sig-note" title="${escapeAttr(ui("sigTooltip"))}">${escapeHtml(ui("sigSource").replace("{platform}", plat).replace("{when}", when))}</span>`
+        : "";
+      return `<div class="signals" title="${escapeAttr(ui("sigTooltip"))}">${parts.join('<span aria-hidden="true"> · </span>')}${note ? " " + note : ""}</div>`;
+    }
+
     function render() {
       const qel = document.getElementById("q");
       const q = ((qel && qel.value) || "").trim().toLowerCase();
@@ -382,6 +468,7 @@
           <h3>${escapeHtml(title)}</h3>
           <p>${escapeHtml(desc)}</p>
           ${costNote ? `<p style="color:var(--warn);font-size:12px;margin:0">${escapeHtml(costNote)}</p>` : ""}
+          ${signalsBlock(e)}
           <div class="foot">
             <span>${escapeHtml(e.author || "")}</span>
             <span>
