@@ -207,7 +207,9 @@
       "cost_note": null,
       "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
       "verified": true,
-      "media": {}
+      "media": {
+        "thumb": "./media/thumbs/interactive-dualsense-ps5-controller-in-d34d2477.jpg"
+      }
     },
     {
       "id": "mosswing-3d-one-tap-flight-astra-one-sho-bf568917",
@@ -374,7 +376,9 @@
       "cost_note": null,
       "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
       "verified": true,
-      "media": {}
+      "media": {
+        "thumb": "./media/thumbs/awesome-gpt-6-astra-curated-playable-gam-3e9c6cba.jpg"
+      }
     },
     {
       "id": "chatgpt-share-gpt-6-astra-first-experien-5c1b79df",
@@ -578,7 +582,9 @@
       "cost_note": null,
       "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
       "verified": true,
-      "media": {}
+      "media": {
+        "thumb": "./media/thumbs/magic-carpet-wizard-a-thousand-skies-thr-86cee5f9.jpg"
+      }
     },
     {
       "id": "microsoft-foundry-gpt-6-astra-ga-announc-50fd8613",
@@ -783,7 +789,9 @@
       "cost_note": null,
       "why_included": "Round-2 public web/HN/GitHub candidate with fetchable URL.",
       "verified": true,
-      "media": {}
+      "media": {
+        "thumb": "./media/thumbs/the-last-lawn-browser-lawn-defense-game-295c33cd.jpg"
+      }
     },
     {
       "id": "x-2096091536551461161",
