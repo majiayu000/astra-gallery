@@ -196,6 +196,7 @@
 
     <div class="note" id="repo-note">开源仓库 <a href="https://github.com/majiayu000/astra-gallery">majiayu000/astra-gallery</a> · 建议域名 <code>astra-gallery.com</code></div>
 
+    <div style="margin:0 0 12px"><input id="q" type="search" placeholder="Search…" style="width:min(420px,100%);padding:10px 12px;border-radius:10px;border:1px solid var(--line);background:var(--panel);color:var(--text);font:inherit" /></div>
     <div class="filters" id="filters"></div>
     <div class="grid" id="grid"></div>
 
@@ -282,6 +283,7 @@
       document.getElementById("games-link").textContent = ui("officialGames");
       document.getElementById("ui-footer").textContent = ui("footer");
       document.getElementById("lang-toggle").textContent = ui("langToggle");
+      const qel=document.getElementById("q"); if(qel && !qel._bound){qel._bound=1;qel.addEventListener("input", render);}
       document.getElementById("repo-note").innerHTML =
         ui("repoNote") + ' <a href="https://github.com/majiayu000/astra-gallery">majiayu000/astra-gallery</a> · ' +
         ui("domainHint") + " <code>astra-gallery.com</code>";
@@ -350,7 +352,17 @@
     }
 
     function render() {
-      const list = active === "all" ? entries : entries.filter(e => e.category === active);
+      const qel = document.getElementById("q");
+      const q = ((qel && qel.value) || "").trim().toLowerCase();
+      let list = active === "all" ? entries.slice() : entries.filter(e => e.category === active);
+      if (q) {
+        list = list.filter(e => {
+          const title = typeof e.title === "string" ? e.title : ((e.title||{}).en||"") + ((e.title||{}).zh||"");
+          const desc = typeof e.description === "string" ? e.description : ((e.description||{}).en||"") + ((e.description||{}).zh||"");
+          const blob = (title + " " + desc + " " + (e.author||"") + " " + (e.category||"")).toLowerCase();
+          return blob.includes(q);
+        });
+      }
       const grid = document.getElementById("grid");
       grid.innerHTML = list.map(e => {
         const live = e.live_url ? `<span class="tag live">live</span>` : "";

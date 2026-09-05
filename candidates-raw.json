@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Architectural visualization with Astra (Solace house Blender → UE5)",
+    "author": "Thomas Ricouard (@dimillian)",
+    "source_url": "https://developers.openai.com/blog/architectural-visualization-with-astra",
+    "note": "Official OpenAI Developers showcase: editable Blender house, Cycles camera tour, Unreal Engine 5 walkthrough with interactive coffee machine; also HELIOS Dyson sphere, Shipyard AURELION-07, Giverny garden. Fetched 2026-09-05.",
+    "confidence": "high"
+  },
+  {
+    "title": "Building games with Astra (Void Explorer + Sunwake + Hollowflux)",
+    "author": "Thomas Ricouard (@dimillian)",
+    "source_url": "https://developers.openai.com/blog/how-to-build-games-with-astra",
+    "note": "Official OpenAI Developers showcase: procedural space game Void Explorer (2048 systems, 10k+ planets), Sunwake ocean boat, Hollowflux 2D RPG; mentions Sites deploy. Fetched 2026-09-05.",
+    "confidence": "high"
+  },
+  {
+    "title": "OpenAI Developers blog — Astra posts index",
+    "author": "OpenAI Developers",
+    "source_url": "https://developers.openai.com/blog",
+    "note": "Blog index Recent section lists exactly two Astra posts as of fetch: Architectural visualization with Astra; Building games with Astra (both Sep 4, 2026).",
+    "confidence": "high"
+  },
+  {
+    "title": "Playco: three themed game prototypes from one grey box",
+    "author": "Playco / Joao Vieira (via OpenAI)",
+    "source_url": "https://openai.com/index/playco-game-prototyping-with-astra/",
+    "note": "Official OpenAI customer story: Astra produced pirate / candy / cyberpunk themed prototypes from one grey-box kart foundation via Playbot (Unity/Godot); claims ~50% fewer manual fixes. Matches Pillitteri build #8 (Chetaslua/Playco).",
+    "confidence": "high"
+  },
+  {
+    "title": "My GPT-6 Astra Review — Unreal MetaHuman civilization + Manhattan",
+    "author": "Matt Shumer",
+    "source_url": "https://somethingbig.ai/astra-review",
+    "note": "Primary long review: Astra driving Unreal with MetaHuman agents (emergent talk) and week-long Manhattan/NYC Unreal build via Manager Loop. Matches Pillitteri builds #1–#2. Techmeme also links this review.",
+    "confidence": "high"
+  },
+  {
+    "title": "Palace of Fine Arts recreated in Blender",
+    "author": "Sharif Shameem (@sharifshameem)",
+    "source_url": "https://x.com/sharifshameem/status/2095653641164329143",
+    "note": "Primary X post (status ID confirmed via UnrollNow). Overnight autonomous Blender reconstruction from reference photos + Library of Congress dimensions. Mirror: https://unrollnow.com/status/2095653641164329143. Pillitteri build #4.",
+    "confidence": "high"
+  },
+  {
+    "title": "GPT-6 Astra is a banger — AIM Mac app, Barbie Bench, hardware hack",
+    "author": "Claire Vo",
+    "source_url": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
+    "note": "How I AI / Lenny's episode writeup: CRM computer-use, ChatPRD one-shot, Divoom MiniToo CLI hack, AIM-style Mac app, Blender Barbie Bench / kids family app. Fetched 2026-09-05.",
+    "confidence": "high"
+  },
+  {
+    "title": "GPT-6 Astra, 10 Wild Things People Already Built With It",
+    "author": "Pasquale Pillitteri (roundup of Min Choi @minchoi thread)",
+    "source_url": "https://pasqualepillitteri.it/en/news/14472/gpt-6-astra-10-wild-builds",
+    "note": "Fetched article listing all 10 community builds attributed to Min Choi's Sep 4, 2026 X thread (~890k views). Authors named: Matt Shumer, Matthew Berman, Sharif Shameem, Theo t3.gg (fishslop), Yunfan Ye, Tom Krcha, Chetaslua/Playco, Derya Unutmaz, Flavio Adamo. Primary Min Choi status URL not located this pass.",
+    "confidence": "high"
+  },
+  {
+    "title": "Built with Astra — eChai curated X gallery",
+    "author": "eChai Ventures (curators); posts by various builders",
+    "source_url": "https://echai.ventures/astra",
+    "note": "Live curated gallery of Astra X demos: Pietro Schirano 3D iPod Mac app, Claire Vo Tiny Computer Bench, Gameboy-style portfolio, WoW-inspired browser RPG, Blender one-shots, etc. Fetched 2026-09-05.",
+    "confidence": "high"
+  },
+  {
+    "title": "macOS 27 simulator (live chatgpt.site)",
+    "author": "Max Weinbach",
+    "source_url": "https://macos-27-simulator.mweinbach.chatgpt.site",
+    "note": "Playable Sites-hosted demo cited from eChai Astra gallery (https://echai.ventures/astra). Real chatgpt.site live URL.",
+    "confidence": "high"
+  },
+  {
+    "title": "GPT-6 Astra official launch (Sites / Pietro Schirano game credit)",
+    "author": "OpenAI",
+    "source_url": "https://openai.com/index/gpt-6-astra/",
+    "note": "Launch page: Blender→UE5 house demo; Sites in ChatGPT for hosting web apps/games; credits Pietro Schirano for a game-creation clip. Canonical product page.",
+    "confidence": "high"
+  },
+  {
+    "title": "Zillow listing → 3D house + promo video",
+    "author": "Yunfan Ye (@realyunfanye)",
+    "source_url": "https://echai.ventures/feed/gpt-6-astra-is-a-beast-give-it-a-zillow-listing-it-can-3d-model-the-179",
+    "note": "eChai-curated mirror of Yunfan Ye X post (Sep 4, 2026). One-shot 3D model + promo video from Zillow photos; author notes remaining detail errors. Pillitteri build #6. Primary x.com status not opened this pass.",
+    "confidence": "med"
+  },
+  {
+    "title": "Steam locomotive drawing → 3,295 editable Blender objects",
+    "author": "Tom Krcha (@tomkrcha)",
+    "source_url": "https://echai.ventures/feed/so-how-good-really-is-gpt-6-astra-at-3d-modeling-i-took-an-old-165",
+    "note": "eChai-curated mirror of Tom Krcha X post. Old technical drawing reconstructed as 3,295 separate editable Blender objects. Pillitteri build #7. Also quoted on Techmeme 2026-09-04.",
+    "confidence": "med"
+  },
+  {
+    "title": "House photo → detailed Blender reconstruction (toys/furniture)",
+    "author": "Tom Krcha (@tomkrcha)",
+    "source_url": "https://techau.com.au/openai-gpt-6-astra-offers-parallel-agent-workflows-background-computer-use-and-native-3d-modeling/",
+    "note": "techAU quotes/embeds Tom Krcha early-access house reconstruction in Blender with toys, appliances, furniture. Secondary writeup with named author demo.",
+    "confidence": "med"
+  },
+  {
+    "title": "5-minute T-cell educational video (Remotion)",
+    "author": "Derya Unutmaz (@DeryaTR_)",
+    "source_url": "https://www.promppy.com/item/1413138",
+    "note": "Korean AI-news summary of @DeryaTR_ X claim: single-prompt 5-min T-cell lesson via Remotion + Imagegen; HeyGen suggested for narration. Pillitteri build #9. Primary X URL not fetched; secondary source only.",
+    "confidence": "med"
+  },
+  {
+    "title": "Matthew Berman Fall Guys clone + SimCity / here.now hosting writeup",
+    "author": "Matthew Berman (via Stork.AI / Theo Brandt)",
+    "source_url": "https://www.stork.ai/blog/astra-built-a-game-you-can-play-it-now",
+    "note": "Secondary article claiming Berman Fall Guys-style one-shot and 5-day SimCity /goal run hosted on here.now; also 'After Hours' ASCII city. No specific playable here.now slug URL found this pass. Pillitteri #3 is Berman 'biggest leap' take, related.",
+    "confidence": "med"
+  },
+  {
+    "title": "here.now — instant hosting for AI agent demos",
+    "author": "here.now",
+    "source_url": "https://www.here.now/",
+    "note": "Platform repeatedly cited as host for Astra playable demos (Stork.AI). Product homepage verified; specific Astra demo slugs not confirmed in search (generic here.now games exist).",
+    "confidence": "med"
+  },
+  {
+    "title": "Techmeme 2026-09-04 cluster quoting Shumer / Shameem / Krcha / Ye / Ricouard",
+    "author": "Techmeme (aggregating X + Something Big Is Happening)",
+    "source_url": "https://www.techmeme.com/260904/p21",
+    "note": "Archive page quoting Matt Shumer Manhattan Unreal week-long build, Sharif Shameem Palace, Tom Krcha steam train, Yunfan Ye Zillow, Thomas Ricouard house thread, Pietro Schirano iPod app. Useful link hub; not primary demos.",
+    "confidence": "med"
+  },
+  {
+    "title": "ChatGPT Sites docs (chatgpt.site hosting)",
+    "author": "OpenAI / ChatGPT Learn",
+    "source_url": "https://learn.chatgpt.com/docs/sites",
+    "note": "Docs for Sites feature used to host Astra-built web apps/games on chatgpt.site subdomains. Platform docs, not a single demo; explains live_url pattern like macos-27-simulator.*.chatgpt.site.",
+    "confidence": "high"
+  },
+  {
+    "title": "OpenAI launch X thread",
+    "author": "@OpenAI",
+    "source_url": "https://x.com/OpenAI/status/2095595741528125780",
+    "note": "Official launch thread; UnrollNow mirror https://www.unrollnow.com/status/2095595741528125780. Contains launch demos many community posts remix.",
+    "confidence": "high"
+  }
+]

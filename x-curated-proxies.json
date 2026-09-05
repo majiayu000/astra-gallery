@@ -1,0 +1,429 @@
+[
+  {
+    "author": "OpenAI (@OpenAI)",
+    "title": "GPT-6 Astra official capability demo (computer-use launch)",
+    "source_url": "https://x.com/OpenAI/status/2095595741528125780",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Vaibhav (VB) Srivastav (@reach_vb)",
+    "title": "Astra prompt/AGENTS.md tips + Nürburgring Blender fly-through",
+    "source_url": "https://x.com/reach_vb/status/2095973112097747199",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Miguel Ángel (@Miguel07Code)",
+    "title": "HyperFrames videos generated with Astra",
+    "source_url": "https://x.com/Miguel07Code/status/2095969648738967726",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Shikhar (@xikhar)",
+    "title": "One-shot Blender game assets",
+    "source_url": "https://x.com/xikhar/status/2095969538290712800",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Theo - t3.gg (@theo)",
+    "title": "Six codebase maintenance plays for Astra (slop audits, PRs, takeovers)",
+    "source_url": "https://x.com/theo/status/2095966874010046621",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Angel 🌼 (@Angaisb_)",
+    "title": "Gameboy-style console portfolio",
+    "source_url": "https://x.com/Angaisb_/status/2095964361105789424",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Derya Unutmaz, MD (@DeryaTR_)",
+    "title": "WoW/RuneScape-inspired browser RPG (early playable)",
+    "source_url": "https://x.com/DeryaTR_/status/2095952101000016076",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Vox (@Voxyz_ai)",
+    "title": "Codex prompt: mine reviewer patterns into AGENTS.md",
+    "source_url": "https://x.com/Voxyz_ai/status/2095951726452847071",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Dan Shipper (@danshipper)",
+    "title": "Every magazine vibe-check draft one-shotted by Astra",
+    "source_url": "https://x.com/danshipper/status/2095877348314730821",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Bhavy☄️ (@Bhavani_00007)",
+    "title": "3D scene bake-off: Astra vs Kimi K3 vs Fable 5.1 vs Sol",
+    "source_url": "https://x.com/Bhavani_00007/status/2095858967515930706",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Greg Isenberg (@gregisenberg)",
+    "title": "Nine agent-style Astra prompts (bills, QA, competitor spy, etc.)",
+    "source_url": "https://x.com/gregisenberg/status/2095854071580156338",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Viktor Oddy (@viktoroddy)",
+    "title": "One-shot demo reel claim for Astra",
+    "source_url": "https://x.com/viktoroddy/status/2095837672690647088",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Tim Jayas (@TimJayas)",
+    "title": "One-shot comparison: GPT-6 Astra vs teffa-alpha",
+    "source_url": "https://x.com/TimJayas/status/2095819740694577203",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Feraser (@Feraser8)",
+    "title": "Interactive 3D turbocharger (rotatable, isolatable systems)",
+    "source_url": "https://x.com/Feraser8/status/2095776712579571725",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Daniel Ch (@chddaniel)",
+    "title": "Motion video one-shot in ~14 minutes",
+    "source_url": "https://x.com/chddaniel/status/2095775049475313943",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Tom Krcha (@tomkrcha)",
+    "title": "Steam locomotive drawing → 3,295 editable Blender objects",
+    "source_url": "https://x.com/tomkrcha/status/2095756085890310311",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Theo - t3.gg (@theo)",
+    "title": "Blender→playable game workflow (prompt/harness notes)",
+    "source_url": "https://x.com/theo/status/2095751225283350624",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Ryan Sael (@RyanSael)",
+    "title": "Astra capability rundown / why-it’s-crazy thread",
+    "source_url": "https://x.com/RyanSael/status/2095749202643169707",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Ben Davis (@davis7)",
+    "title": "Video setup / production workflow holy-shit moment",
+    "source_url": "https://x.com/davis7/status/2095742249275699415",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Matt Shumer (@mattshumer_)",
+    "title": "Long-horizon Unreal builds method (how the multi-day runs work)",
+    "source_url": "https://x.com/mattshumer_/status/2095723177389232540",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Derya Unutmaz, MD (@DeryaTR_)",
+    "title": "Voxel train table / train playset",
+    "source_url": "https://x.com/DeryaTR_/status/2095719731860750613",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Derya Unutmaz, MD (@DeryaTR_)",
+    "title": "17th-century ship-in-a-bottle (detailed voxel ship)",
+    "source_url": "https://x.com/DeryaTR_/status/2095699049722581065",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Derya Unutmaz, MD (@DeryaTR_)",
+    "title": "5-minute T-cell educational video from one prompt",
+    "source_url": "https://x.com/DeryaTR_/status/2095659170661904804",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Sharif Shameem (@sharifshameem)",
+    "title": "San Francisco Palace of Fine Arts recreated in Blender",
+    "source_url": "https://x.com/sharifshameem/status/2095653641164329143",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Max (@maxt3chno)",
+    "title": "Viral 3D / AGI-skepticism demo post",
+    "source_url": "https://x.com/maxt3chno/status/2095648896991080555",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Pietro Schirano (@skirano)",
+    "title": "Mac app with 3D Blender iPod + original iPod UI",
+    "source_url": "https://x.com/skirano/status/2095648379455861054",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Kai Yang (@ChihYang04)",
+    "title": "PCB layout in KiCad",
+    "source_url": "https://x.com/ChihYang04/status/2095637507337826741",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Karan (@karankendre)",
+    "title": "Villa scene in Blender (Fable 5.1 + Astra)",
+    "source_url": "https://x.com/karankendre/status/2095636679264780481",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Ty (@FieroTy)",
+    "title": "Chelsea FC Stamford Bridge stadium one-shot 3D model",
+    "source_url": "https://x.com/FieroTy/status/2095635722208493813",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Higgsfield AI 🧩 (@higgsfield_ai)",
+    "title": "Oval Office 3D vibe-coded set",
+    "source_url": "https://x.com/higgsfield_ai/status/2095630197257367857",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "claire vo 🖤 (@clairevo)",
+    "title": "Tiny Computer Bench™ / computer-use crush claim",
+    "source_url": "https://x.com/clairevo/status/2095625355231142079",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Matthew Berman (@MatthewBerman)",
+    "title": "3D assets & spatial awareness showcase",
+    "source_url": "https://x.com/MatthewBerman/status/2095620888695902366",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Matthew Berman (@MatthewBerman)",
+    "title": "GPT-6 Astra full breakdown",
+    "source_url": "https://x.com/MatthewBerman/status/2095619201105059974",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Matthew Berman (@MatthewBerman)",
+    "title": "Prompt-to-playable games milestone",
+    "source_url": "https://x.com/MatthewBerman/status/2095616764793270705",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Yunfan Ye (@realYunfanYe)",
+    "title": "Zillow listing → 3D house model + promo video",
+    "source_url": "https://x.com/realYunfanYe/status/2095612137582526615",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Mehul Mohan (@mehulmpt)",
+    "title": "Full-stack coding + verify + Linear ticket close loop",
+    "source_url": "https://x.com/mehulmpt/status/2095610463954637132",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "nader dabit (@dabit3)",
+    "title": "Astra coming to Devin (50 free Max plans giveaway)",
+    "source_url": "https://x.com/dabit3/status/2095610200778592665",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "S (@Rubzem)",
+    "title": "Skyrim-inspired game from one prompt",
+    "source_url": "https://x.com/Rubzem/status/2095608815492202985",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Paul Solt (@PaulSolt)",
+    "title": "iOS app built in 13m 3s via AppCreator skill",
+    "source_url": "https://x.com/PaulSolt/status/2095604728683958295",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Kavin Karthik (@KavinIK)",
+    "title": "Healthcare products built with Astra as daily driver",
+    "source_url": "https://x.com/KavinIK/status/2095603691948843077",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Chris (@ChrisGPT)",
+    "title": "Unity city scene assembled from existing assets",
+    "source_url": "https://x.com/ChrisGPT/status/2095601996770263362",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Aaron Levie (@levie)",
+    "title": "Box enterprise complex-work eval early preview results",
+    "source_url": "https://x.com/levie/status/2095598710311067716",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Robin Ebers (@robinebers)",
+    "title": "Design work showcase (Astra as designer)",
+    "source_url": "https://x.com/robinebers/status/2095598016103329898",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "cheaty (@cheatyyyy)",
+    "title": "Cost-efficiency / token-efficiency Pareto claim",
+    "source_url": "https://x.com/cheatyyyy/status/2095597213896610184",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Denis Shiryaev 💙💛 (@literallydenis)",
+    "title": "Hands-on observations thread after heavy Astra use",
+    "source_url": "https://x.com/literallydenis/status/2095596903014580579",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Max Weinbach (@mweinbach)",
+    "title": "macOS 27 simulator (75 minutes) with cloud sync + working apps",
+    "source_url": "https://x.com/mweinbach/status/2095596867081916653",
+    "live_url": "https://macos-27-simulator.mweinbach.chatgpt.site/",
+    "note": "Curated on eChai Built with Astra (from X). live_url taken from URL written in the post body on eChai."
+  },
+  {
+    "author": "Thomas Ricouard (@Dimillian)",
+    "title": "3D modeling walkthrough / showcase",
+    "source_url": "https://x.com/Dimillian/status/2095596700815516004",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Wade Foster (@wadefoster)",
+    "title": "AutomationBench score claim (highest so far)",
+    "source_url": "https://x.com/wadefoster/status/2095596405620441591",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Peter Gostev (@petergostev)",
+    "title": "Open-world adventure game (GPT-6-Astra Ultra)",
+    "source_url": "https://x.com/petergostev/status/2095596341422440714",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "OpenAI Developers (@OpenAIDevs)",
+    "title": "OpenAI Developers: computer use / SWE / visual understanding positioning",
+    "source_url": "https://x.com/OpenAIDevs/status/2095596020638036311",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Pietro Schirano (@skirano)",
+    "title": "Early-access shatter-expectations demo thread",
+    "source_url": "https://x.com/skirano/status/2095595932335170031",
+    "live_url": null,
+    "note": "Curated on eChai Built with Astra (from X). No separate live demo URL exposed on the aggregator/feed page."
+  },
+  {
+    "author": "Matt Shumer",
+    "title": "Unreal Engine world where Astra agents talk to each other unaided",
+    "source_url": "https://pasqualepillitteri.it/en/news/14472/gpt-6-astra-10-wild-builds",
+    "live_url": null,
+    "note": "From Pasquale Pillitteri roundup of Min Choi’s 10-examples thread; primary X status URL was not exposed on the article page (embeds cite @minchoi without status IDs)."
+  },
+  {
+    "author": "Matt Shumer",
+    "title": "Manhattan rebuilt street-by-street in Unreal Engine",
+    "source_url": "https://pasqualepillitteri.it/en/news/14472/gpt-6-astra-10-wild-builds",
+    "live_url": null,
+    "note": "From Pasquale Pillitteri roundup of Min Choi’s 10-examples thread; primary X status URL was not exposed on the article page (embeds cite @minchoi without status IDs)."
+  },
+  {
+    "author": "Matthew Berman",
+    "title": "Early-access verdict: “the biggest model leap yet”",
+    "source_url": "https://pasqualepillitteri.it/en/news/14472/gpt-6-astra-10-wild-builds",
+    "live_url": null,
+    "note": "From Pasquale Pillitteri roundup of Min Choi’s 10-examples thread; primary X status URL was not exposed on the article page."
+  },
+  {
+    "author": "Sharif Shameem",
+    "title": "San Francisco Palace of Fine Arts recreated in Blender",
+    "source_url": "https://pasqualepillitteri.it/en/news/14472/gpt-6-astra-10-wild-builds",
+    "live_url": null,
+    "note": "From Pasquale Pillitteri roundup of Min Choi’s 10-examples thread; primary X status URL was not exposed on the article page (embeds cite @minchoi without status IDs)."
+  },
+  {
+    "author": "Theo (t3.gg)",
+    "title": "One-shot browser 3D game “fishslop”",
+    "source_url": "https://pasqualepillitteri.it/en/news/14472/gpt-6-astra-10-wild-builds",
+    "live_url": null,
+    "note": "From Pasquale Pillitteri roundup of Min Choi’s 10-examples thread; primary X status URL was not exposed on the article page (embeds cite @minchoi without status IDs)."
+  },
+  {
+    "author": "Yunfan Ye",
+    "title": "Zillow listing → 3D house + promo video",
+    "source_url": "https://pasqualepillitteri.it/en/news/14472/gpt-6-astra-10-wild-builds",
+    "live_url": null,
+    "note": "From Pasquale Pillitteri roundup of Min Choi’s 10-examples thread; primary X status URL was not exposed on the article page."
+  },
+  {
+    "author": "Tom Krcha",
+    "title": "Old steam-locomotive drawing → 3,295 editable Blender objects",
+    "source_url": "https://pasqualepillitteri.it/en/news/14472/gpt-6-astra-10-wild-builds",
+    "live_url": null,
+    "note": "From Pasquale Pillitteri roundup of Min Choi’s 10-examples thread; primary X status URL was not exposed on the article page."
+  },
+  {
+    "author": "Chetaslua (Playco)",
+    "title": "Kart grey-box prototype → three themed finished games (pirate, candy, cyberpunk)",
+    "source_url": "https://pasqualepillitteri.it/en/news/14472/gpt-6-astra-10-wild-builds",
+    "live_url": null,
+    "note": "From Pasquale Pillitteri roundup of Min Choi’s 10-examples thread; primary X status URL was not exposed on the article page."
+  },
+  {
+    "author": "Derya Unutmaz, MD",
+    "title": "Five-minute T-cell science lesson video (Remotion)",
+    "source_url": "https://pasqualepillitteri.it/en/news/14472/gpt-6-astra-10-wild-builds",
+    "live_url": null,
+    "note": "From Pasquale Pillitteri roundup of Min Choi’s 10-examples thread; primary X status URL was not exposed on the article page."
+  },
+  {
+    "author": "Flavio Adamo",
+    "title": "Minecraft recreated playable in one shot",
+    "source_url": "https://pasqualepillitteri.it/en/news/14472/gpt-6-astra-10-wild-builds",
+    "live_url": null,
+    "note": "From Pasquale Pillitteri roundup of Min Choi’s 10-examples thread; primary X status URL was not exposed on the article page."
+  }
+]
