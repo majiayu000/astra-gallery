@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Astra Gallery — verified GPT-6 Astra builds</title>
+  <meta name="description" content="Narrow gallery of verified GPT-6 Astra demos: playable links, sources, and cost notes when known." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0b0d10;
+      --panel: #12161c;
+      --line: #243041;
+      --text: #e8eef7;
+      --muted: #8b9bb0;
+      --accent: #6ee7ff;
+      --accent2: #a78bfa;
+      --warn: #fbbf24;
+      --good: #34d399;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "IBM Plex Sans", system-ui, sans-serif;
+      background: radial-gradient(1200px 600px at 10% -10%, #1a2740 0%, transparent 55%),
+                  radial-gradient(900px 500px at 100% 0%, #2a1848 0%, transparent 50%),
+                  var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      min-height: 100vh;
+    }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .wrap { max-width: 1100px; margin: 0 auto; padding: 28px 20px 80px; }
+    header.hero {
+      display: grid;
+      gap: 18px;
+      padding: 28px 0 12px;
+      border-bottom: 1px solid var(--line);
+      margin-bottom: 28px;
+    }
+    .kicker {
+      font-family: "IBM Plex Mono", monospace;
+      font-size: 12px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--accent);
+    }
+    h1 {
+      margin: 0;
+      font-size: clamp(28px, 5vw, 44px);
+      letter-spacing: -0.03em;
+      line-height: 1.1;
+    }
+    .lead { margin: 0; max-width: 62ch; color: var(--muted); font-size: 16px; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; }
+    .btn {
+      display: inline-flex; align-items: center; gap: 8px;
+      border: 1px solid var(--line);
+      background: var(--panel);
+      color: var(--text);
+      padding: 10px 14px;
+      border-radius: 999px;
+      font-size: 14px;
+      font-weight: 500;
+    }
+    .btn.primary { background: linear-gradient(135deg, #134e5e, #2b2150); border-color: #3a5a78; }
+    .stats {
+      display: flex; flex-wrap: wrap; gap: 16px 24px;
+      font-family: "IBM Plex Mono", monospace;
+      font-size: 13px;
+      color: var(--muted);
+    }
+    .stats strong { color: var(--text); font-weight: 600; }
+    .filters {
+      display: flex; flex-wrap: wrap; gap: 8px;
+      margin: 0 0 20px;
+      position: sticky; top: 0; z-index: 5;
+      padding: 12px 0;
+      background: color-mix(in srgb, var(--bg) 88%, transparent);
+      backdrop-filter: blur(8px);
+    }
+    .chip {
+      border: 1px solid var(--line);
+      background: transparent;
+      color: var(--muted);
+      border-radius: 999px;
+      padding: 7px 12px;
+      font-size: 13px;
+      cursor: pointer;
+    }
+    .chip.active { color: var(--bg); background: var(--accent); border-color: var(--accent); font-weight: 600; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 14px;
+    }
+    .card {
+      background: linear-gradient(180deg, #151a22, #10141a);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      min-height: 210px;
+    }
+    .card h3 { margin: 0; font-size: 17px; letter-spacing: -0.01em; }
+    .card p { margin: 0; color: var(--muted); font-size: 14px; flex: 1; }
+    .meta { display: flex; flex-wrap: wrap; gap: 6px; }
+    .tag {
+      font-family: "IBM Plex Mono", monospace;
+      font-size: 11px;
+      border-radius: 6px;
+      padding: 3px 7px;
+      border: 1px solid var(--line);
+      color: var(--muted);
+    }
+    .tag.cat { color: #c4b5fd; border-color: #4c3b78; }
+    .tag.live { color: var(--good); border-color: #1f6a4f; }
+    .tag.cost { color: var(--warn); border-color: #6b5216; }
+    .foot {
+      display: flex; justify-content: space-between; gap: 8px; align-items: center;
+      font-size: 13px; color: var(--muted);
+    }
+    footer {
+      margin-top: 48px;
+      padding-top: 20px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .note {
+      margin: 18px 0 8px;
+      padding: 12px 14px;
+      border-radius: 12px;
+      border: 1px dashed var(--line);
+      color: var(--muted);
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero">
+      <div class="kicker">Verified builds only</div>
+      <h1>Astra Gallery</h1>
+      <p class="lead">GPT-6 Astra 的窄站图库：只收能点开源链接的作品与评测。有成本就写成本，有争议也放进来。</p>
+      <div class="actions">
+        <a class="btn primary" href="https://github.com/majiayu000/astra-gallery/issues/new/choose" id="submit-link">提交一条</a>
+        <a class="btn" href="#grid">浏览条目</a>
+        <a class="btn" href="https://developers.openai.com/blog/how-to-build-games-with-astra">官方游戏教程</a>
+      </div>
+      <div class="stats" id="stats">加载中…</div>
+    </header>
+
+    <div class="note">MVP：静态页 + JSON。域名建议买 <code>astra-gallery.com</code>。品牌写 Astra，不要用 Astro（框架撞名）。</div>
+
+    <div class="filters" id="filters"></div>
+    <div class="grid" id="grid"></div>
+
+    <footer>
+      Astra Gallery · 独立策展，与 OpenAI 无关 · 源码稍后公开 · 数据来自公开帖与官方文，不做保证效果。
+    </footer>
+  </div>
+  <script>
+    const CAT_LABEL = {
+      "computer-use": "Computer use",
+      "3d-spatial": "3D / Spatial",
+      "coding-agent": "Coding agent",
+      "math-science": "Math / Science",
+      "cyber": "Cyber",
+      "docs-office": "Docs",
+      "cost-economics": "Cost",
+      "safety-monitorability": "Safety"
+    };
+
+    let entries = [];
+    let active = "all";
+
+    async function load() {
+      const res = await fetch("./entries.json");
+      const data = await res.json();
+      entries = data.entries || [];
+      document.getElementById("stats").innerHTML =
+        `<span><strong>${entries.length}</strong> verified</span>` +
+        `<span><strong>${entries.filter(e => e.live_url).length}</strong> playable / live</span>` +
+        `<span><strong>${entries.filter(e => e.cost_note).length}</strong> with cost notes</span>` +
+        `<span>updated <strong>${data.updated || "—"}</strong></span>`;
+      buildFilters();
+      render();
+    }
+
+    function buildFilters() {
+      const cats = ["all", ...Object.keys(CAT_LABEL).filter(c => entries.some(e => e.category === c))];
+      const el = document.getElementById("filters");
+      el.innerHTML = cats.map(c => {
+        const label = c === "all" ? "All" : CAT_LABEL[c];
+        return `<button class="chip ${c===active?"active":""}" data-cat="${c}">${label}</button>`;
+      }).join("");
+      el.querySelectorAll(".chip").forEach(btn => {
+        btn.addEventListener("click", () => {
+          active = btn.dataset.cat;
+          buildFilters();
+          render();
+        });
+      });
+    }
+
+    function render() {
+      const list = active === "all" ? entries : entries.filter(e => e.category === active);
+      const grid = document.getElementById("grid");
+      grid.innerHTML = list.map(e => {
+        const live = e.live_url ? `<span class="tag live">live</span>` : "";
+        const cost = e.cost_note ? `<span class="tag cost">cost</span>` : "";
+        const primary = e.live_url || e.source_url;
+        const primaryLabel = e.live_url ? "打开" : "来源";
+        return `<article class="card">
+          <div class="meta">
+            <span class="tag cat">${CAT_LABEL[e.category] || e.category}</span>
+            <span class="tag">${e.proof_type}</span>
+            ${live}${cost}
+          </div>
+          <h3>${escapeHtml(e.title)}</h3>
+          <p>${escapeHtml(e.description)}</p>
+          ${e.cost_note ? `<p style="color:var(--warn);font-size:12px;margin:0">${escapeHtml(e.cost_note)}</p>` : ""}
+          <div class="foot">
+            <span>${escapeHtml(e.author || "")}</span>
+            <span>
+              <a href="${primary}" target="_blank" rel="noopener">${primaryLabel}</a>
+              ${e.live_url && e.source_url ? ` · <a href="${e.source_url}" target="_blank" rel="noopener">源</a>` : ""}
+            </span>
+          </div>
+        </article>`;
+      }).join("") || `<p class="lead">这一类还没有条目。</p>`;
+    }
+
+    function escapeHtml(s) {
+      return String(s || "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
+    }
+
+    load().catch(err => {
+      document.getElementById("stats").textContent = "加载失败：" + err.message;
+    });
+  </script>
+</body>
+</html>
