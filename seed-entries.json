@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "entries": [
     {
       "id": "macos-27-simulator",
@@ -3213,6 +3213,405 @@
       "cost_note": null,
       "why_included": "Independent secondary writeup naming a distinct playable game class; page fetched 200. Prefer Berman X entries for primary demos.",
       "verified": true
+    },
+    {
+      "id": "x-2095596175705399482",
+      "title": {
+        "en": "Unreal survival world with Astra agents",
+        "zh": "用 Astra 智能体搭建的虚幻求生世界"
+      },
+      "description": {
+        "en": "Matt Shumer shows an Unreal Engine survival world driven by Astra agents — a high-attention demo of agentic 3D worldbuilding.",
+        "zh": "Matt Shumer 展示由 Astra 智能体驱动的虚幻引擎求生世界，是高关注度的三维世界构建演示。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "x-post+video",
+      "source_url": "https://x.com/mattshumer_/status/2095596175705399482",
+      "live_url": null,
+      "author": "@mattshumer_",
+      "cost_note": null,
+      "why_included": {
+        "en": "Viral verified Unreal + Astra agents survival demo with clear video proof.",
+        "zh": "可核验的虚幻 + Astra 智能体求生演示，视频证据清晰且传播量大。"
+      },
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/x-2095596175705399482.jpg",
+        "embed": "https://x.com/mattshumer_/status/2095596175705399482/video/1",
+        "credit": "@mattshumer_"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095596175705399482",
+        "fetched_at": "2026-09-06T07:00:00Z",
+        "metrics": {
+          "impressions": 11194414,
+          "likes": 27637,
+          "reposts": 1874,
+          "replies": 1092,
+          "quotes": 737,
+          "bookmarks": 14509
+        },
+        "derived": {
+          "engage_per_1k_impr": 4.1
+        },
+        "freshness": "ok"
+      }
+    },
+    {
+      "id": "x-2095609734845927525",
+      "title": {
+        "en": "Manhattan Unreal world",
+        "zh": "曼哈顿虚幻世界"
+      },
+      "description": {
+        "en": "A Manhattan-scale Unreal world demo attributed to Astra — dense city geometry and flythrough video.",
+        "zh": "以 Astra 构建的曼哈顿尺度虚幻世界演示，城市几何密集并附飞行视角视频。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "x-post+video",
+      "source_url": "https://x.com/mattshumer_/status/2095609734845927525",
+      "live_url": null,
+      "author": "@mattshumer_",
+      "cost_note": null,
+      "why_included": {
+        "en": "Companion high-signal Unreal city demo from the same author wave.",
+        "zh": "同一作者浪潮中的高信号虚幻城市演示，作为求生世界的补充案例。"
+      },
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/x-2095609734845927525.jpg",
+        "embed": "https://x.com/mattshumer_/status/2095609734845927525/video/1",
+        "credit": "@mattshumer_"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095609734845927525",
+        "fetched_at": "2026-09-06T07:00:00Z",
+        "metrics": {
+          "impressions": 4312631,
+          "likes": 18730,
+          "reposts": 982,
+          "replies": 564,
+          "quotes": 431,
+          "bookmarks": 4730
+        },
+        "derived": {
+          "engage_per_1k_impr": 5.9
+        },
+        "freshness": "ok"
+      }
+    },
+    {
+      "id": "x-2096226819401801896",
+      "title": {
+        "en": "Photorealistic bat in Blender",
+        "zh": "Blender 中的写实蝙蝠"
+      },
+      "description": {
+        "en": "Photorealistic bat asset and scene work in Blender, attributed to Astra-assisted 3D workflow.",
+        "zh": "在 Blender 中完成的写实蝙蝠资产与场景，展示 Astra 辅助三维工作流。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "x-post+video",
+      "source_url": "https://x.com/aollivier82/status/2096226819401801896",
+      "live_url": null,
+      "author": "@aollivier82",
+      "cost_note": null,
+      "why_included": {
+        "en": "Strong Blender photoreal craft demo with video proof.",
+        "zh": "写实 Blender 工艺演示，视频证据充分。"
+      },
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/x-2096226819401801896.jpg",
+        "embed": "https://x.com/aollivier82/status/2096226819401801896/video/1",
+        "credit": "@aollivier82"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2096226819401801896",
+        "fetched_at": "2026-09-06T07:00:00Z",
+        "metrics": {
+          "impressions": 1774467,
+          "likes": 8852,
+          "reposts": 323,
+          "replies": 330,
+          "quotes": 141,
+          "bookmarks": 2882
+        },
+        "derived": {
+          "engage_per_1k_impr": 7.1
+        },
+        "freshness": "ok"
+      }
+    },
+    {
+      "id": "x-2096149368193839455",
+      "title": {
+        "en": "Computer-use paints line art",
+        "zh": "计算机操控绘制线稿"
+      },
+      "description": {
+        "en": "Astra computer-use session that paints line art on screen — a clear computer-control creativity demo.",
+        "zh": "Astra 计算机操控在屏幕上绘制线稿，是清晰的操控类创作演示。"
+      },
+      "category": "computer-use",
+      "proof_type": "x-post+video",
+      "source_url": "https://x.com/taiyaki_sun/status/2096149368193839455",
+      "live_url": null,
+      "author": "@taiyaki_sun",
+      "cost_note": null,
+      "why_included": {
+        "en": "Verified computer-use creative painting demo with video.",
+        "zh": "可核验的计算机操控绘画演示，含视频。"
+      },
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/x-2096149368193839455.jpg",
+        "embed": "https://x.com/taiyaki_sun/status/2096149368193839455/video/1",
+        "credit": "@taiyaki_sun"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2096149368193839455",
+        "fetched_at": "2026-09-06T07:00:00Z",
+        "metrics": {
+          "impressions": 1770409,
+          "likes": 4754,
+          "reposts": 923,
+          "replies": 76,
+          "quotes": 539,
+          "bookmarks": 2955
+        },
+        "derived": {
+          "engage_per_1k_impr": 5.2
+        },
+        "freshness": "ok"
+      }
+    },
+    {
+      "id": "x-2095598645190291775",
+      "title": {
+        "en": "House image to 3D",
+        "zh": "房屋照片转三维"
+      },
+      "description": {
+        "en": "Tom Krcha turns a house photo into a 3D reconstruction with Astra — image-to-3D spatial workflow.",
+        "zh": "Tom Krcha 用 Astra 将房屋照片重建为三维模型，展示图像到空间的工作流。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "x-post+video",
+      "source_url": "https://x.com/tomkrcha/status/2095598645190291775",
+      "live_url": null,
+      "author": "@tomkrcha",
+      "cost_note": null,
+      "why_included": {
+        "en": "Clear image-to-3D house reconstruction with video proof.",
+        "zh": "清晰的房屋图像到三维重建案例，含视频证据。"
+      },
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/x-2095598645190291775.jpg",
+        "embed": "https://x.com/tomkrcha/status/2095598645190291775/video/1",
+        "credit": "@tomkrcha"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2095598645190291775",
+        "fetched_at": "2026-09-06T07:00:00Z",
+        "metrics": {
+          "impressions": 1345167,
+          "likes": 6397,
+          "reposts": 554,
+          "replies": 228,
+          "quotes": 203,
+          "bookmarks": 3729
+        },
+        "derived": {
+          "engage_per_1k_impr": 8.3
+        },
+        "freshness": "ok"
+      }
+    },
+    {
+      "id": "x-2096176846408945789",
+      "title": {
+        "en": "GTA-style Unreal world",
+        "zh": "GTA 风格虚幻世界"
+      },
+      "description": {
+        "en": "GTA-style Unreal city/world build shared by @birdabo with Astra-assisted creation video.",
+        "zh": "@birdabo 分享的 GTA 风格虚幻城市/世界构建，含 Astra 辅助创作视频。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "x-post+video",
+      "source_url": "https://x.com/birdabo/status/2096176846408945789",
+      "live_url": null,
+      "author": "@birdabo",
+      "cost_note": null,
+      "why_included": {
+        "en": "Game-like Unreal aesthetic demo with public video proof.",
+        "zh": "游戏感虚幻美学演示，公开视频可核验。"
+      },
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/x-2096176846408945789.jpg",
+        "embed": "https://x.com/birdabo/status/2096176846408945789/video/1",
+        "credit": "@birdabo"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2096176846408945789",
+        "fetched_at": "2026-09-06T07:00:00Z",
+        "metrics": {
+          "impressions": 406453,
+          "likes": 3016,
+          "reposts": 151,
+          "replies": 74,
+          "quotes": 25,
+          "bookmarks": 967
+        },
+        "derived": {
+          "engage_per_1k_impr": 10.4
+        },
+        "freshness": "ok"
+      }
+    },
+    {
+      "id": "x-2096048421543272893",
+      "title": {
+        "en": "40-minute 3D from one prompt",
+        "zh": "一条提示词四十分钟做出三维"
+      },
+      "description": {
+        "en": "Author claims a substantial 3D result in about 40 minutes from a single prompt — timed Astra spatial workflow.",
+        "zh": "作者称用一条提示词约 40 分钟做出可观三维结果，展示计时的 Astra 空间工作流。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "x-post+video",
+      "source_url": "https://x.com/zhengli/status/2096048421543272893",
+      "live_url": null,
+      "author": "@zhengli",
+      "cost_note": {
+        "en": "~40 minutes from one prompt (author claim).",
+        "zh": "作者称约 40 分钟、一条提示词。"
+      },
+      "why_included": {
+        "en": "Explicit time-to-result claim with video proof.",
+        "zh": "明确的耗时声明，并附视频证据。"
+      },
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/x-2096048421543272893.jpg",
+        "embed": "https://x.com/zhengli/status/2096048421543272893/video/1",
+        "credit": "@zhengli"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2096048421543272893",
+        "fetched_at": "2026-09-06T07:00:00Z",
+        "metrics": {
+          "impressions": 370473,
+          "likes": 3775,
+          "reposts": 359,
+          "replies": 227,
+          "quotes": 22,
+          "bookmarks": 2262
+        },
+        "derived": {
+          "engage_per_1k_impr": 17.9
+        },
+        "freshness": "ok"
+      }
+    },
+    {
+      "id": "x-2096156461365960837",
+      "title": {
+        "en": "Singapore street · three.js / GTA6 hyperrealistic POV",
+        "zh": "新加坡街道 · three.js / GTA6 超写实 POV"
+      },
+      "description": {
+        "en": "Hyperrealistic Singapore street POV (three.js / GTA6-style). Author notes demo soon — no live URL yet.",
+        "zh": "超写实新加坡街道 POV（three.js / GTA6 风格）。作者标注 demo soon，暂无 live_url。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "x-post+video",
+      "source_url": "https://x.com/birdabo/status/2096156461365960837",
+      "live_url": null,
+      "author": "@birdabo",
+      "cost_note": null,
+      "why_included": {
+        "en": "High-ambition hyperreal street POV; demo promised but not live yet.",
+        "zh": "高野心超写实街道 POV；承诺即将发布演示，但尚无在线体验。"
+      },
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/x-2096156461365960837.jpg",
+        "embed": "https://x.com/birdabo/status/2096156461365960837/video/1",
+        "credit": "@birdabo"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2096156461365960837",
+        "fetched_at": "2026-09-06T07:00:00Z",
+        "metrics": {
+          "impressions": 580577,
+          "likes": 1763,
+          "reposts": 70,
+          "replies": 113,
+          "quotes": 30,
+          "bookmarks": 558
+        },
+        "derived": {
+          "engage_per_1k_impr": 4.4
+        },
+        "freshness": "ok"
+      }
+    },
+    {
+      "id": "x-2096420704636019105",
+      "title": {
+        "en": "Tripo model + Blender setup via Astra",
+        "zh": "Tripo 模型 + Astra 辅助 Blender 设置与表情"
+      },
+      "description": {
+        "en": "Dstudio shows Tripo-generated model with Blender setup and expressions driven via Astra.",
+        "zh": "Dstudio 展示 Tripo 生成模型，并用 Astra 完成 Blender 设置与表情。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "x-post+video",
+      "source_url": "https://x.com/Dstudio_ai/status/2096420704636019105",
+      "live_url": null,
+      "author": "@Dstudio_ai",
+      "cost_note": null,
+      "why_included": {
+        "en": "Tool-chain case: Tripo + Blender expressions with Astra assist.",
+        "zh": "工具链案例：Tripo + Blender 表情，Astra 辅助。"
+      },
+      "verified": true,
+      "media": {
+        "thumb": "./media/thumbs/x-2096420704636019105.jpg",
+        "embed": "https://x.com/Dstudio_ai/status/2096420704636019105/video/1",
+        "credit": "@Dstudio_ai"
+      },
+      "attention": {
+        "platform": "x",
+        "status_id": "2096420704636019105",
+        "fetched_at": "2026-09-06T07:00:00Z",
+        "metrics": {
+          "impressions": 188823,
+          "likes": 3141,
+          "reposts": 307,
+          "replies": 21,
+          "quotes": 48,
+          "bookmarks": 2541
+        },
+        "derived": {
+          "engage_per_1k_impr": 32.1
+        },
+        "freshness": "ok"
+      }
     }
   ]
 }
