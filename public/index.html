@@ -1,13 +1,74 @@
 <!doctype html>
 <html lang="zh-CN">
-<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Astra Gallery · 案例与实践</title><meta name="description" content="发现 Astra 的真实作品、创作过程与实践经验。浏览可体验案例、原始来源和成本记录。"><link rel="stylesheet" href="style.css?v=3"></head>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Astra Gallery · 案例与实践</title>
+<meta name="description" content="发现 Astra 的真实作品、创作过程与实践经验。浏览可体验案例、原始来源和成本记录。">
+<link rel="stylesheet" href="style.css?v=4">
+</head>
 <body>
-<header class="topbar"><a class="brand" href="./"><span class="brand-icon">✳</span> astra<span class="brand-light">gallery</span><span class="edition">THE INDEPENDENT INDEX</span></a><div class="toplinks"><a href="https://github.com/majiayu000/astra-gallery" target="_blank" rel="noopener">GitHub ↗</a><a class="submit" href="https://github.com/majiayu000/astra-gallery/issues/new" target="_blank" rel="noopener">＋ 提交案例</a></div></header>
-<div class="workspace"><main><section class="intro"><div><div class="eyebrow"><span></span> IDEAS INTO REALITY / 用 Astra 创造</div><h1>想象之外，<span>已经发生。</span></h1><p>真实作品、创作方法与实践经验。<br>下一次创造，从这里开始。</p></div><div class="catalog-number"><strong id="total">—</strong><span>件作品与实践记录</span></div></section>
-<section class="search-region" aria-label="搜索与筛选"><label class="search"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="search" type="search" placeholder="找案例、作者，或你想做的事…" aria-label="搜索案例"><kbd>/</kbd></label><div class="quick"><span>只看</span><button id="live-filter" aria-pressed="false">↗ 可直接体验 <span id="live-count"></span></button><button id="cost-filter" aria-pressed="false">有成本记录</button><button id="reset" class="reset" hidden>清除筛选 ×</button></div></section>
+<header class="topbar">
+  <a class="brand" href="./"><span class="brand-icon">✳</span> astra<span class="brand-light">gallery</span><span class="edition">THE INDEPENDENT INDEX</span></a>
+  <div class="toplinks">
+    <button id="lang-toggle" class="lang-toggle" type="button" aria-label="Switch language">EN</button>
+    <a id="github-link" href="https://github.com/majiayu000/astra-gallery" target="_blank" rel="noopener">GitHub ↗</a>
+    <a id="submit-link" class="submit" href="https://github.com/majiayu000/astra-gallery/issues/new" target="_blank" rel="noopener">＋ 提交案例</a>
+  </div>
+</header>
+<div class="workspace">
+<main>
+<section class="intro">
+  <div>
+    <div class="eyebrow"><span></span> IDEAS INTO REALITY / 用 Astra 创造</div>
+    <h1>想象之外，<span>已经发生。</span></h1>
+    <p>真实作品、创作方法与实践经验。<br>下一次创造，从这里开始。</p>
+  </div>
+  <div class="catalog-number"><strong id="total">—</strong><span>件作品与实践记录</span></div>
+</section>
+<section class="search-region" aria-label="搜索与筛选">
+  <label class="search">
+    <svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>
+    <input id="search" type="search" placeholder="找案例、作者，或你想做的事…" aria-label="搜索案例">
+    <kbd>/</kbd>
+  </label>
+  <div class="quick">
+    <span>只看</span>
+    <button id="live-filter" aria-pressed="false">↗ 可直接体验 <span id="live-count"></span></button>
+    <button id="cost-filter" aria-pressed="false">有成本记录</button>
+    <button id="reset" class="reset" hidden>清除筛选 ×</button>
+  </div>
+</section>
 <nav id="categories" aria-label="内容分类"></nav>
-<section id="featured-section"><div class="section-heading"><h2>值得一看 <span>THE SELECTED / 01—03</span></h2><span class="quiet">灵感有了具体的形状 ↙</span></div><div id="featured" class="featured"></div></section>
-<section class="results"><div class="section-heading"><h2 id="results-title">全部案例 <span id="result-count"></span></h2><span class="quiet">按原目录顺序</span></div><div id="result-grid" class="result-grid" aria-live="polite"><p>正在载入案例…</p></div><button id="more" class="more" hidden>查看更多案例 ↓</button></section>
-<footer><span>✳ Astra Gallery</span><span>独立策展 · 与 OpenAI 无隶属关系</span><span id="snapshot">公开来源 · 持续收录</span></footer></main></div>
-<dialog id="detail"><div class="dialog-top"><span>案例笔记 / FIELD NOTES</span><button id="close-detail" aria-label="关闭详情">×</button></div><div id="detail-body"></div></dialog><script src="app.js" defer></script>
-</body></html>
+<section id="featured-section">
+  <div class="section-heading">
+    <h2>值得一看 <span>THE SELECTED / 01—03</span></h2>
+    <span class="quiet">灵感有了具体的形状 ↙</span>
+  </div>
+  <div id="featured" class="featured"></div>
+</section>
+<section class="results">
+  <div class="section-heading">
+    <h2 id="results-title">全部案例 <span id="result-count"></span></h2>
+    <span class="quiet">按原目录顺序</span>
+  </div>
+  <div id="result-grid" class="result-grid" aria-live="polite"><p>正在载入案例…</p></div>
+  <button id="more" class="more" hidden>查看更多案例 ↓</button>
+</section>
+<footer>
+  <span>✳ Astra Gallery</span>
+  <span>独立策展 · 与 OpenAI 无隶属关系</span>
+  <span id="snapshot">公开来源 · 持续收录</span>
+</footer>
+</main>
+</div>
+<dialog id="detail">
+  <div class="dialog-top">
+    <span>案例笔记 / FIELD NOTES</span>
+    <button id="close-detail" aria-label="关闭详情">×</button>
+  </div>
+  <div id="detail-body"></div>
+</dialog>
+<script src="app.js?v=4" defer></script>
+</body>
+</html>
