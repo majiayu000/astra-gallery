@@ -3,6 +3,11 @@
 
 Usage:
   python3 scripts/fetch-attention.py --metrics path/to/metrics.json
+  python3 scripts/fetch-attention.py --metrics path/to/metrics.json --dry-run
+  python3 scripts/fetch-attention.py --metrics path/to/metrics.json --clear-missing
+
+By default, entries with no matching metrics keep any existing attention.
+Pass --clear-missing to remove attention on misses (destructive).
 
 metrics.json shape (from X Algo / CI):
   {
@@ -58,23 +63,57 @@ def derive(m: dict):
     return {"engage_per_1k_impr": round(1000.0 * engage / impr, 1)}
 
 
-def attach(entries: list, by_id: dict, fetched_at: str) -> int:
-    n = 0
+def _miss_reason(entry: dict, by_id: dict) -> str | None:
+    """Return a miss reason, or None when metrics can be attached."""
+    url = entry.get("source_url") or ""
+    mo = STATUS_RE.search(url)
+    if not mo:
+        return "non_x_url"
+    sid = mo.group(1)
+    pm = by_id.get(sid)
+    if not pm:
+        return "missing_status"
+    if not map_metrics(pm):
+        return "empty_metrics"
+    return None
+
+
+def attach(
+    entries: list,
+    by_id: dict,
+    fetched_at: str,
+    *,
+    clear_missing: bool = False,
+) -> dict:
+    """Merge metrics into entries.
+
+    Misses (non-X URL, absent status id, or empty mapped metrics) skip by default
+    so existing attention is preserved. With clear_missing=True, pops attention
+    on those misses.
+
+    Returns counts: updated, unchanged, and either would_clear or cleared.
+    """
+    updated = 0
+    unchanged = 0
+    would_clear = 0
+    cleared = 0
+
     for e in entries:
+        reason = _miss_reason(e, by_id)
+        if reason is not None:
+            has_attention = "attention" in e
+            if clear_missing and has_attention:
+                e.pop("attention", None)
+                cleared += 1
+            elif has_attention:
+                would_clear += 1
+            else:
+                unchanged += 1
+            continue
+
         url = e.get("source_url") or ""
-        mo = STATUS_RE.search(url)
-        if not mo:
-            e.pop("attention", None)
-            continue
-        sid = mo.group(1)
-        pm = by_id.get(sid)
-        if not pm:
-            e.pop("attention", None)
-            continue
-        metrics = map_metrics(pm)
-        if not metrics:
-            e.pop("attention", None)
-            continue
+        sid = STATUS_RE.search(url).group(1)
+        metrics = map_metrics(by_id[sid])
         att = {
             "platform": "x",
             "status_id": sid,
@@ -86,8 +125,14 @@ def attach(entries: list, by_id: dict, fetched_at: str) -> int:
         if der:
             att["derived"] = der
         e["attention"] = att
-        n += 1
-    return n
+        updated += 1
+
+    out = {"updated": updated, "unchanged": unchanged}
+    if clear_missing:
+        out["cleared"] = cleared
+    else:
+        out["would_clear"] = would_clear
+    return out
 
 
 def load_doc(path: Path):
@@ -99,13 +144,35 @@ def load_doc(path: Path):
     raise SystemExit(f"unsupported JSON shape: {path}")
 
 
+def format_summary(stats: dict) -> str:
+    parts = [f"updated={stats['updated']}", f"unchanged={stats['unchanged']}"]
+    if "cleared" in stats:
+        parts.append(f"cleared={stats['cleared']}")
+    else:
+        parts.append(f"would_clear={stats['would_clear']}")
+    return ", ".join(parts)
+
+
 def main():
-    ap = argparse.ArgumentParser()
+    ap = argparse.ArgumentParser(
+        description="Merge X public_metrics into entry attention fields. "
+        "By default, misses keep existing attention; use --clear-missing to strip them."
+    )
     ap.add_argument("--metrics", required=True, help="metrics.json with by_status_id")
     ap.add_argument(
         "--targets",
         nargs="*",
         default=["public/entries.json", "data/seed-entries.json", "seed-entries.json"],
+    )
+    ap.add_argument(
+        "--clear-missing",
+        action="store_true",
+        help="Remove attention when metrics are missing (destructive). Default: skip/preserve.",
+    )
+    ap.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Compute merge summary without writing files.",
     )
     args = ap.parse_args()
     doc = json.loads(Path(args.metrics).read_text())
@@ -117,13 +184,16 @@ def main():
             print(f"skip missing {rel}")
             continue
         data, entries, wrapped = load_doc(path)
-        n = attach(entries, by_id, fetched_at)
+        stats = attach(entries, by_id, fetched_at, clear_missing=args.clear_missing)
+        mode = "dry-run" if args.dry_run else "write"
+        print(f"{rel} [{mode}]: {format_summary(stats)} ({len(entries)} entries)")
+        if args.dry_run:
+            continue
         if wrapped:
             data["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%d")
             path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n")
         else:
             path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n")
-        print(f"{rel}: attached attention on {n}/{len(entries)} entries")
 
 
 if __name__ == "__main__":

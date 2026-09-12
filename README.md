@@ -22,8 +22,13 @@ Open a GitHub issue with: title, source URL, optional live URL, category, cost n
 Cards may show public X interaction counts (`attention` on an entry) when available:
 impressions, likes, reposts, bookmarks. Missing data is omitted — never faked as zero.
 
-Refresh merge (after you have a `metrics.json` from the X API):
+Refresh merge (after you have a `metrics.json` from the X API). By default, entries
+with no matching metrics keep any existing `attention` (partial/empty refreshes do not
+wipe the catalog). Use `--clear-missing` only when you intend to strip those fields.
+`--dry-run` prints `updated` / `unchanged` / `would_clear` (or `cleared`) without writing.
 
 ```bash
 python3 scripts/fetch-attention.py --metrics path/to/metrics.json
+python3 scripts/fetch-attention.py --metrics path/to/metrics.json --dry-run
+python3 scripts/fetch-attention.py --metrics path/to/metrics.json --clear-missing
 ```
