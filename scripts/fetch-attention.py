@@ -105,7 +105,7 @@ def main():
     ap.add_argument(
         "--targets",
         nargs="*",
-        default=["public/entries.json", "data/seed-entries.json", "seed-entries.json"],
+        default=["public/entries.json", "data/seed-entries.json"],
     )
     args = ap.parse_args()
     doc = json.loads(Path(args.metrics).read_text())

@@ -2,6 +2,7 @@ name: Deploy Pages
 on:
   push:
     branches: [master]
+  pull_request:
 permissions:
   contents: read
   pages: write
@@ -10,7 +11,15 @@ concurrency:
   group: pages
   cancel-in-progress: true
 jobs:
+  verify-catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Canonical catalog identity
+        run: cmp -s data/seed-entries.json public/entries.json
   deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    needs: verify-catalog
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
