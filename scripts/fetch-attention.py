@@ -124,8 +124,11 @@ def attach(
         der = derive(metrics)
         if der:
             att["derived"] = der
-        e["attention"] = att
-        updated += 1
+        if e.get("attention") == att:
+            unchanged += 1
+        else:
+            e["attention"] = att
+            updated += 1
 
     out = {"updated": updated, "unchanged": unchanged}
     if clear_missing:
