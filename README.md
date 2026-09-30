@@ -24,6 +24,8 @@ impressions, likes, reposts, bookmarks. Missing data is omitted — never faked 
 
 Refresh merge (after you have a `metrics.json` from the X API):
 
+Entries without matching usable metrics keep their existing attention data.
+
 ```bash
 python3 scripts/fetch-attention.py --metrics path/to/metrics.json
 ```
