@@ -2,10 +2,10 @@
 
 Narrow gallery of **verified** GPT-6 Astra builds: source links required, cost notes when known.
 
-- Live preview (local): `public/`
+- [Online gallery](https://majiayu000.github.io/astra-gallery/)
+- Local preview: `public/`
 - Data: `data/seed-entries.json` → copied to `public/entries.json`
 - Brand: **Astra Gallery** (not Astro)
-- Domain candidates: `astra-gallery.com`, `astragallery.dev`, `gpt6.gallery`
 
 ## Dev
 
