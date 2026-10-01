@@ -3,21 +3,26 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Astra Gallery · 案例与实践</title>
+<title>Astra Gallery · GPT-6 Astra 案例与实践</title>
 <link rel="stylesheet" href="style.css?v=4">
-<meta name="description" content="发现 Astra 的真实作品、创作过程与实践经验。浏览可体验案例、原始来源和成本记录。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" media="print" onload="this.media='all'" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400..700&family=Noto+Sans+SC:wght@400..800&display=optional">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400..700&family=Noto+Sans+SC:wght@400..800&display=optional"></noscript>
+<link rel="preload" as="fetch" href="entries.json" crossorigin>
+<link rel="preload" as="image" href="media/thumbs/x-2095596175705399482.jpg" fetchpriority="high">
+<meta name="description" content="GPT-6 Astra 的公开作品与实践记录：查看原始来源、可体验链接与有条件的成本记录。独立策展。">
 <link rel="canonical" href="https://majiayu000.github.io/astra-gallery/">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Astra Gallery · 案例与实践">
-<meta property="og:description" content="发现 Astra 的真实作品、创作过程与实践经验。浏览可体验案例、原始来源和成本记录。">
+<meta property="og:title" content="Astra Gallery · GPT-6 Astra 案例与实践">
+<meta property="og:description" content="GPT-6 Astra 的公开作品与实践记录：查看原始来源、可体验链接与有条件的成本记录。独立策展。">
 <meta property="og:url" content="https://majiayu000.github.io/astra-gallery/">
 <meta property="og:image" content="https://majiayu000.github.io/astra-gallery/social-card.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Astra Gallery · 案例与实践 · 公开页面预览">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Astra Gallery · 案例与实践">
-<meta name="twitter:description" content="发现 Astra 的真实作品、创作过程与实践经验。浏览可体验案例、原始来源和成本记录。">
+<meta name="twitter:title" content="Astra Gallery · GPT-6 Astra 案例与实践">
+<meta name="twitter:description" content="GPT-6 Astra 的公开作品与实践记录：查看原始来源、可体验链接与有条件的成本记录。独立策展。">
 <meta name="twitter:image" content="https://majiayu000.github.io/astra-gallery/social-card.png">
 </head>
 <body>
@@ -67,6 +72,18 @@
   </div>
   <div id="result-grid" class="result-grid" aria-live="polite"><p>正在载入案例…</p></div>
   <button id="more" class="more" hidden>查看更多案例 ↓</button>
+</section>
+<section class="results" id="reading-notes" aria-labelledby="reading-notes-title">
+  <div class="section-heading"><h2 id="reading-notes-title" data-reading="readingTitle">从来源开始读案例</h2></div>
+  <p data-reading="readingScope">收录表示存在可追溯的公开来源，不表示本站独立重跑了作品，也不代表基准成绩、作品许可或 OpenAI 背书。演示与可体验作品分别标注；有成本记录才展示，缺失不等于免费。</p>
+  <ul>
+    <li><a href="https://x.com/mattshumer_/status/2095596175705399482" data-reading="readingUnreal">虚幻求生世界：Matt Shumer 的原始演示</a></li>
+    <li><a href="https://echai.ventures/astra" data-reading="readingMac">macOS 27 模拟器：目录所收录的 eChai 来源</a></li>
+    <li><a href="https://x.com/mattshumer_/status/2095609734845927525" data-reading="readingManhattan">曼哈顿虚幻世界：同一作者的原始展示</a></li>
+  </ul>
+  <p data-reading="readingUse">先按你想做的事搜索；「可直接体验」筛选带 demo 链接的条目，能否访问仍以原站当前状态为准。「有成本记录」只筛选已记录成本的案例，无法据此比较模型平均成本。</p>
+  <p><span data-reading="readingSubmit">投稿请提供作者、原始来源、作品或演示地址、Astra 参与的证据和已知成本的条件；没有成本可留空。</span> <a href="https://github.com/majiayu000/astra-gallery/issues/new" data-reading="readingIssue">提交案例或纠错</a></p>
+  <p><a href="https://developers.openai.com/api/docs/models/gpt-6-astra" data-reading="readingModel">GPT-6 Astra 官方模型资料</a></p>
 </section>
 <footer>
   <span>✳ Astra Gallery</span>

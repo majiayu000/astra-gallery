@@ -2,8 +2,8 @@
   "lang": "zh",
   "langLabel": "中文",
   "langToggle": "EN",
-  "documentTitle": "Astra Gallery · 案例与实践",
-  "metaDescription": "发现 Astra 的真实作品、创作过程与实践经验。浏览可体验案例、原始来源和成本记录。",
+  "documentTitle": "Astra Gallery · GPT-6 Astra 案例与实践",
+  "metaDescription": "GPT-6 Astra 的公开作品与实践记录：查看原始来源、可体验链接与有条件的成本记录。独立策展。",
   "edition": "THE INDEPENDENT INDEX",
   "github": "GitHub ↗",
   "submit": "＋ 提交案例",
@@ -65,5 +65,14 @@
     "cost-economics": "成本与评测",
     "cyber": "网络安全",
     "safety-monitorability": "安全与边界"
-  }
+  },
+  "readingTitle": "从来源开始读案例",
+  "readingScope": "收录表示存在可追溯的公开来源，不表示本站独立重跑了作品，也不代表基准成绩、作品许可或 OpenAI 背书。演示与可体验作品分别标注；有成本记录才展示，缺失不等于免费。",
+  "readingUnreal": "虚幻求生世界：Matt Shumer 的原始演示",
+  "readingMac": "macOS 27 模拟器：目录所收录的 eChai 来源",
+  "readingManhattan": "曼哈顿虚幻世界：同一作者的原始展示",
+  "readingUse": "先按你想做的事搜索；「可直接体验」筛选带 demo 链接的条目，能否访问仍以原站当前状态为准。「有成本记录」只筛选已记录成本的案例，无法据此比较模型平均成本。",
+  "readingSubmit": "投稿请提供作者、原始来源、作品或演示地址、Astra 参与的证据和已知成本的条件；没有成本可留空。",
+  "readingIssue": "提交案例或纠错",
+  "readingModel": "GPT-6 Astra 官方模型资料"
 }

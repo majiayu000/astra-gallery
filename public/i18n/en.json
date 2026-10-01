@@ -2,8 +2,8 @@
   "lang": "en",
   "langLabel": "EN",
   "langToggle": "中文",
-  "documentTitle": "Astra Gallery · Cases & Practice",
-  "metaDescription": "Discover real Astra builds, creative process, and practice notes. Browse playable cases, original sources, and cost records.",
+  "documentTitle": "Astra Gallery · GPT-6 Astra builds and practice",
+  "metaDescription": "Public GPT-6 Astra builds with original sources, demo links and cost notes where known. Independently curated.",
   "edition": "THE INDEPENDENT INDEX",
   "github": "GitHub ↗",
   "submit": "＋ Submit a case",
@@ -65,5 +65,14 @@
     "cost-economics": "Cost & evals",
     "cyber": "Cybersecurity",
     "safety-monitorability": "Safety & boundaries"
-  }
+  },
+  "readingTitle": "Start with the original sources",
+  "readingScope": "Inclusion means there is a traceable public source. It does not establish an independent rerun, benchmark score, a licence to reuse the work, or OpenAI endorsement. Demos and live links are labelled separately; missing cost information does not mean free.",
+  "readingUnreal": "Unreal survival world: the original Matt Shumer demo",
+  "readingMac": "macOS 27 simulator: the eChai source in this catalogue",
+  "readingManhattan": "Manhattan Unreal world: the original author’s showcase",
+  "readingUse": "Search by the task you want to try. The live-link filter finds entries with a demo address; availability depends on the original site. The cost filter finds recorded cost notes, which cannot establish an average model cost.",
+  "readingSubmit": "To nominate a build, include the creator, original source, demo or live URL, evidence of Astra’s contribution, and the conditions behind any known cost. Leave unknown costs empty.",
+  "readingIssue": "Submit a build or correction",
+  "readingModel": "Official GPT-6 Astra model documentation"
 }
