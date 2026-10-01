@@ -1,6 +1,6 @@
 # Astra Gallery
 
-Narrow gallery of **verified** GPT-6 Astra builds: source links required, cost notes when known.
+An independent gallery of public **GPT-6 Astra** builds and practice notes: original source links required, cost notes when known.
 
 - [Online gallery](https://majiayu000.github.io/astra-gallery/)
 - Local preview: `public/`
@@ -15,7 +15,11 @@ cd public && python3 -m http.server 8765
 
 ## Submit
 
-Open a GitHub issue with: title, source URL, optional live URL, category, cost note.
+Open a [GitHub issue](https://github.com/majiayu000/astra-gallery/issues/new) with a title, original creator, source URL, optional live URL, category, evidence of Astra's contribution, and a cost note when known. Include the conditions behind a quoted cost (model, usage or number of attempts if the source provides them); leave unknown costs empty.
+
+Inclusion and the data's `verified` field refer to the catalogue's source review. They do not establish an independent rerun, benchmark score, permission to reuse the linked work, or endorsement by OpenAI. A video demonstration is not necessarily a runnable app. Public attention counts retain their recorded date and are not current popularity or search ranking data.
+
+The site's [reading notes](https://majiayu000.github.io/astra-gallery/#reading-notes) link three existing source records directly, including without JavaScript. Search by task, use the live-link filter to find entries with a demo address, and inspect the original source before drawing conclusions. Current model specifications belong to the [official GPT-6 Astra model documentation](https://developers.openai.com/api/docs/models/gpt-6-astra).
 
 ## Attention signals (optional)
 

@@ -118,15 +118,6 @@ function ensureLangToggle() {
   btn.id = 'lang-toggle';
   btn.type = 'button';
   links.insertBefore(btn, links.firstChild);
-  btn.addEventListener('click', async () => {
-    const next = lang === 'zh' ? 'en' : 'zh';
-    setLang(next);
-    i18n = await loadI18n(lang);
-    applyChrome();
-    categories();
-    featured();
-    render();
-  });
   return btn;
 }
 
@@ -135,6 +126,9 @@ function applyChrome() {
   document.title = t('documentTitle');
   const meta = document.querySelector('meta[name="description"]');
   if (meta) meta.setAttribute('content', t('metaDescription'));
+  document.querySelectorAll('[data-reading]').forEach((element) => {
+    element.textContent = t(element.dataset.reading);
+  });
 
   const edition = document.querySelector('.edition');
   if (edition) edition.textContent = t('edition');
@@ -231,7 +225,7 @@ function applyChrome() {
   if (loading && !entries.length) loading.textContent = t('loading');
 }
 
-function picture(e, container) {
+function picture(e, container, firstFeatured = false) {
   const src = e.media?.thumb || e.media?.poster;
   if (!src) {
     container.append(node('span', 'text-cover', '↗'));
@@ -240,7 +234,8 @@ function picture(e, container) {
   const img = node('img');
   img.src = url(src);
   img.alt = '';
-  img.loading = 'lazy';
+  img.loading = firstFeatured ? 'eager' : 'lazy';
+  if (firstFeatured) img.fetchPriority = 'high';
   img.addEventListener('error', () => {
     img.remove();
     container.append(node('span', 'image-error', t('imageError')));
@@ -285,7 +280,7 @@ function featured() {
     .forEach((e, i) => {
       const b = node('button', 'feature-card');
       const m = node('div', 'feature-media');
-      picture(e, m);
+      picture(e, m, i === 0);
       m.append(node('span', 'pick-index', 'PICK / 0' + (i + 1)));
       const copy = node('div', 'feature-copy');
       copy.append(node('h3', 'feature-title', field(e.title)), node('p', 'feature-desc', field(e.description)));
@@ -398,6 +393,15 @@ function openDetail(e) {
 }
 
 function wireEvents() {
+  $('#lang-toggle').onclick = async () => {
+    const next = lang === 'zh' ? 'en' : 'zh';
+    setLang(next);
+    i18n = await loadI18n(lang);
+    applyChrome();
+    categories();
+    featured();
+    render();
+  };
   $('#close-detail').onclick = () => $('#detail').close();
   $('#detail').addEventListener('close', () => {
     $('#detail').querySelectorAll('video').forEach((v) => v.pause());
