@@ -64,16 +64,13 @@ def attach(entries: list, by_id: dict, fetched_at: str) -> int:
         url = e.get("source_url") or ""
         mo = STATUS_RE.search(url)
         if not mo:
-            e.pop("attention", None)
             continue
         sid = mo.group(1)
         pm = by_id.get(sid)
         if not pm:
-            e.pop("attention", None)
             continue
         metrics = map_metrics(pm)
         if not metrics:
-            e.pop("attention", None)
             continue
         att = {
             "platform": "x",
