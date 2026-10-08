@@ -51,6 +51,7 @@
   "footerSnapshot": "公开来源 · 持续收录",
   "sigViews": "展示",
   "sigLikes": "赞",
+  "sigRecordedAt": "记录于 {date} UTC",
   "sigReposts": "转",
   "sigBookmarks": "书签",
   "sigReplies": "回复",
