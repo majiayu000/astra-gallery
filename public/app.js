@@ -79,6 +79,16 @@ function compactNum(n) {
   }
 }
 
+function snapshotDate(value) {
+  if (typeof value !== 'string' || !/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|[+-]\d{2}:\d{2})$/.test(value)) return null;
+  const timestamp = Date.parse(value);
+  if (!Number.isFinite(timestamp)) return null;
+  // Reject invalid calendar dates that Date.parse would normalize (e.g. February 30).
+  const day = value.slice(0, 10);
+  if (new Date(day + 'T00:00:00Z').toISOString().slice(0, 10) !== day) return null;
+  return new Date(timestamp).toISOString().split('T')[0];
+}
+
 function attentionLine(e) {
   const m = e.attention && e.attention.metrics;
   if (!m) return null;
@@ -88,6 +98,8 @@ function attentionLine(e) {
   if (views) parts.push(views + ' ' + t('sigViews'));
   if (likes) parts.push(likes + ' ' + t('sigLikes'));
   if (!parts.length) return null;
+  const date = snapshotDate(e.attention.fetched_at);
+  if (date) parts.push(t('sigRecordedAt', { date }));
   return parts.join(' · ');
 }
 
@@ -497,6 +509,7 @@ async function load() {
       authorFallback: 'Author',
       sigViews: 'views',
       sigLikes: 'likes',
+      sigRecordedAt: 'Recorded {date} UTC',
       filterLive: 'Playable',
       filterCost: 'Cost notes',
       reset: 'Reset',
