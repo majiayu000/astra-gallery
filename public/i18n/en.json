@@ -51,6 +51,7 @@
   "footerSnapshot": "Public sources · ongoing collection",
   "sigViews": "views",
   "sigLikes": "likes",
+  "sigRecordedAt": "Recorded {date} UTC",
   "sigReposts": "reposts",
   "sigBookmarks": "bookmarks",
   "sigReplies": "replies",

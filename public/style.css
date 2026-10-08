@@ -3,5 +3,6 @@
 .lang-toggle{background:transparent;border:1px solid #ffffff40;border-radius:4px;color:#fff;padding:7px 10px;font-size:11px;letter-spacing:.6px;font-weight:600}
 .lang-toggle:hover{background:#ffffff14;border-color:#ffffff80}
 .attention-line{font-size:11px;color:#59636e;margin:6px 0 0;opacity:.85}
+.resource .attention-line{white-space:normal}
 .feature-card:first-child .attention-line{color:#f0f6fc;opacity:.8}
 #detail-body .attention-line{margin:8px 0 0;font-size:12px}
