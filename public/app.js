@@ -405,14 +405,24 @@ function openDetail(e) {
 }
 
 function wireEvents() {
-  $('#lang-toggle').onclick = async () => {
+  const langToggle = $('#lang-toggle');
+  langToggle.onclick = async () => {
+    if (langToggle.disabled) return;
     const next = lang === 'zh' ? 'en' : 'zh';
-    setLang(next);
-    i18n = await loadI18n(lang);
-    applyChrome();
-    categories();
-    featured();
-    render();
+    langToggle.disabled = true;
+    try {
+      const nextI18n = await loadI18n(next);
+      setLang(next);
+      i18n = nextI18n;
+      applyChrome();
+      categories();
+      featured();
+      render();
+    } catch (error) {
+      console.error(error);
+    } finally {
+      langToggle.disabled = false;
+    }
   };
   $('#close-detail').onclick = () => $('#detail').close();
   $('#detail').addEventListener('close', () => {
