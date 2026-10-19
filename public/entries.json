@@ -1,6 +1,50 @@
 {
-  "updated": "2026-09-06",
+  "updated": "2026-10-20",
   "entries": [
+    {
+      "id": "within-fatasia",
+      "title": {
+        "en": "WITHIN — an explorable 3D gallery",
+        "zh": "WITHIN 入画 · 可漫游的三维画馆"
+      },
+      "description": {
+        "en": "A browser-based React/Three.js gallery with 18 worlds, guided chapters, free-camera and walking modes. The creator reports iterative GPT-6 Astra development at medium/high reasoning; Astra is not a runtime dependency.",
+        "zh": "基于 React、Three.js 的浏览器三维画馆，包含 18 个世界、章节导览、自由镜头与步行模式。作者自述以 GPT-6 Astra 中高推理档迭代开发，模型并非运行时依赖。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "source+creator-statement+live-url",
+      "source_url": "https://github.com/fatasia/within",
+      "live_url": "https://fatasia.github.io/within/",
+      "author": "fatasia",
+      "cost_note": null,
+      "why_included": {
+        "en": "Creator submission with public source, demo and walkthroughs. Source review, not an independent rerun or one-shot claim. Original code is MIT; third-party assets retain their own terms. Development cost was not recorded.",
+        "zh": "作者投稿，提供公开源码、在线演示和录屏。已核对来源，未独立复跑，不作为一次生成案例。原创代码采用 MIT，第三方素材保留各自条款；未记录开发成本。"
+      },
+      "verified": true
+    },
+    {
+      "id": "deepmonkey-studio-fatasia",
+      "title": {
+        "en": "DeepMonkey Studio — editable 2D/3D worlds",
+        "zh": "DeepMonkey Studio · 可编辑的二维与三维世界"
+      },
+      "description": {
+        "en": "An editor combining scenes, scripts, data and AI workflows. The creator estimates development-model usage as Astra 50%, GLM-5.3 40% and Opus 10%; these are self-reported usage shares, not measured code authorship. The public demo covers frontend features only.",
+        "zh": "结合场景、脚本、数据与 AI 工作流的编辑器。作者估计开发模型使用量为 Astra 50%、GLM-5.3 40%、Opus 10%，属于使用量自述，不是代码贡献占比。公开演示仅覆盖部分前端功能。"
+      },
+      "category": "3d-spatial",
+      "proof_type": "source+creator-statement+live-url",
+      "source_url": "https://github.com/fatasia/DeepMonkey-Studio",
+      "live_url": "https://fatasia.github.io/DeepMonkey-Studio/",
+      "author": "fatasia",
+      "cost_note": null,
+      "why_included": {
+        "en": "Mixed-model iterative development, not an Astra-only or one-shot result. The no-account demo saves edits locally; full server workflows need separate setup. Source reviewed, not independently rerun. Consult the upstream restricted license; cost was not recorded.",
+        "zh": "多模型迭代开发案例，不作为 Astra 独立或一次生成成果。免账号演示将编辑保存在本地，完整服务端流程需另外部署。已核对来源，未独立复跑；使用前查看上游带限制条款的许可证，成本未记录。"
+      },
+      "verified": true
+    },
     {
       "id": "macos-27-simulator",
       "title": {
